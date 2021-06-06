@@ -3,6 +3,11 @@ import json
 import os
 from bs4 import BeautifulSoup
 
+#proxies = {
+#        "http": "http://192.168.100.223:7890",
+#        "https": "http://192.168.100.223:7890",
+#}
+
 SearchPageURL = "https://w05.educanada.ca/index.aspx?action=programsearch-rechercheprogramme&lang=eng"
 ResultPageURL = 'https://w05.educanada.ca/index.aspx?action=programresult-resultatprogramme&lang=eng'
 
@@ -41,13 +46,13 @@ ProgCatedict = {
         '13':'13-Education',
         '14':'14-Engineering',
         '15':'15-Engineering Technology',
-        '23':'23-English Language and Litterature/Letters',
-        '19':'19-Family and Consumer Sciences/Human Sciences',
+        '23':'23-English Language and Litterature-or-Letters',
+        '19':'19-Family and Consumer Sciences-or-Human Sciences',
         '16':'16-Foreign Languages, Literatures and Linguistics',
-        '55':'55-French (Canadian) Language and Literatures/Letters',
+        '55':'55-French (Canadian) Language and Literatures-or-Letters',
         '51':'51-Health Professions and related Clinical Sciences',
         '34':'34-Health-Related Knowledge and Skills',
-        '53':'53-High School/Secondary Diplomas and Certificate Programs',
+        '53':'53-High School-or-Secondary Diplomas and Certificate Programs',
         '54':'54-History',
         '35':'35-Interpersonal and Social Skills',
         '22':'22-Law, Legal Services and Legal Studies',
@@ -57,7 +62,7 @@ ProgCatedict = {
         '27':'27-Mathematics and Statistics',
         '47':'47-Mechanic and Repair Technology',
         '29':'29-Military Technologies',
-        '30':'30-Multi/Interdisciplinary Studies',
+        '30':'30-Multi-or-Interdisciplinary Studies',
         '03':'03-Natural Resources and Conservation',
         'NC':'NC-Not Codeable',
         '31':'31-Parks, Recreation, Leisure and Fitness Studies',
@@ -68,9 +73,9 @@ ProgCatedict = {
         '43':'43-Protective Services',
         '42':'42-Psychology',
         '44':'44-Public Administration and Services',
-        '41':'41-Sciences Technology/Technicians',
+        '41':'41-Sciences Technology-or-Technicians',
         '45':'45-Social Sciences',
-        '21':'21-Technology Education/Industrial Arts',
+        '21':'21-Technology Education-or-Industrial Arts',
         '39':'39-Theological Studies and Religious Vocations',
         '49':'49-Transportation and Materials Moving',
         '50':'50-Visual and Performing Arts'
@@ -141,6 +146,7 @@ class crawler:
     def crawling(self):
         try:
             self.SR_result = requests.get(SearchPageURL,headers=headers)
+            #self.SR_result = requests.get(SearchPageURL,headers=headers,proxies=proxies)
             # Raise exception if got 4xx or 5xx
             self.SR_result.raise_for_status()
             self.SR_cookies = self.SR_result.cookies
@@ -164,6 +170,7 @@ class crawler:
             }
 
             PP_results = requests.post(SearchPageURL, headers=headers, cookies=self.SR_cookies, data=self.queryData)
+            #PP_results = requests.post(SearchPageURL, headers=headers, cookies=self.SR_cookies, data=self.queryData,proxies=proxies)
             PP_soup = BeautifulSoup(PP_results.content,"html.parser")
 #           fieldset tag contains Ten programs info
             fieldset = PP_soup.fieldset
@@ -193,6 +200,7 @@ class crawler:
                 retry_times=4
                 while True:
                     PP_results = requests.post(ResultPageURL, headers=headers, cookies=self.SR_cookies, data=self.PP_queryData)
+                    #PP_results = requests.post(ResultPageURL, headers=headers, cookies=self.SR_cookies, data=self.PP_queryData,proxies=proxies)
                     retry_times=retry_times-1
                     if PP_results.status_code == 200:
                         break
@@ -210,11 +218,11 @@ class crawler:
             print(e)
 
 if __name__ == "__main__":
+    # Input, the list of keys in EduLevdescription
     Edu = [
-            "Doc"
             ]
+    # Input, the list of keys in ProgCatedict
     Cat = [
-            "14"
             ]
     for cat in Cat:
         for edu in Edu:

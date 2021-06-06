@@ -1,0 +1,22 @@
+[
+    {
+        "programId": "48402",
+        "provinceName": "Saskatchewan",
+        "cityName": "Tisdale",
+        "programName": "Food Service Cook",
+        "programURL": "https://www.cumberlandcollege.sk.ca/index.php?id=278",
+        "schoolName": "Cumberland Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "48403",
+        "provinceName": "Saskatchewan",
+        "cityName": "Tisdale",
+        "programName": "Food and Beverage Service",
+        "programURL": "https://www.cumberlandcollege.sk.ca/index.php?id=276",
+        "schoolName": "Cumberland Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "University - Doctorate"
+    }
+]

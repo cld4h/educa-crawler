@@ -1,0 +1,42 @@
+[
+    {
+        "programId": "40833",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Freight Forwarding & Logistics",
+        "programURL": "http://www.stclaircollege.ca/",
+        "schoolName": "St. Clair College of Applied Arts and Technology",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "36773",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Maritime Management",
+        "programURL": "http://www.mun.ca/become/graduate/programs/MMM.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "30457",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Science in Business Administration with Transportation and Logistics Specialization",
+        "programURL": "http://www.sauder.ubc.ca/Programs/MSc_in_Business_Administration/Program_Overview_and_Specializations/Transportation_and_Logistics_Specialization",
+        "schoolName": "University of British Columbia",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6843",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Post-Baccalaureate Certificate in Aerospace Program Management",
+        "programURL": "https://umextended.ca/pbc-aerospace-program-management/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University - Master"
+    }
+]

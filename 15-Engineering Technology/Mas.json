@@ -1,0 +1,932 @@
+[
+    {
+        "programId": "8788",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Certificate in Process Engineering for Control Practitioners (100% online program)",
+        "programURL": "https://www.dal.ca/faculty/cce/programs/process-engineering-for-control-practitioners-certificate-progra.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8723",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Advanced Certificate in Process Automation (100% Online)",
+        "programURL": "https://www.dal.ca/faculty/cce/programs/advanced-certificate-in-process-automation.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "4367",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Civil Engineering - Water Resources Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Civil-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "43705",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Bachelor of Engineering Technology - Major in Petroleum",
+        "programURL": "http://www.cbu.ca/academics/school-science-and-technology/degrees-programs",
+        "schoolName": "Cape Breton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "45752",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Certificate in Applied Ergonomics",
+        "programURL": "http://www.ufred.ca/programs/school-of-occupational-health-and-safety/certificate-in-applied-ergonomics/",
+        "schoolName": "University of Fredericton",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8590",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Certificate in Artificial Intelligence and Intelligent Systems",
+        "programURL": "https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=81&chapterid=4596&topicgroupid=19607&loaduseredits=False",
+        "schoolName": "Dalhousie University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "26532",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Certificate in Environmental Impact Assessment",
+        "programURL": "https://www.dal.ca/faculty/science/programs/diploma-certificate-programs/environmental-impact-assessment-certificate.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8877",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Certificate in Process Instrumentation and Control (100% online)",
+        "programURL": "https://www.dal.ca/faculty/cce/programs/process-instrumentation-and-control/process-instrumentation-and-control-certificate-program.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "28232",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Certificate of Completion in Electric Power Engineering (non-degree)",
+        "programURL": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/electric-power-engineering-gdip-waterloo",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8635",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Electrical and Electronic Circuits Certificate Program (100% online)",
+        "programURL": "https://www.dal.ca/faculty/cce/programs/electrical-and-electronic-circuits-certificate-program.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "50599",
+        "provinceName": "Quebec",
+        "cityName": "Westmount",
+        "programName": "Electronics Engineering Technology - Telecommunications",
+        "programURL": "https://www.dawsoncollege.qc.ca/electronics-engineering-technology/telecommunications-course-list/",
+        "schoolName": "Dawson College",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "4118",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Engineering Science (Master of Applied Science)",
+        "programURL": "http://www.sfu.ca/students/calendar/2018/summer/programs/engineering-science/master-of-applied-science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48110",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Graduate Diploma (GDip) in Design Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-mechanical-and-mechatronics-engineering/graduate-diploma-gdip-design-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51131",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Graduate Diploma (GDip) in Software Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/archive-winter-2020/engineering/department-electrical-and-computer-engineering/graduate-diploma-gdip-software-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "28240",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Graduate Diploma in Design Engineering - Co-operative Program (GDip)",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-mechanical-and-mechatronics-engineering/graduate-diploma-gdip-design-engineering-co-operative-program#program_information",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "28280",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Graduate Diploma in Electric Power Engineering (GDip)",
+        "programURL": "https://uwaterloo.ca/electrical-computer-engineering/graduate-diploma-electric-power-engineering-gdip",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "28226",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Graduate Diploma in Electric Power Engineering (direct entry)",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-electrical-and-computer-engineering/graduate-diploma-gdip-electric-power-engineering-direct-entry",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "45681",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Graduate Diploma in Nuclear Design Engineering",
+        "programURL": "https://ontariotechu.ca/programs/energy-systems-and-nuclear-science/nuclear-design-engineering-graduate-diploma.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "33912",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Master of Applied Science in Automotive Engineering",
+        "programURL": "https://uoit.ca/programs/engineering-and-applied-science/automotive-engineering-masters-program.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "33879",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Building Science",
+        "programURL": "http://www.ryerson.ca/graduate/buildingscience/",
+        "schoolName": "Ryerson University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52677",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Building Science, Accelerated Pathway Plan",
+        "programURL": "https://www.ryerson.ca/engineering-architectural-science/programs/undergraduate/accelerated-masc-pathway/",
+        "schoolName": "Ryerson University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40874",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Chemical Engineering - Nanotechnology",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-chemical-engineering/master-applied-science-masc-chemical-engineering-nanotechnology",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "46034",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Chemical Engineering - Water",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-chemical-engineering/master-applied-science-masc-chemical-engineering-water",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48049",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Civil Engineering - Environmental and Water Resource Engineering Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-civil-and-environmental-engineering/master-applied-science-masc-civil-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48051",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Civil Engineering - Structures, Mechanics and Construction Engineering Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-civil-and-environmental-engineering/master-applied-science-masc-civil-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "24000",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Electrical and Computer Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/electrical-computer-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35567",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Master of Applied Science in Electrical and Computer Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/electrical-and-computer-engineering-masters-program.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "4412",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Electrical and Computer Engineering (14 areas of research)",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-electrical-and-computer-engineering/master-applied-science-masc-electrical-and-computer-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40927",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Electrical and Computer Engineering - Nanotechnology",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-electrical-and-computer-engineering/master-applied-science-masc-electrical-and-computer-engineering-nanotechnology",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40928",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Electrical and Computer Engineering - Quantum Information",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-electrical-and-computer-engineering/master-applied-science-masc-electrical-and-computer-engineering-quantum-information",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52683",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Electrical and Computer Engineering, Accelerated Pathway Plan",
+        "programURL": "https://www.ryerson.ca/engineering-architectural-science/programs/undergraduate/accelerated-masc-pathway/",
+        "schoolName": "Ryerson University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52684",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Environmental Applied Science and Management, Accelerated Pathway Plan",
+        "programURL": "https://www.ryerson.ca/engineering-architectural-science/programs/undergraduate/accelerated-masc-pathway/",
+        "schoolName": "Ryerson University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "25849",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Applied Science in Human-Computer Interaction",
+        "programURL": "http://graduate.carleton.ca/programs/human-computer-interaction-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "33919",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Master of Applied Science in Mechanical Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/mechanical-engineering-masters-program.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "4411",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Mechanical Engineering and Mechatronics Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-mechanical-and-mechatronics-engineering/master-applied-science-masc-mechanical-and-mechatronics-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52685",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Mechanical and Industrial Engineering, Accelerated Pathway Plan",
+        "programURL": "https://www.ryerson.ca/engineering-architectural-science/programs/undergraduate/accelerated-masc-pathway/",
+        "schoolName": "Ryerson University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40946",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Mechanical and Mechatronics Engineering - Nanotechnology",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-mechanical-and-mechatronics-engineering/master-applied-science-masc-mechanical-and-mechatronics-engineering-nanotechnology",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "36523",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Applied Science in Sustainable Energy",
+        "programURL": "http://graduate.carleton.ca/programs/sustainable-energy-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "41009",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Systems Design Engineering (8 areas of research)",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-systems-design-engineering/master-applied-science-masc-systems-design-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "41015",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Systems Design Engineering - Nanotechnology",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-systems-design-engineering/master-applied-science-masc-systems-design-engineering-nanotechnology",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35320",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Applied Science in Technology Innovation Management",
+        "programURL": "http://graduate.carleton.ca/programs/technology-innovation-management-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "50195",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Applied Sciences in Technology Management",
+        "programURL": "https://www.mi.mun.ca//programsandcourses/programs/technologymanagementengineeringtechnologyandappliedscience/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "25847",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Arts in Human-Computer Interaction",
+        "programURL": "http://graduate.carleton.ca/programs/human-computer-interaction-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "18858",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Arts in Sustainable Energy",
+        "programURL": "http://graduate.carleton.ca/programs/sustainable-energy-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "28849",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Building Science",
+        "programURL": "https://www.ryerson.ca/graduate/programs/building-science/",
+        "schoolName": "Ryerson University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52757",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Data Science and Artificial Intelligence (MDSAI)",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/data-science-and-artificial-intelligence/master-data-science-and-artificial-intelligence-mdsai",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "30601",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Engineering Leadership in Dependable Software Systems",
+        "programURL": "http://apscpp.ubc.ca/programs/mel/dependable-software-systems/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "30446",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Engineering Leadership in Integrated Water Management",
+        "programURL": "http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,195,982,0",
+        "schoolName": "University of British Columbia",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48666",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Master of Engineering Management",
+        "programURL": "https://gradstudies.ontariotechu.ca/future_students/programs/masters_programs/engineering_management/index.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "19032",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Master of Engineering Management (MEM) (Joint program between the Faculty of Engineering and the Odette School of Business)",
+        "programURL": "http://www.uwindsor.ca/graduate/2014/engineering-management",
+        "schoolName": "University of Windsor",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48455",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering degree with a Graduate Diploma in Design (GDD)",
+        "programURL": "https://uwaterloo.ca/mechanical-mechatronics-engineering/future-graduate-students/strategic-design-engineering-product-development-and",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35564",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Master of Engineering in Automotive Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/automotive-engineering-masters-program.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40930",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Electrical and Computer Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-electrical-and-computer-engineering/master-engineering-meng-electrical-and-computer-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "24001",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Engineering in Electrical and Computer Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/electrical-computer-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35568",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Master of Engineering in Electrical and Computer Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/electrical-and-computer-engineering-masters-program.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21164",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Electrical and Computer Engineering - Artificial Intelligence and Machine Learning",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-electrical-and-computer-engineering/master-engineering-meng-electrical-and-computer-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48153",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Electrical and Computer Engineering - Nanoelectronic Circuits and Systems",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-electrical-and-computer-engineering/master-engineering-meng-electrical-and-computer-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51282",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Electrical and Computer Engineering - Nanoelectronic Devices and Materials",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-electrical-and-computer-engineering/master-engineering-meng-electrical-and-computer-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51272",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Electrical and Computer Engineering - Software",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-electrical-and-computer-engineering/master-engineering-meng-electrical-and-computer-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51226",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Electrical and Computer Engineering - Sustainable Energy",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-electrical-and-computer-engineering/master-engineering-meng-electrical-and-computer-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "22794",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Engineering in Engineering Systems and Computing",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/engg.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52643",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Engineering in Innovation and Entrepreneurship",
+        "programURL": "https://www.ryerson.ca/graduate/programs/engineering-innovation-entrepreneurship/",
+        "schoolName": "Ryerson University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "43951",
+        "provinceName": "British Columbia",
+        "cityName": "Prince George",
+        "programName": "Master of Engineering in Integrated Wood Design",
+        "programURL": "https://www.unbc.ca/graduate-engineering",
+        "schoolName": "University of Northern British Columbia",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52641",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Engineering in Mechanical and Industrial Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/mechanical-industrial-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "24304",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Mechanical and Mechatronics Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-mechanical-and-mechatronics-engineering/master-engineering-meng-mechanical-and-mechatronics-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51289",
+        "provinceName": "Ontario",
+        "cityName": "Breslau",
+        "programName": "Master of Engineering in Mechanical and Mechatronics Engineering - Green Energy Specialization",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-mechanical-and-mechatronics-engineering/master-engineering-meng-mechanical-and-mechatronics-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52725",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Mechanical and Mechatronics Engineering - Strategic Design for Engineering, Product Development and Advanced Manufacturing",
+        "programURL": "https://uwaterloo.ca/mechanical-mechatronics-engineering/future-graduate-students/strategic-design-engineering-product-development-and",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5131",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Engineering in Mining Engineering with option in Mineral Processing",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-mining-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5249",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Engineering in Mining Engineering with option in Mining Geotechnics",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-mining-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35387",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Engineering in Mining Engineering with option in Mining Sustainability and the Environment",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-mining-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6255",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Engineering in Sustainable Energy",
+        "programURL": "http://graduate.carleton.ca/programs/sustainable-energy-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "24305",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Systems Design Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-systems-design-engineering/master-engineering-meng-systems-design-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51286",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Systems Design Engineering - Artificial Intelligence and Machine Learning",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-systems-design-engineering/master-engineering-meng-systems-design-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51141",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Systems Design Engineering - Biomedical Systems",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-systems-design-engineering/master-engineering-meng-systems-design-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51244",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Systems Design Engineering - Human Factors",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-systems-design-engineering/master-engineering-meng-systems-design-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "28231",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Systems Design Engineering - Mechatronics and Physical Systems",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-systems-design-engineering/master-engineering-meng-systems-design-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "4421",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Systems Design Engineering - Vision, Image and Signal Processing",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-systems-design-engineering/master-engineering-meng-systems-design-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6161",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Engineering in Technology Innovation Management",
+        "programURL": "http://graduate.carleton.ca/programs/technology-innovation-management-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2533",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Engineering in Technology Management",
+        "programURL": "https://www.mi.mun.ca//programsandcourses/programs/technologymanagementengineeringtechnologyandappliedscience/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40957",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering with a Graduate Diploma in Fire Safety",
+        "programURL": "https://uwaterloo.ca/mechanical-mechatronics-engineering/current-graduate-students/master-engineering-meng-students/masters-engineering-graduate-diploma-fire-safety",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52726",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering with a Graduate Diploma in Green Energy",
+        "programURL": "https://uwaterloo.ca/mechanical-mechatronics-engineering/master-engineering-graduate-diploma-green-energy",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "7648",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Master of Engineering/MBA in Electrical and Computer Engineering",
+        "programURL": "https://www.uvic.ca/engineering/ece/future/graduate/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "11325",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Master of Industrial Engineering (MASc)",
+        "programURL": "http://www.uwindsor.ca/engineering/mengprog",
+        "schoolName": "University of Windsor",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "36524",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Infrastructure Protection and International Security",
+        "programURL": "https://graduate.carleton.ca/cu-programs/infrastructure-protection-international-security-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52507",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Science in Computer Science - Artificial Intelligence Field",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/cis-msc.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52651",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Science in Electrical and Computer Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/electrical-computer-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52642",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Science in Mechanical and Industrial Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/mechanical-industrial-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "33914",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Master of Science in Modelling and Computational Science",
+        "programURL": "https://gradstudies.ontariotechu.ca/future_students/programs/masters_programs/modelling_and_computationalscience/index.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5280",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Software Systems",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-leadership-dependable-software-systems",
+        "schoolName": "University of British Columbia",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "49939",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Science & Technology Commercialization (Graduate Certificate)",
+        "programURL": "http://www.sfu.ca/science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40355",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Technology, Entrepreneurship and Innovation (M.T.E.I.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/technology-entrepreneurship-and-innovation",
+        "schoolName": "McMaster University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "44643",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Water and Wastewater Technology Diploma",
+        "programURL": "http://www.tru.ca/programs/catalogue/water-and-wastewater-technology-diploma.html",
+        "schoolName": "Thompson Rivers University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "44645",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Water and Wastewater Utilities Certificate",
+        "programURL": "http://www.tru.ca/programs/catalogue/water-and-wastewater-utilities.html",
+        "schoolName": "Thompson Rivers University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University - Master"
+    }
+]

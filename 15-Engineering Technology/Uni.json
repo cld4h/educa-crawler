@@ -1,0 +1,822 @@
+[
+    {
+        "programId": "43573",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Bachelor of Engineering Technology - Major in Chemical",
+        "programURL": "https://www.cbu.ca/academic-programs/program/chemical/",
+        "schoolName": "Cape Breton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50177",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Diploma of Technology in Underwater Vehicles",
+        "programURL": "https://www.mi.mun.ca/programsandcourses/programs/underwatervehicles/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20384",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Aircraft Structures Technician",
+        "programURL": "https://www.ufv.ca/aerospace/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13171",
+        "provinceName": "British Columbia",
+        "cityName": "Chilliwack",
+        "programName": "Architectural Drafting Technician Certificate",
+        "programURL": "https://www.ufv.ca/drafting/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13040",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Architectural and Engineering Technology Diploma",
+        "programURL": "http://www.tru.ca/programs/catalogue/architectural-and-engineering-technology.html",
+        "schoolName": "Thompson Rivers University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40371",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Automation Engineering Technology Co-op (B.Tech.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18458&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "45743",
+        "provinceName": "British Columbia",
+        "cityName": "Chilliwack",
+        "programName": "Automation and Robotics Technician",
+        "programURL": "https://www.ufv.ca/automation/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40366",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Automotive and Vehicle Engineering Technology Co-op (B.Tech.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18455&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40365",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "B.Tech. 1 (B. Tech)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18456&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40775",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science and Bachelor of Software Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/group/ENG-BASc-and-BSE-Specific-Degree-Requirements",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28168",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Civil Engineering - Engineering Mechanics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Civil-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4501",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Civil Engineering - Structural Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Civil-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28169",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Civil Engineering - Transportation Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Civil-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28257",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Management Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Management-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4499",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Mechatronics Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Mechatronics-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28161",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Nanotechnology Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Nanotechnology-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28223",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Software Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4371",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Systems Design Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Systems-Design-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33032",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Automation and Robotics (Honours) (Co-op)",
+        "programURL": "https://www.algonquincollege.com/sat/program/bachelor-of-automation-and-robotics/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51259",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Computer Science - Digital Hardware Specialization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Computer-Sci-Digital-Hardware-Spec",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51261",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Computer Science - Software Engineering Specialization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Computer-Sci-Software-Engineering-Spec",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48659",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Engineering (Honours) in Automotive Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/automotive-engineering-automotive-engineering-and-management.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33923",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Engineering (Honours) in Electrical Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/electrical-engineering-electrical-engineering-and-management.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "37514",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Engineering (Honours) in Energy Systems Engineering",
+        "programURL": "https://nuclear.ontariotechu.ca/undergraduate/programs/bachelor-engineering-honours-energy-systems-engineering/",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33920",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Engineering (Honours) in Mechatronics Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/mechatronics-engineering.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33915",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Engineering (Honours) in Software Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/software-engineering-software-engineering-and-management.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52819",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Bachelor of Engineering - Mechatronics",
+        "programURL": "https://www.saultcollege.ca/programs/engineering-technology/bachelor-engineering-mechatronics",
+        "schoolName": "Sault College of Applied Arts and Technology",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43703",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Bachelor of Engineering Technology",
+        "programURL": "https://www.cbu.ca/academics/programs/bachelor-of-engineering-technology/",
+        "schoolName": "Cape Breton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43725",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Bachelor of Engineering Technology - 4-year Advanced Chemical",
+        "programURL": "https://www.cbu.ca/academic-programs/program/chemical/",
+        "schoolName": "Cape Breton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43676",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Bachelor of Engineering Technology - Major in Electronics and Controls",
+        "programURL": "https://www.cbu.ca/academics/programs/electronics-controls/",
+        "schoolName": "Cape Breton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43669",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Bachelor of Engineering Technology - Major in Environmental Studies",
+        "programURL": "https://www.cbu.ca/academic-programs/program/environmental-studies/",
+        "schoolName": "Cape Breton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43670",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Bachelor of Engineering Technology - Major in Manufacturing",
+        "programURL": "https://www.cbu.ca/academic-programs/program/manufacturing/",
+        "schoolName": "Cape Breton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43671",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Bachelor of Engineering Technology - Minor in Petroleum",
+        "programURL": "https://www.cbu.ca/academic-programs/program/petroleum/",
+        "schoolName": "Cape Breton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "25297",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Engineering and Management (Honours) in Automotive Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/automotive-engineering-automotive-engineering-and-management.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33916",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Engineering and Management (Honours) in Electrical Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/electrical-engineering-electrical-engineering-and-management.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "45677",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Engineering and Management (Honours) in Mechatronics Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/mechatronics-engineering.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6528",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Bachelor of Engineering in Engineering Systems and Computing",
+        "programURL": "https://www.uoguelph.ca/engineering/undergraduate/prospective/esc",
+        "schoolName": "University of Guelph",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6529",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Bachelor of Engineering in Environmental Engineering",
+        "programURL": "https://www.uoguelph.ca/engineering/undergraduate/prospective/environmental",
+        "schoolName": "University of Guelph",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26703",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Bachelor of Engineering in Mechanical Engineering",
+        "programURL": "https://www.uoguelph.ca/engineering/undergraduate/prospective/mechanical",
+        "schoolName": "University of Guelph",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "22007",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Bachelor of Engineering in Mechatronic Systems Engineering/ Bachelor of Law",
+        "programURL": "http://westerncalendar.uwo.ca/Modules.cfm?ModuleID=21287&SelectedCalendar=Live&ArchiveID=",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6526",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Bachelor of Engineering in Water Resources Engineering",
+        "programURL": "https://www.uoguelph.ca/engineering/undergraduate/prospective/water",
+        "schoolName": "University of Guelph",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6245",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Industrial Design",
+        "programURL": "http://admissions.carleton.ca/programs/industrial-design/",
+        "schoolName": "Carleton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38993",
+        "provinceName": "Manitoba",
+        "cityName": "Brandon",
+        "programName": "Bachelor of Science (Major in Geography \u2013 Environmental Science Concentration)",
+        "programURL": "https://www.brandonu.ca/geography/degree-streams/environmental/",
+        "schoolName": "Brandon University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "22640",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Bachelor of Science in Computer Science & Physics",
+        "programURL": "https://www.trentu.ca/futurestudents/degree/computing-systems-physics?target=undergraduate",
+        "schoolName": "Trent University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52375",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Bachelor of Science in Computer Science & Physics (Honours)",
+        "programURL": "https://www.trentu.ca/futurestudents/degree/computing-systems-physics?target=undergraduate",
+        "schoolName": "Trent University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34838",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Bachelor of Science in Computing Systems  (Honours) option Software Engineering",
+        "programURL": "https://www.trentu.ca/futurestudents/specialization/software-engineering?target=undergraduate",
+        "schoolName": "Trent University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27795",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Bachelor of Science in Engineering in Software Engineering",
+        "programURL": "http://www.uvic.ca/engineering/software/future-students/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "17224",
+        "provinceName": "Manitoba",
+        "cityName": "Brandon",
+        "programName": "Bachelor of Science in Geography - Environmental Technologies: GIS (2+2)",
+        "programURL": "https://www.brandonu.ca/geography/degree-streams/",
+        "schoolName": "Brandon University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "36951",
+        "provinceName": "Alberta",
+        "cityName": "Lethbridge",
+        "programName": "Bachelor of Science in Remote Sensing",
+        "programURL": "http://www.uleth.ca/artsci/remote-sensing/programs",
+        "schoolName": "University of Lethbridge",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "29112",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Bachelor of Technology",
+        "programURL": "http://www.tru.ca/programs/catalogue/bachelor-of-technology.html",
+        "schoolName": "Thompson Rivers University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51892",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Technology (BTech) in Sustainable Energy Systems",
+        "programURL": "https://ontariotechu.ca/programs/energy-systems-and-nuclear-science/sustainable-energy-systems.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51893",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Technology (BTech) in Sustainable Energy Systems - Bridge",
+        "programURL": "https://ontariotechu.ca/programs/energy-systems-and-nuclear-science/sustainable-energy-systems---bridge.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13569",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Bachelor of Technology Degree",
+        "programURL": "www.tru.ca/distance/programs/technology/bachelor-of-technology.html",
+        "schoolName": "Thompson Rivers University - Open Learning",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27729",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Bachelor of Technology Partnership: Combined Degree/Diploma Program",
+        "programURL": "http://www.mohawkcollege.ca/index.php/programs/technology/bachelor-of-technology-partnership-combined-degreediploma-program",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27731",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Bachelor of Technology Partnership: Degree Completion Program",
+        "programURL": "https://www.mohawkcollege.ca/programs/graduate-studies/bachelor-of-technology-partnership-degree-completion-program",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "12750",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Technology in Electronics",
+        "programURL": "https://www.bcit.ca/study/programs/8900btech",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "12746",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Technology in Environmental Engineering",
+        "programURL": "https://www.bcit.ca/study/programs/8120btech",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26052",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Technology in Geomatics",
+        "programURL": "https://www.bcit.ca/study/programs/8640bsc",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50191",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Technology in Marine Environmental Technology",
+        "programURL": "https://www.mi.mun.ca/programsandcourses/programs/marineenvironmentaltechnology/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33116",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Technology in Technology Management",
+        "programURL": "http://www.nait.ca/program_home_78657.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50178",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Technology in Underwater Vehicles",
+        "programURL": "https://www.mi.mun.ca/programsandcourses/programs/underwatervehicles/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40368",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Civil Engineering Infrastructure Technology Co-op (B.Tech.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18459&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20135",
+        "provinceName": "British Columbia",
+        "cityName": "Cloverdale",
+        "programName": "Computer Aided Design & Drafting: Diploma",
+        "programURL": "https://www.kpu.ca/calendar/2018-19/science-hort/cadd/cadd-dip.html",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41575",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Diploma in Occupational Health and Safety Management",
+        "programURL": "http://postdegree.uwo.ca/Programs/ohsm/index.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27666",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Diploma of Technology in Marine Environmental Technology",
+        "programURL": "https://www.mi.mun.ca/programsandcourses/programs/marineenvironmentaltechnology/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41497",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Engineering (with optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/358/engineering-optional-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27907",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Engineering Science in Green Process Engineering",
+        "programURL": "https://www.eng.uwo.ca/undergraduate/programs/green-process.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41499",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Engineering Technology",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/359/engineering-technology",
+        "schoolName": "University of Windsor",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21158",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Applied Science and Bachelor of Software Engineering - Software Engineering Option",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40801",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Science in Materials and Nanosciences",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/SCI-Honours-Materials-and-Nanoscience1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21314",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Manufacturing Engineering Technology Co-op (B.Tech.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18462&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23947",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Computer Science in Human-Computer Interaction",
+        "programURL": "http://graduate.carleton.ca/programs/human-computer-interaction-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50626",
+        "provinceName": "Quebec",
+        "cityName": "Westmount",
+        "programName": "Mechanical Engineering Technology-Design Program",
+        "programURL": "https://www.dawsoncollege.qc.ca/mechanical-engineering-technology/",
+        "schoolName": "Dawson College",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41430",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Mechatronic Systems Engineering",
+        "programURL": "https://www.eng.uwo.ca/undergraduate/programs/mechatronic.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4208",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Mechatronic Systems Engineering and Business Double Degree Program Major (Bachelor of Applied Science and Bachelor of Business Administration)",
+        "programURL": "http://www.sfu.ca/students/calendar/2018/summer/programs/mechatronic-systems-engineering-and-business-double-degree-program/major/bachelor-of-applied-science-and-bachelor-of-business-administration.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51277",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Minor in Artificial Intelligence (Engineering)",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Artificial-Intelligence-Engineering-Option",
+        "schoolName": "University of Waterloo",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40370",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Power and Energy Engineering Technologies Co-op (B.Tech.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18461&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38464",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Robotics and Mechatronics",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/robotics-and-mechatronics",
+        "schoolName": "University of Toronto",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40362",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Software Engineering Technology Co-op (B.Tech.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18460&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21389",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Technology (Certificate)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18672&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40602",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Technology Leadership (Certificate)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18694&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13555",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Water Treatment Technology Diploma",
+        "programURL": "https://www.tru.ca/distance/programs/technology/water-treatment.html",
+        "schoolName": "Thompson Rivers University - Open Learning",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "University"
+    }
+]

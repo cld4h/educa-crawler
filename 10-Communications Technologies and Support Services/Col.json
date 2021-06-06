@@ -1,0 +1,1582 @@
+[
+    {
+        "programId": "43377",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "2D Animation & Digital Art",
+        "programURL": "https://digitalartschool.com/programs/2d-animation-digital-art",
+        "schoolName": "Centre for Arts And Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32123",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "2D Animation & Digital Art Diploma",
+        "programURL": "https://langara.ca/continuing-studies/programs-and-courses/programs/2d-animation/index.html",
+        "schoolName": "Langara College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34724",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "2D Animation & Illustration",
+        "programURL": "https://www.pixelblue.ca/2d-animation-illustration",
+        "schoolName": "Pixel Blue College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49194",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "2D Computer Animation Diploma",
+        "programURL": "https://www.vanas.ca/career-programs/2d-character-animation-diploma",
+        "schoolName": "Vancouver Animation School",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "35911",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "2D/3D Character Animation",
+        "programURL": "http://www.vanarts.com/programs/full-time/3d-character-animation",
+        "schoolName": "Vancouver Institute of Media Arts (Vanarts)",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15004",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "3D Animation",
+        "programURL": "http://www.senecacollege.ca/fulltime/DAN.html",
+        "schoolName": "Seneca College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38194",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "3D Animation & FX - E-Learning",
+        "programURL": "https://pacificdesignacademy.com/3d-animation/",
+        "schoolName": "Pacific Design Academy",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "46352",
+        "provinceName": "British Columbia",
+        "cityName": "New Westminster",
+        "programName": "3D Animation & VFX Production Diploma",
+        "programURL": "https://cg-masters.com/one-year-intensive-program/",
+        "schoolName": "CG Masters School of 3D Animation & VFX",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "27708",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "3D Animation & Visual Effects",
+        "programURL": "https://www.pixelblue.ca/3d-animation-visual-effects",
+        "schoolName": "Pixel Blue College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "43378",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "3D Animation - Game, Film & Visual Effects",
+        "programURL": "https://digitalartschool.com/programs/3d-animation-game-film-visual-effects",
+        "schoolName": "Centre for Arts And Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37884",
+        "provinceName": "Quebec",
+        "cityName": "Westmount",
+        "programName": "3D Animation and Computer Generated Imagery program",
+        "programURL": "https://www.dawsoncollege.qc.ca/3d/",
+        "schoolName": "Dawson College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15818",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "3D Animation for Game, Film & Visual Effects Diploma",
+        "programURL": "https://langara.ca/continuing-studies/programs-and-courses/programs/3d-animation/index.html",
+        "schoolName": "Langara College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "47713",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "3D Animation for Video Games",
+        "programURL": "http://www.windsorcareercollege.ca/3d.html",
+        "schoolName": "Windsor Career College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49192",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "3D Character Animation Diploma",
+        "programURL": "https://www.vanas.ca/career-programs/3d-character-animation-diploma",
+        "schoolName": "Vancouver Animation School",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "50898",
+        "provinceName": "British Columbia",
+        "cityName": "New Westminster",
+        "programName": "3D Foundations Certificate",
+        "programURL": "https://cg-masters.com/3d-foundations-program/",
+        "schoolName": "CG Masters School of 3D Animation & VFX",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "43963",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "3D Modeling Animation Art and Design",
+        "programURL": "http://www.vcad.ca/programs/3d-modeling-animation-art-and-design/",
+        "schoolName": "Visual College of Art and Design",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "23072",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "3D Modelling and Visual Effects Production",
+        "programURL": "https://mediastudies.humber.ca/programs/3d.html",
+        "schoolName": "Humber College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "47869",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "3DS Max Modelling and Design",
+        "programURL": "https://mediastudies.humber.ca/programs/3ds-max.html",
+        "schoolName": "Humber College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "45156",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "3d Animation for Game, Film, & Visual Effects",
+        "programURL": "https://maritimebusinesscollege.ca/2d-3d-animation/",
+        "schoolName": "Maritime Business College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "45156",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "3d Animation for Game, Film, & Visual Effects",
+        "programURL": "https://maritimebusinesscollege.ca/2d-3d-animation/",
+        "schoolName": "Maritime Business College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32207",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Accessible Media Production",
+        "programURL": "https://www.mohawkcollege.ca/programs/graduate-studies/accessible-media-production-390",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "51938",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Acoustic Principles For Recording Engineers (Online)",
+        "programURL": "https://metalworksinstitute.com/course/acoustic-principles-for-recording-engineers/",
+        "schoolName": "Metalworks Institute of Sound & Music Production",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49198",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Advanced 3D Modeling Diploma",
+        "programURL": "https://www.vanas.ca/career-programs/advanced-3d-modeling-diploma",
+        "schoolName": "Vancouver Animation School",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "35643",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Advanced Audio Engineering Diploma",
+        "programURL": "http://nimbusrecording.com/programs/advanced-audio-engineering-diploma/",
+        "schoolName": "Nimbus School of Recording & Media",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "45890",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Advanced Audio Engineering and Music Production Diploma",
+        "programURL": "http://nimbusrecording.com/programs/advanced-audio-engineering-music-production-diploma/",
+        "schoolName": "Nimbus School of Recording & Media",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "31216",
+        "provinceName": "Winnipeg",
+        "cityName": "Science and Technology",
+        "programName": "Advanced Diploma in  3D Computer Graphics",
+        "programURL": "https://catalogue.rrc.ca/Programs/WPG/Fulltime/3DCOF-AD",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17108",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Advanced Diploma in Animation",
+        "programURL": "http://www.algonquincollege.com/mediaanddesign/program/animation/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17515",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Advanced Diploma in Interactive Media Development - 3D Visualization",
+        "programURL": "https://www.fanshawec.ca/programs/vis1-interactive-media-development-3d-visualization/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "36918",
+        "provinceName": "British Columbia",
+        "cityName": "North Vancouver",
+        "programName": "Advanced Recording Artist Program",
+        "programURL": "https://canada.sae.edu/programs/audio/audio-engineering-and-music-production/",
+        "schoolName": "SAE Institute",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49110",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Advanced Visual Effects Compositing",
+        "programURL": "https://lostboys-studios.com/advanced-visual-effects-compositing/",
+        "schoolName": "Lost Boys Studios - School of Visual Effects",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49193",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Animated Short Films Diploma",
+        "programURL": "https://www.vanas.ca/career-programs/animated-short-films-diploma",
+        "schoolName": "Vancouver Animation School",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "26695",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Animation",
+        "programURL": "http://www.senecacollege.ca/programs/fulltime/ANI.html",
+        "schoolName": "Seneca College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "47813",
+        "provinceName": "Ontario",
+        "cityName": "Kitchener",
+        "programName": "Animation",
+        "programURL": "http://www.conestogac.on.ca/fulltime/animation",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34677",
+        "provinceName": "Ontario",
+        "cityName": "Sudbury",
+        "programName": "Animation (ANPG)",
+        "programURL": "http://catalog.cambriancollege.ca/anpg/",
+        "schoolName": "Cambrian College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15214",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Animation - 2D/3D",
+        "programURL": "http://www.stclaircollege.ca/programs/postsec/animation/",
+        "schoolName": "St. Clair College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39650",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Animation - 3D",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/animation-3d/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "46226",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Animation - 3D",
+        "programURL": "https://mediaarts.humber.ca/programs/animation-3d.html",
+        "schoolName": "Humber College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "27328",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Animation Art & Design",
+        "programURL": "http://www.lasallecollegevancouver.com/vfx-game-design/animation-art-diploma",
+        "schoolName": "LaSalle College Vancouver",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "43943",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Animation Program - Animation 3D",
+        "programURL": "http://vca.ca/index.php?Page=Animation%203D",
+        "schoolName": "Victoria College of Art",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18229",
+        "provinceName": "New Brunswick",
+        "cityName": "Miramichi",
+        "programName": "Animation and Graphics",
+        "programURL": "http://www.nbcc.ca/programs-courses/program-details?baseCurriculumId=005678d6-28d5-4959-ad87-b7525abee46a",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "26032",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Animation \u2013 Digital Production",
+        "programURL": "https://durhamcollege.ca/programs/animation-digital",
+        "schoolName": "Durham College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "26463",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Art of DSLR Video Camera and Lighting Certificate",
+        "programURL": "https://langara.ca/continuing-studies/programs-and-courses/programs/art-of-camera-lighting/index.html",
+        "schoolName": "Langara College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "46267",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Associate Certificate in Video Production and Editing",
+        "programURL": "https://www.bcit.ca/study/programs/6120acert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "46267",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Associate Certificate in Video Production and Editing",
+        "programURL": "https://www.bcit.ca/study/programs/6120acert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44234",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Audio Production & Engineering Diploma",
+        "programURL": "https://metalworksinstitute.com/campus-program/audio-production-engineering-diploma/",
+        "schoolName": "Metalworks Institute of Sound & Music Production",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37845",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Broadcasting & Online Media",
+        "programURL": "https://www.vanarts.com/programs/broadcasting-web-radio-tv/",
+        "schoolName": "Vancouver Institute of Media Arts (Vanarts)",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "12888",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Certificate in AutoCAD Graphics",
+        "programURL": "http://camosun.ca/learn/programs/autocad-graphics/",
+        "schoolName": "Camosun College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38585",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Certificate in Concentration in Communication",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/calendar/calendar.aspx?page=ConcentrationinCommunication",
+        "schoolName": "Okanagan College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38585",
+        "provinceName": "British Columbia",
+        "cityName": "Penticton",
+        "programName": "Certificate in Concentration in Communication",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/calendar/calendar.aspx?page=ConcentrationinCommunication",
+        "schoolName": "Okanagan College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38585",
+        "provinceName": "British Columbia",
+        "cityName": "Salmon Arm",
+        "programName": "Certificate in Concentration in Communication",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/calendar/calendar.aspx?page=ConcentrationinCommunication",
+        "schoolName": "Okanagan College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38585",
+        "provinceName": "British Columbia",
+        "cityName": "Vernon",
+        "programName": "Certificate in Concentration in Communication",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/calendar/calendar.aspx?page=ConcentrationinCommunication",
+        "schoolName": "Okanagan College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "25890",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Certificate in Digital Music Production (Part-Time)",
+        "programURL": "https://www.algonquincollege.com/ccol/program/digital-music-production/part-time-on-campus/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34668",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Certificate in Engineering Graphics Technician, Internship Designation",
+        "programURL": "http://camosun.ca/learn/programs/engineering-graphics-technician/",
+        "schoolName": "Camosun College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "33008",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Certificate in General Arts and Science - One Year - Pre-Animation and Illustration",
+        "programURL": "https://www.algonquincollege.com/generalarts/program/pre-animation-and-illustration/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "20477",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Certificate in Technology Support Professional (TSP)",
+        "programURL": "https://www.bcit.ca/study/programs/6985ipcert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "40172",
+        "provinceName": "British Columbia",
+        "cityName": "Courtenay",
+        "programName": "Communication Design Diploma",
+        "programURL": "https://www.nic.bc.ca/programs-courses/digital-design-development/digital-design-development-programs/communication-design-diploma/",
+        "schoolName": "North Island College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44306",
+        "provinceName": "Ontario",
+        "cityName": "Stoney Creek",
+        "programName": "Communications Dispatcher",
+        "programURL": "https://ocht.ca/?u_course=chemical-engineering-course",
+        "schoolName": "Ontario College of Health & Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34389",
+        "provinceName": "Manitoba",
+        "cityName": "Brandon",
+        "programName": "Communications Engineering Technology",
+        "programURL": "https://assiniboine.net/programs/communications-engineering-technology",
+        "schoolName": "Assiniboine Community College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "50500",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Communications Media Practices",
+        "programURL": "https://www.mohawkcollege.ca/programs/graduate-studies/communications-media-practices-266",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "47891",
+        "provinceName": "Ontario",
+        "cityName": "Barrie",
+        "programName": "Communications and Professional Writing",
+        "programURL": "http://www.georgiancollege.ca/academics/full-time-programs/communications-and-professional-writing-prow/",
+        "schoolName": "Georgian College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15067",
+        "provinceName": "Ontario",
+        "cityName": "Oakville",
+        "programName": "Computer Animation",
+        "programURL": "https://academics.sheridancollege.ca/programs/computer-animation",
+        "schoolName": "Sheridan Institute of Technology and Advanced Learning",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32577",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Computer Systems Technology - Networking",
+        "programURL": "http://www.stclaircollege.ca/programs/postsec/comp_technology/",
+        "schoolName": "St. Clair College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44732",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Computer-Aided Design and Drafting Specialist",
+        "programURL": "http://www.career.college/programs-and-courses/computer-aided-design-and-drafting-specialist/",
+        "schoolName": "Vancouver Career College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44732",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Computer-Aided Design and Drafting Specialist",
+        "programURL": "http://www.career.college/programs-and-courses/computer-aided-design-and-drafting-specialist/",
+        "schoolName": "Vancouver Career College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44732",
+        "provinceName": "British Columbia",
+        "cityName": "Chilliwack",
+        "programName": "Computer-Aided Design and Drafting Specialist",
+        "programURL": "http://www.career.college/programs-and-courses/computer-aided-design-and-drafting-specialist/",
+        "schoolName": "Vancouver Career College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44732",
+        "provinceName": "British Columbia",
+        "cityName": "Coquitlam",
+        "programName": "Computer-Aided Design and Drafting Specialist",
+        "programURL": "http://www.career.college/programs-and-courses/computer-aided-design-and-drafting-specialist/",
+        "schoolName": "Vancouver Career College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44732",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Computer-Aided Design and Drafting Specialist",
+        "programURL": "http://www.career.college/programs-and-courses/computer-aided-design-and-drafting-specialist/",
+        "schoolName": "Vancouver Career College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44732",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Computer-Aided Design and Drafting Specialist",
+        "programURL": "http://www.career.college/programs-and-courses/computer-aided-design-and-drafting-specialist/",
+        "schoolName": "Vancouver Career College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44732",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Computer-Aided Design and Drafting Specialist",
+        "programURL": "http://www.career.college/programs-and-courses/computer-aided-design-and-drafting-specialist/",
+        "schoolName": "Vancouver Career College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "24677",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "DSLR Video Production Certificate of Achievement",
+        "programURL": "https://coned.sait.ca/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1029113&_ga=2.256260939.113420609.1601901412-1803789385.1601579104",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39355",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Digital Audio Certificate of Achievement",
+        "programURL": "https://coned.sait.ca/",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "27709",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Digital Audio Production",
+        "programURL": "https://www.pixelblue.ca/digital-audio-production",
+        "schoolName": "Pixel Blue College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32434",
+        "provinceName": "Ontario",
+        "cityName": "Oakville",
+        "programName": "Digital Creature Animation \u2013 Technical Direction",
+        "programURL": "https://academics.sheridancollege.ca/programs/digital-creature-animation-technical-direction",
+        "schoolName": "Sheridan Institute of Technology and Advanced Learning",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32129",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Digital Film Production Certificate",
+        "programURL": "https://langara.ca/continuing-studies/programs-and-courses/programs/digital-film-production/index.html",
+        "schoolName": "Langara College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32556",
+        "provinceName": "Ontario",
+        "cityName": "Kingston",
+        "programName": "Digital Marketing Communications (Graduate Certificate)",
+        "programURL": "https://www.stlawrencecollege.ca/programs-and-courses/full-time/programs/a_m/interactive-marketing-communications/kingston/",
+        "schoolName": "St. Lawrence College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49137",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Digital Media Studies Advanced Diploma",
+        "programURL": "https://www.plvan.com/current-courses/faculty-of-technology/digital-media-studies/",
+        "schoolName": "Pacific Link College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49138",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Digital Media Studies Diploma",
+        "programURL": "https://www.plvan.com/current-courses/faculty-of-digital-media/digital-media-studies/",
+        "schoolName": "Pacific Link College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "25205",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Digital Music Production Certificate",
+        "programURL": "https://langara.ca/continuing-studies/programs-and-courses/programs/digital-music-production/index.html",
+        "schoolName": "Langara College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "46277",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Diploma in 3D Modeling, Art and Animation",
+        "programURL": "https://www.bcit.ca/study/programs/6540dipma",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "31800",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Diploma in Animation",
+        "programURL": "https://www.fanshawec.ca/programs/ani1-animation-20202021/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "27367",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Stephenville",
+        "programName": "Diploma in Digital Animation",
+        "programURL": "https://www.cna.nl.ca/program/digital-animation",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38884",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Diploma in Digital Design and Development",
+        "programURL": "https://www.bcit.ca/study/programs/6405dipma",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49639",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Stephenville",
+        "programName": "Diploma in Digital Filmmaking",
+        "programURL": "https://www.cna.nl.ca/program/digital-filmmaking",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "33001",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Diploma in Game Development",
+        "programURL": "https://www.algonquincollege.com/mediaanddesign/program/game-development/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "25887",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Diploma in Interactive Media Design (Co-op)",
+        "programURL": "https://www.algonquincollege.com/mediaanddesign/program/interactive-media-design/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38736",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Diploma in Music Recording Arts",
+        "programURL": "https://www.fanshawec.ca/programs/mra-music-recording-arts/current",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49646",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Diploma in Sound Recording & Production",
+        "programURL": "https://www.cna.nl.ca/program/sound-recording-and-production",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "51942",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Ear Training & Critical Listening for Recording Engineers I (Online)",
+        "programURL": "https://metalworksinstitute.com/course/ear-training-critical-listening-for-recording-engineers-i/",
+        "schoolName": "Metalworks Institute of Sound & Music Production",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49197",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Effects Animation Diploma",
+        "programURL": "https://www.vanas.ca/career-programs/effects-animation-diploma",
+        "schoolName": "Vancouver Animation School",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "43382",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Electronic Music Production",
+        "programURL": "https://digitalartschool.com/programs/electronic-music-production",
+        "schoolName": "Centre for Arts And Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39935",
+        "provinceName": "Ontario",
+        "cityName": "Sarnia",
+        "programName": "Emergency Communications",
+        "programURL": "https://www.lambtoncollege.ca/custom/LambtonApps/Programs/Part-Time.aspx?id=2147503780",
+        "schoolName": "Lambton College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "20041",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Emergency Communications and Response",
+        "programURL": "https://www.macewan.ca/wcm/SchoolsFaculties/HCS/Programs/EmergencyCommunicationsResponse/index.htm",
+        "schoolName": "Grant MacEwan University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30531",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Game - Art",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/game-art/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13969",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Game - Development",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/game-development/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37843",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Game Art & Design",
+        "programURL": "http://www.vanarts.com/programs/full-time/game-art-design",
+        "schoolName": "Vancouver Institute of Media Arts (Vanarts)",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32449",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Game Art and Animation",
+        "programURL": "http://www.senecacollege.ca/programs/fulltime/GAA.html",
+        "schoolName": "Seneca College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "43956",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Game Development and Design",
+        "programURL": "http://www.vcad.ca/programs/game-development-and-design/",
+        "schoolName": "Visual College of Art and Design",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30880",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Game \u2013 Art",
+        "programURL": "https://durhamcollege.ca/programs/game-art",
+        "schoolName": "Durham College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "41035",
+        "provinceName": "Ontario",
+        "cityName": "Cornwall",
+        "programName": "General Arts & Science Certificate - Technology Stream",
+        "programURL": "https://www.stlawrencecollege.ca/programs-and-courses/full-time/programs/a_m/general-arts-and-science-certificate-technology-stream/kingston/",
+        "schoolName": "St. Lawrence College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "41035",
+        "provinceName": "Ontario",
+        "cityName": "Kingston",
+        "programName": "General Arts & Science Certificate - Technology Stream",
+        "programURL": "https://www.stlawrencecollege.ca/programs-and-courses/full-time/programs/a_m/general-arts-and-science-certificate-technology-stream/kingston/",
+        "schoolName": "St. Lawrence College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37346",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Graduate Certificate in 3D Animation and Character Design",
+        "programURL": "https://www.fanshawec.ca/programs/anc1-3d-animation-and-character-design/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17397",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Graduate Certificate in Audio Post-Production",
+        "programURL": "https://www.fanshawec.ca/programs/apr1-audio-post-production/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17718",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Graduate Certificate in Game Development - Advanced Programming",
+        "programURL": "https://www.fanshawec.ca/programs/gdp1-game-development-advanced-programming/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17715",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Graduate Certificate in Visual Effects and Editing for Contemporary Media",
+        "programURL": "https://www.fanshawec.ca/programs/vee1-visual-effects-and-editing-contemporary-media/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "43391",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Graphic & Digital Design",
+        "programURL": "https://digitalartschool.com/programs/graphic-digital-design",
+        "schoolName": "Centre for Arts And Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19125",
+        "provinceName": "Saskatchewan",
+        "cityName": "Regina",
+        "programName": "Graphic Communications",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Graphic-Communications.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19072",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Graphic Communications",
+        "programURL": "http://www.nait.ca/program_home_78239.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "24691",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Graphic Communications and Print Technology",
+        "programURL": "https://www.sait.ca/programs-and-courses/diplomas/graphic-communications-and-print-technology-and-print-technology",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "47714",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Graphic Design",
+        "programURL": "http://www.windsorcareercollege.ca/graphic_design.html",
+        "schoolName": "Windsor Career College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "45898",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Graphic Design Technology",
+        "programURL": "http://www.reevescollege.ca/programs-and-courses/graphic-design-technology/",
+        "schoolName": "Reeves College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "31905",
+        "provinceName": "Quebec",
+        "cityName": "Montr\u00e9al",
+        "programName": "Graphic Design for the Web - Montreal",
+        "programURL": "http://www.herzing.ca/montreal/programs/graphic-design-for-the-web",
+        "schoolName": "Herzing College Canada",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37918",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Graphic Media Design",
+        "programURL": "http://pacificdesignacademy.com/graphic-media-design",
+        "schoolName": "Pacific Design Academy",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32451",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Independent Music Production",
+        "programURL": "http://www.senecacollege.ca/programs/fulltime/IMP.html",
+        "schoolName": "Seneca College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14101",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Interactive Media Development",
+        "programURL": "https://www.confederationcollege.ca/program/interactive-media-development-imd",
+        "schoolName": "Confederation College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37873",
+        "provinceName": "Ontario",
+        "cityName": "Brampton",
+        "programName": "Internet Communications Technology",
+        "programURL": "https://academics.sheridancollege.ca/programs/internet-communications-technology",
+        "schoolName": "Sheridan Institute of Technology and Advanced Learning",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37873",
+        "provinceName": "Ontario",
+        "cityName": "Oakville",
+        "programName": "Internet Communications Technology",
+        "programURL": "https://academics.sheridancollege.ca/programs/internet-communications-technology",
+        "schoolName": "Sheridan Institute of Technology and Advanced Learning",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "48868",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Live Sound Diploma",
+        "programURL": "https://metalworksinstitute.com/campus-program/live-sound-diploma/",
+        "schoolName": "Metalworks Institute of Sound & Music Production",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30506",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Live Sound and Recording Diploma",
+        "programURL": "http://nimbusrecording.com/programs/live-sound-recording-diploma/",
+        "schoolName": "Nimbus School of Recording & Media",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "45892",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Live Sound and Recording Fast-Track Certificate",
+        "programURL": "http://nimbusrecording.com/live-sound-recording-certificate/",
+        "schoolName": "Nimbus School of Recording & Media",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32473",
+        "provinceName": "Ontario",
+        "cityName": "Oakville",
+        "programName": "Media Fundamentals",
+        "programURL": "https://academics.sheridancollege.ca/programs/media-fundamentals",
+        "schoolName": "Sheridan Institute of Technology and Advanced Learning",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "42884",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Mobile App Developer Diploma",
+        "programURL": "https://www.abmcollege.com/courses/mobile-app-developer-diploma",
+        "schoolName": "ABM College of Health and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39500",
+        "provinceName": "Ontario",
+        "cityName": "Kitchener",
+        "programName": "Mobile Solutions Development (Optional Co-op)",
+        "programURL": "http://www.conestogac.on.ca/fulltime/mobile-solutions-development-optional-co-op",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39500",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Mobile Solutions Development (Optional Co-op)",
+        "programURL": "http://www.conestogac.on.ca/fulltime/mobile-solutions-development-optional-co-op",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "23809",
+        "provinceName": "Yukon",
+        "cityName": "Whitehorse",
+        "programName": "Multimedia Communication",
+        "programURL": "https://www.yukonu.ca/programs/multimedia-communication",
+        "schoolName": "Yukon University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44265",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Music Performance & Technology",
+        "programURL": "https://metalworksinstitute.com/campus-program/music-performance-technology/",
+        "schoolName": "Metalworks Institute of Sound & Music Production",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "47508",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Music Recording Artist",
+        "programURL": "https://digitalartschool.com/programs/music-recording-artist",
+        "schoolName": "Centre for Arts And Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34318",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Music and Recording Arts",
+        "programURL": "https://www.academycanada.com/faculty-of-creative-studies/music-and-recording-arts/",
+        "schoolName": "Academy Canada",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "31123",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Carbonear",
+        "programName": "Office Technology Enhancement",
+        "programURL": "http://keyin.ca/program/office-technology-enhancement/",
+        "schoolName": "Keyin College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "31123",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Gander",
+        "programName": "Office Technology Enhancement",
+        "programURL": "http://keyin.ca/program/office-technology-enhancement/",
+        "schoolName": "Keyin College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "31123",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Grand Falls-Windsor",
+        "programName": "Office Technology Enhancement",
+        "programURL": "http://keyin.ca/program/office-technology-enhancement/",
+        "schoolName": "Keyin College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "31123",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Marystown",
+        "programName": "Office Technology Enhancement",
+        "programURL": "http://keyin.ca/program/office-technology-enhancement/",
+        "schoolName": "Keyin College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "31123",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Office Technology Enhancement",
+        "programURL": "http://keyin.ca/program/office-technology-enhancement/",
+        "schoolName": "Keyin College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "23217",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Photography (Certificate)",
+        "programURL": "https://mediastudies.humber.ca/programs/photography-ce.html",
+        "schoolName": "Humber College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13915",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Post Production (1 year \u2013 Ontario College Graduate Certificate)",
+        "programURL": "https://www.canadorecollege.ca/programs/post-production",
+        "schoolName": "Canadore College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37962",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Post and Game Audio Production Diploma",
+        "programURL": "http://nimbusrecording.com/programs/sound-design/",
+        "schoolName": "Nimbus School of Recording & Media",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "45893",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Post and Game Audio Production Fast-Track Certificate",
+        "programURL": "http://nimbusrecording.com/post-game-audio-production-fast-track-certificate/",
+        "schoolName": "Nimbus School of Recording & Media",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "33113",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Professional Recording Arts",
+        "programURL": "http://www.lasallecollegevancouver.com/audio-film-school/music-production-diploma",
+        "schoolName": "LaSalle College Vancouver",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "27335",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Professional Recording Arts (LIPA)",
+        "programURL": "http://www.lasallecollegevancouver.com/audio-film-school/professional-recording-arts-lipa",
+        "schoolName": "LaSalle College Vancouver",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44262",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Professional Sound (Audio Specialist) Diploma",
+        "programURL": "https://metalworksinstitute.com/campus-program/professional-sound-diploma-audio-specialist/",
+        "schoolName": "Metalworks Institute of Sound & Music Production",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "40495",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Recording Arts Certificate",
+        "programURL": "https://db2.centennialcollege.ca/ce/programdetail.php?CertificateCode=7670",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "51958",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Recording Technologies: Microphones (Online)",
+        "programURL": "https://metalworksinstitute.com/course/recording-technologies-microphones/",
+        "schoolName": "Metalworks Institute of Sound & Music Production",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "43380",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Studio Production",
+        "programURL": "https://digitalartschool.com/programs/studio-production",
+        "schoolName": "Centre for Arts And Technology",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "45885",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "TV & Game Animation",
+        "programURL": "https://www.mckenzie.edu/animation/",
+        "schoolName": "McKenzie College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34295",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "TV and Film Crew Training",
+        "programURL": "https://www.nic.bc.ca/programs-courses/trades-technical/media-programs/tv-and-film-crew-training/",
+        "schoolName": "North Island College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15047",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Technical Communication",
+        "programURL": "http://www.senecacollege.ca/programs/fulltime/TECC.html",
+        "schoolName": "Seneca College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "27076",
+        "provinceName": "Winnipeg",
+        "cityName": "Science and Technology",
+        "programName": "Technical Communication",
+        "programURL": "https://catalogue.rrc.ca/Programs/WPG/FullTime/TECCF-DP",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49205",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "VFX for Film & Television",
+        "programURL": "http://www.lasallecollegevancouver.com/vfx-game-design/visual-effects-diploma",
+        "schoolName": "LaSalle College Vancouver",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "33902",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Video Game 3D Modeling | Online",
+        "programURL": "http://www.lasallecollegevancouver.com/online-college-course/gaming-design",
+        "schoolName": "LaSalle College Vancouver",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "36142",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Video Game Art",
+        "programURL": "https://www.mckenzie.edu/video-game-art/",
+        "schoolName": "McKenzie College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "33174",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Video Game Art and Animation",
+        "programURL": "https://www.hollandcollege.com/programs/video-game-art-and-animation.html",
+        "schoolName": "Holland College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "36749",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Video Game Design & Development",
+        "programURL": "https://www.trios.com/career/?section=videogamedesignanddevelopmentplusinternship",
+        "schoolName": "triOS College Business Technology Healthcare",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "36229",
+        "provinceName": "Ontario",
+        "cityName": "Kingston",
+        "programName": "Video Game Designer",
+        "programURL": "https://www.trilliumcollege.ca/technology-programs/video-game-designer/",
+        "schoolName": "Trillium College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "36229",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Video Game Designer",
+        "programURL": "https://www.trilliumcollege.ca/technology-programs/video-game-designer/",
+        "schoolName": "Trillium College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "36229",
+        "provinceName": "Ontario",
+        "cityName": "St. Catharines",
+        "programName": "Video Game Designer",
+        "programURL": "https://www.trilliumcollege.ca/technology-programs/video-game-designer/",
+        "schoolName": "Trillium College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "45957",
+        "provinceName": "Scarborough",
+        "cityName": "Business and Technology",
+        "programName": "Video Game Designer",
+        "programURL": "https://www.oxfordedu.ca/video-game-designer",
+        "schoolName": "Oxford College of Arts",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37876",
+        "provinceName": "Ontario",
+        "cityName": "Oakville",
+        "programName": "Visual Effects",
+        "programURL": "https://academics.sheridancollege.ca/programs/visual-effects",
+        "schoolName": "Sheridan Institute of Technology and Advanced Learning",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "35916",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Visual Effects for Film and TV",
+        "programURL": "https://www.vanarts.com/programs/visual-effects-for-film-television/",
+        "schoolName": "Vancouver Institute of Media Arts (Vanarts)",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32471",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Visual Effects for Film and Television",
+        "programURL": "http://www.senecacollege.ca/programs/fulltime/VFT.html",
+        "schoolName": "Seneca College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "College"
+    }
+]

@@ -1,0 +1,2412 @@
+[
+    {
+        "programId": "23484",
+        "provinceName": "Alberta",
+        "cityName": "Lethbridge",
+        "programName": "Post-Diploma  Bachelor of Science in Computer Science",
+        "programURL": "http://www.uleth.ca/artsci/math-computer-science/programs",
+        "schoolName": "University of Lethbridge",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34006",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Accelerated Second Degree Program in Computer Science",
+        "programURL": "https://www.algomau.ca/academics/programs/computer-science/accelerated-degree/",
+        "schoolName": "Algoma University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "49515",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Applied Computer Science  (BACSC)",
+        "programURL": "https://www.dal.ca/academics/programs/undergraduate/applied-computer-science.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "49023",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "BS in Information Technology",
+        "programURL": "http://view2.fdu.edu/vancouver-campus/academic-programs/bs-information-technology/",
+        "schoolName": "Fairleigh Dickinson University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "19059",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Applied Information Systems Technology",
+        "programURL": "http://www.nait.ca/program_home_78547.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50513",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Bachelor of Arts  in Computer Science (Specialization)",
+        "programURL": "https://academiccalendar.nipissingu.ca/~/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=5&topicgroupid=2042",
+        "schoolName": "Nipissing University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4696",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Arts in Applied Computer Science",
+        "programURL": "https://www.uwinnipeg.ca/applied-computer-science/index.html",
+        "schoolName": "University of Winnipeg",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23380",
+        "provinceName": "New Brunswick",
+        "cityName": "Sackville",
+        "programName": "Bachelor of Arts in Computer Science",
+        "programURL": "https://www.mta.ca/commerce/",
+        "schoolName": "Mount Allison University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30376",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Arts in Computer Science",
+        "programURL": "https://you.ubc.ca/ubc_programs/computer-science-vancouver-ba/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34837",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Bachelor of Arts in Computer Science",
+        "programURL": "https://www.trentu.ca/futurestudents/degree/computing-systems?target=undergraduate",
+        "schoolName": "Trent University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8205",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Arts in Computer Science",
+        "programURL": "http://futurestudents.yorku.ca/program/computerscience",
+        "schoolName": "York University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "10446",
+        "provinceName": "Nova Scotia",
+        "cityName": "Antigonish",
+        "programName": "Bachelor of Arts in Computer Science",
+        "programURL": "https://www.stfx.ca/academics/science/computer-science",
+        "schoolName": "St. Francis Xavier University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "29608",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Arts in Computer Science",
+        "programURL": "https://www.mun.ca/computerscience/ugrad/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50512",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Bachelor of Arts in Computer Science (Honours Specialization)",
+        "programURL": "http://academiccalendar.nipissingu.ca/~/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=5&topicgroupid=2041",
+        "schoolName": "Nipissing University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50511",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Bachelor of Arts in Computer Science (Major)",
+        "programURL": "http://academiccalendar.nipissingu.ca/~/Catalog/Vhttps://academiccalendar.nipissingu.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=5&chapterid=434&topicgroupid=2043&loaduseredits=FalseiewCatalog.aspx?pageid=viewcatalog&catalogid=5&topicgroupid=2043",
+        "schoolName": "Nipissing University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41433",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Bachelor of Arts in Computer Science - Okanagan",
+        "programURL": "https://you.ubc.ca/ubc_programs/computer-science-okanagan-ba/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "29922",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Arts in Computer Security",
+        "programURL": "http://futurestudents.yorku.ca/program/computer-security",
+        "schoolName": "York University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1178",
+        "provinceName": "Alberta",
+        "cityName": "Camrose",
+        "programName": "Bachelor of Arts in Computing Science",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/au/au510/cmput2m",
+        "schoolName": "University of Alberta",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "37189",
+        "provinceName": "British Columbia",
+        "cityName": "Nanaimo",
+        "programName": "Bachelor of Arts in Computing Science - Minor",
+        "programURL": "https://calendar.viu.ca/arts-humanities-social-sciences/computing-science",
+        "schoolName": "Vancouver Island University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "32769",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Bachelor of Arts in Game Development",
+        "programURL": "https://www.twu.ca/academics/school-arts-media-culture/game-development",
+        "schoolName": "Trinity Western University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48695",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Bachelor of Arts in Information Systems",
+        "programURL": "https://www.trentu.ca/futurestudents/degree/information-systems?target=undergraduate",
+        "schoolName": "Trent University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52367",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Bachelor of Arts in Information Systems (Honours)",
+        "programURL": "https://www.trentu.ca/futurestudents/degree/information-systems?target=undergraduate",
+        "schoolName": "Trent University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8342",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Arts in Information Technology",
+        "programURL": "http://futurestudents.yorku.ca/program/information-technology",
+        "schoolName": "York University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30814",
+        "provinceName": "New Brunswick",
+        "cityName": "Saint John",
+        "programName": "Bachelor of Arts in Information and Communication Studies (Saint John)",
+        "programURL": "https://www.unb.ca/academics/programs/arts/information-and-communication-studies.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23320",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Bachelor of Business Administration - Technology Management Stream",
+        "programURL": "http://academiccalendar.nipissingu.ca/~/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=5&topicgroupid=2024",
+        "schoolName": "Nipissing University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51894",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Commerce (Honours) in Technology Management",
+        "programURL": "https://ontariotechu.ca/programs/business-and-information-technology/technology-management-commerce.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8184",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Commerce in Information Technology",
+        "programURL": "http://futurestudents.yorku.ca/program/commerce",
+        "schoolName": "York University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "31389",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Bachelor of Computer Information Systems",
+        "programURL": "https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/ScienceTechnology/Departments/MathematicsComputing/Majors/Computer-Information-Systems/index.htm",
+        "schoolName": "Mount Royal University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13517",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Bachelor of Computer Information Systems Degree",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/calendar/calendar.aspx?page=BachelorOfComputerInformationSystemsDegree",
+        "schoolName": "Okanagan College",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13517",
+        "provinceName": "British Columbia",
+        "cityName": "Penticton",
+        "programName": "Bachelor of Computer Information Systems Degree",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/calendar/calendar.aspx?page=BachelorOfComputerInformationSystemsDegree",
+        "schoolName": "Okanagan College",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13517",
+        "provinceName": "British Columbia",
+        "cityName": "Vernon",
+        "programName": "Bachelor of Computer Information Systems Degree",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/calendar/calendar.aspx?page=BachelorOfComputerInformationSystemsDegree",
+        "schoolName": "Okanagan College",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13162",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Bachelor of Computer Information Systems Degree",
+        "programURL": "https://www.ufv.ca/cis/programs/bachelor-cis/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28230",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Computer Science",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Bachelor-of-Computer-Science-1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4747",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Bachelor of Computer Science",
+        "programURL": "https://www2.acadiau.ca/prg_ug_comp.html",
+        "schoolName": "Acadia University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "18825",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Computer Science",
+        "programURL": "http://admissions.carleton.ca/programs/computer-science/",
+        "schoolName": "Carleton University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2772",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Bachelor of Computer Science",
+        "programURL": "https://www.unb.ca/academics/programs/computer-science/computer-science_f.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52717",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Computer Science (Data Science)",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Bachelor-of-Computer-Science-Data-Science",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51256",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Computer Science - Artificial Intelligence Specialization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Computer-Sci-Artificial-Intelligence-Spec",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51257",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Computer Science - Business Specialization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Bachelor-of-Computer-Science-1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51258",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Computer Science - Computational Fine Art Specialization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Computer-Sci-Computational-Fine-Art-Spec",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51260",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Computer Science - Human-Computer Interaction Specialization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Computer-Sci-Human-Computer-Interaction-Spec",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2919",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Bachelor of Computer Science - Specialization in Cybersecurity",
+        "programURL": "https://www.unb.ca/fredericton/cs/undergrad/bcs/specialization.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34015",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Bachelor of Computer Science Honours",
+        "programURL": "https://www.algomau.ca/academics/programs/computer-science/",
+        "schoolName": "Algoma University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52714",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Computer Science and Bachelor of Mathematics Academic Plan Combinations",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-BCS-and-BMath-Academic-Plan-Combinations",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "39004",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Computer Science in Algorithms",
+        "programURL": "http://admissions.carleton.ca/programs/algorithms/",
+        "schoolName": "Carleton University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6328",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Computer Science in Computer Game Development",
+        "programURL": "http://admissions.carleton.ca/programs/computer-game-development/",
+        "schoolName": "Carleton University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6337",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Computer Science in Computer and Internet Security",
+        "programURL": "http://admissions.carleton.ca/programs/computer-and-internet-security/",
+        "schoolName": "Carleton University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6150",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Computer Science in Mobile Computing",
+        "programURL": "http://admissions.carleton.ca/programs/mobile-computing/",
+        "schoolName": "Carleton University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35300",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Computer Science in Network Computing",
+        "programURL": "http://admissions.carleton.ca/programs/network-computing/",
+        "schoolName": "Carleton University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "17772",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Bachelor of Computer Science with Honours",
+        "programURL": "http://cs.acadiau.ca/bachelor-of-computer-science-with-honours.html",
+        "schoolName": "Acadia University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34699",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Bachelor of Computer Science with Specialization in Game Development",
+        "programURL": "https://www2.acadiau.ca/prg_ug_comp.html",
+        "schoolName": "Acadia University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34700",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Bachelor of Computer Science with Specialization in Mobile and Ubiquitous Computing",
+        "programURL": "https://www2.acadiau.ca/prg_ug_comp.html",
+        "schoolName": "Acadia University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4807",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Bachelor of Computer Science with Specialization in Software Development",
+        "programURL": "https://www2.acadiau.ca/prg_ug_comp.html",
+        "schoolName": "Acadia University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13568",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Bachelor of Computing Science Degree",
+        "programURL": "https://www.tru.ca/distance/programs/technology/bachelor-of-computing-science.html",
+        "schoolName": "Thompson Rivers University - Open Learning",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "37851",
+        "provinceName": "Ontario",
+        "cityName": "Oakville",
+        "programName": "Bachelor of Computing and Network Communications (Honours) \u2013 Internet Communications Technology",
+        "programURL": "https://academics.sheridancollege.ca/programs/bachelor-of-applied-computer-science-mobile-computing",
+        "schoolName": "Sheridan Institute of Technology and Advanced Learning",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6510",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Bachelor of Computing in Computer Science",
+        "programURL": "https://admission.uoguelph.ca/bcomp/csci",
+        "schoolName": "University of Guelph",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38333",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Design in Computing Science Route",
+        "programURL": "https://www.ualberta.ca/art-design/undergraduate-programs/bachelor-of-design/computing-science-route",
+        "schoolName": "University of Alberta",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6290",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Information Technology",
+        "programURL": "http://admissions.carleton.ca/programs/information-technology/",
+        "schoolName": "Carleton University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13927",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Information Technology (Computer and Communication Networks)",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33904",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Information Technology (Honours)  in Game Development and Entrepreneurship",
+        "programURL": "https://uoit.ca/programs/business-and-information-technology/information-technology-game-development-and-entrepreneurship-specialization.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48661",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Information Technology (Honours) - Game Development and Entrepreneurship - Bridge",
+        "programURL": "https://ontariotechu.ca/programs/business-and-information-technology/information-technology-pathways-program-game-development-and-entrepreneurship-specialization-bridge.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51884",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Information Technology (Honours) - Technology Management",
+        "programURL": "https://ontariotechu.ca/programs/business-and-information-technology/information-technology-technology-management.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48662",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Information Technology (Honours) in Information Technology Security - Bridge",
+        "programURL": "https://ontariotechu.ca/programs/business-and-information-technology/information-technology-pathways-program-networking-and-information-technology-security-bridge.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33905",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Information Technology (Honours) in Networking and Information Technology Security",
+        "programURL": "https://ontariotechu.ca/programs/business-and-information-technology/information-technology-networking-and-information-technology-security-specialization.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48663",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Information Technology (Honours) in Networking and Information Technology Security - Advanced Entry",
+        "programURL": "https://ontariotechu.ca/programs/business-and-information-technology/information-technology-pathways-program-networking-and-information-technology-security-direct-entry.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52038",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Information Technology (Information Resource Management) - Joint collaboration between Algonquin and Carleton",
+        "programURL": "https://www.algonquincollege.com/healthandcommunity/program/bit-information-resource-management/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52037",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Information Technology (Interactive Multimedia and Design)",
+        "programURL": "https://www.algonquincollege.com/mediaanddesign/program/bit-interactive-multimedia-and-design/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "49967",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Information Thecnology in Information Resource Management (IRM)",
+        "programURL": "https://admissions.carleton.ca/programs/information-resource-management-irm/",
+        "schoolName": "Carleton University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34730",
+        "provinceName": "Alberta",
+        "cityName": "Lethbridge",
+        "programName": "Bachelor of Management in Computer Science",
+        "programURL": "https://www.uleth.ca/future-student/program/computer-science",
+        "schoolName": "University of Lethbridge",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35646",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Bachelor of Mathematical and Computational Sciences  with Honours, Major or Minor  in Computer Science",
+        "programURL": "http://upei.ca/programs/computer-science",
+        "schoolName": "University of Prince Edward Island",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "3566",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Bachelor of Mathematical and Computational Sciences in Mathematics",
+        "programURL": "http://www.upei.ca/programs/financial-mathematics",
+        "schoolName": "University of Prince Edward Island",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33933",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Science (Honours) in Computer Science",
+        "programURL": "https://ontariotechu.ca/programs/science/computer-science-regular-and-co-op.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48643",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Science (Honours) in Computer Science - Advanced Entry",
+        "programURL": "https://ontariotechu.ca/programs/science/computer-science-diploma-to-degree.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48644",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Science (Honours) in Data Science",
+        "programURL": "https://ontariotechu.ca/programs/science/data-science.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38274",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science - Business Minor in Computing Science",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc011/cmput33",
+        "schoolName": "University of Alberta",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "14782",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Bachelor of Science - Computer Science",
+        "programURL": "https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/ScienceTechnology/Departments/MathematicsComputing/Majors/Computer-Science/index.htm",
+        "schoolName": "Mount Royal University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "22812",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Bachelor of Science - Computer Science with a specialization in Video Game Programming Major",
+        "programURL": "http://upei.ca/programs/computer-science",
+        "schoolName": "University of Prince Edward Island",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26781",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science General in Computing Science",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc010/cmput31",
+        "schoolName": "University of Alberta",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33936",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Science and Management (Honours) in Computer Science",
+        "programURL": "https://ontariotechu.ca/programs/science/computer-science-regular-and-co-op.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51867",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Science and Management (Honours) in Data Science",
+        "programURL": "https://ontariotechu.ca/programs/science/data-science.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "36991",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Applied Computer Science",
+        "programURL": "https://www.uwinnipeg.ca/applied-computer-science/index.html",
+        "schoolName": "University of Winnipeg",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "36990",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Applied Computer Science - Health Informatics Stream",
+        "programURL": "https://www.uwinnipeg.ca/applied-computer-science/index.html",
+        "schoolName": "University of Winnipeg",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38276",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Applied Computer Science - Information Systems Stream",
+        "programURL": "https://www.uwinnipeg.ca/applied-computer-science/index.html",
+        "schoolName": "University of Winnipeg",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "898",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Computer Engineering Nanoscale System Design Option Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en841",
+        "schoolName": "University of Alberta",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2574",
+        "provinceName": "New Brunswick",
+        "cityName": "Sackville",
+        "programName": "Bachelor of Science in Computer Science",
+        "programURL": "https://www.mta.ca/programs/cs/",
+        "schoolName": "Mount Allison University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35384",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Computer Science",
+        "programURL": "https://you.ubc.ca/ubc_programs/computer-science-vancouver-bsc/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6859",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Computer Science",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/computer-science.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8230",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Science in Computer Science",
+        "programURL": "http://futurestudents.yorku.ca/program/computer-science",
+        "schoolName": "York University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "9324",
+        "provinceName": "Alberta",
+        "cityName": "Lethbridge",
+        "programName": "Bachelor of Science in Computer Science",
+        "programURL": "http://www.uleth.ca/artsci/math-computer-science/programs",
+        "schoolName": "University of Lethbridge",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "17060",
+        "provinceName": "Nova Scotia",
+        "cityName": "Antigonish",
+        "programName": "Bachelor of Science in Computer Science",
+        "programURL": "https://www.stfx.ca/academics/arts-science/computer-science",
+        "schoolName": "St. Francis Xavier University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34014",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Bachelor of Science in Computer Science",
+        "programURL": "https://www.algomau.ca/academics/programs/computer-science/",
+        "schoolName": "Algoma University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27652",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Science in Computer Science",
+        "programURL": "https://www.mun.ca/undergrad/programs/science/computer-science.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23140",
+        "provinceName": "British Columbia",
+        "cityName": "Prince George",
+        "programName": "Bachelor of Science in Computer Science",
+        "programURL": "https://www.unbc.ca/calendar/undergraduate/computer-science",
+        "schoolName": "University of Northern British Columbia",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35796",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Bachelor of Science in Computer Science",
+        "programURL": "http://www.usask.ca/programs/colleges-schools/arts-science/computer-science/index.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28777",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Bachelor of Science in Computer Science  (Honours) option Computer Science",
+        "programURL": "https://www.trentu.ca/futurestudents/specialization/computer-science?target=undergraduate",
+        "schoolName": "Trent University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50509",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Bachelor of Science in Computer Science (Honours Specialization)",
+        "programURL": "https://academiccalendar.nipissingu.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=5&chapterid=434&topicgroupid=2038&loaduseredits=False",
+        "schoolName": "Nipissing University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28824",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Science in Computer Science (Honours)",
+        "programURL": "https://www.ryerson.ca/programs/undergraduate/computer-science/",
+        "schoolName": "Ryerson University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48669",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Bachelor of Science in Computer Science (Honours) option Data Analytics",
+        "programURL": "https://www.trentu.ca/futurestudents/specialization/data-analytics?target=undergraduate",
+        "schoolName": "Trent University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23319",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Bachelor of Science in Computer Science (Major)",
+        "programURL": "http://academiccalendar.nipissingu.ca/~/Catalog/ViewCatalog.aspx?pageihttps://academiccalendar.nipissingu.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=5&chapterid=434&topicgroupid=2040&loaduseredits=Falsed=viewcatalog&catalogid=5&topicgroupid=2040",
+        "schoolName": "Nipissing University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30808",
+        "provinceName": "New Brunswick",
+        "cityName": "Saint John",
+        "programName": "Bachelor of Science in Computer Science (Saint John)",
+        "programURL": "https://www.unb.ca/academics/programs/computer-science/computer-science_sj.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50510",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Bachelor of Science in Computer Science (Specialization)",
+        "programURL": "http://academiccalendar.nipissingu.ca/~/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=5&topicgroupid=2039",
+        "schoolName": "Nipissing University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6932",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Computer Science - Artificial Intelligence",
+        "programURL": "http://www.sci.umanitoba.ca/undergraduate-students/programs/computer-science/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7681",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Bachelor of Science in Computer Science - Computer Communications and Networks",
+        "programURL": "http://www.uvic.ca/engineering/computerscience/undergraduate/bsc-honours-program-info/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6861",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Computer Science - Computer Systems",
+        "programURL": "http://www.sci.umanitoba.ca/undergraduate-students/programs/computer-science/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6876",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Computer Science - Databases",
+        "programURL": "http://www.sci.umanitoba.ca/undergraduate-students/programs/computer-science/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27794",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Bachelor of Science in Computer Science - General",
+        "programURL": "http://www.uvic.ca/engineering/computerscience/undergraduate/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28339",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Computer Science - Human-Computer Interaction",
+        "programURL": "http://www.sci.umanitoba.ca/undergraduate-students/programs/computer-science/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23253",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Computer Science - Networks and Security",
+        "programURL": "http://www.sci.umanitoba.ca/undergraduate-students/programs/computer-science/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "5407",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Bachelor of Science in Computer Science - Okanagan",
+        "programURL": "https://you.ubc.ca/ubc_programs/computer-science-okanagan-bsc/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "42447",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Computer Science - Software Engineering",
+        "programURL": "http://www.sci.umanitoba.ca/undergraduate-students/programs/computer-science/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30375",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Computer Science - Software Engineering Option",
+        "programURL": "https://you.ubc.ca/ubc_programs/computer-science-vancouver-bsc/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6851",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Computer Science - Theoretical Computer Science",
+        "programURL": "http://www.sci.umanitoba.ca/undergraduate-students/programs/computer-science/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27799",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Bachelor of Science in Computer Science - Theory",
+        "programURL": "http://www.uvic.ca/engineering/computerscience/undergraduate/bsc-honours-program-info/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "42457",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Computer Science - Web-Based Systems",
+        "programURL": "http://www.sci.umanitoba.ca/undergraduate-students/programs/computer-science/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "25292",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Bachelor of Science in Computer Science Course",
+        "programURL": "http://www.msvu.ca/en/home/programsdepartments/bachelorofscience/computerscience/default.aspx",
+        "schoolName": "Mount Saint Vincent University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34013",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Bachelor of Science in Computer Science Honours",
+        "programURL": "https://www.algomau.ca/academics/programs/computer-science/",
+        "schoolName": "Algoma University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28355",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Computer Science with Joint Honours (Mathematics)",
+        "programURL": "http://www.sci.umanitoba.ca/undergraduate-students/programs/computer-science/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28297",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Computer Science with Joint Honours (Statistics)",
+        "programURL": "http://www.sci.umanitoba.ca/undergraduate-students/programs/computer-science/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30374",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Computer Science with combined Major/Honours in Statistics",
+        "programURL": "https://www.cs.ubc.ca/students/undergrad/degree-programs#combinedmaj",
+        "schoolName": "University of British Columbia",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20816",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Computer Science with combined major in Another Science Subject",
+        "programURL": "https://www.cs.ubc.ca/students/undergrad/degree-programs#combinedmaj",
+        "schoolName": "University of British Columbia",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30357",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Computer Science with combined major in Biology",
+        "programURL": "https://www.cs.ubc.ca/students/undergrad/degree-programs#combinedmaj",
+        "schoolName": "University of British Columbia",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30373",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Computer Science with combined major in Mathematics",
+        "programURL": "https://www.cs.ubc.ca/students/undergrad/degree-programs#combinedmaj",
+        "schoolName": "University of British Columbia",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20966",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Computer Science with combined major in Microbiology and Immunology",
+        "programURL": "https://www.cs.ubc.ca/students/undergrad/degree-programs#combinedmaj",
+        "schoolName": "University of British Columbia",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30372",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Computer Science with combined major in Physics",
+        "programURL": "https://www.cs.ubc.ca/students/undergrad/degree-programs#combinedmaj",
+        "schoolName": "University of British Columbia",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "9062",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Bachelor of Science in Computer Science, (3 Years)",
+        "programURL": "http://csdc.lakeheadu.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=27&chapterid=8094&topicgroupid=26627&loaduseredits=True",
+        "schoolName": "Lakehead University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8328",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Science in Computer Security",
+        "programURL": "http://futurestudents.yorku.ca/program/computer-security",
+        "schoolName": "York University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "929",
+        "provinceName": "Alberta",
+        "cityName": "Camrose",
+        "programName": "Bachelor of Science in Computing Science",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/au/au010/cmput1m",
+        "schoolName": "University of Alberta",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7540",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Bachelor of Science in Computing Science",
+        "programURL": "https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science",
+        "schoolName": "Trinity Western University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41229",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Bachelor of Science in Computing Science",
+        "programURL": "https://www.ufv.ca/computing-science/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41229",
+        "provinceName": "British Columbia",
+        "cityName": "Chilliwack",
+        "programName": "Bachelor of Science in Computing Science",
+        "programURL": "https://www.ufv.ca/computing-science/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "12998",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Bachelor of Science in Computing Science",
+        "programURL": "http://www.tru.ca/programs/catalogue/computing-science-major.html",
+        "schoolName": "Thompson Rivers University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20143",
+        "provinceName": "British Columbia",
+        "cityName": "Nanaimo",
+        "programName": "Bachelor of Science in Computing Science - Co-op, Major, Minor",
+        "programURL": "https://calendar.viu.ca/science-and-technology/computing-science#mandatory",
+        "schoolName": "Vancouver Island University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8015",
+        "provinceName": "Alberta",
+        "cityName": "Athabasca",
+        "programName": "Bachelor of Science in Computing and Information Systems",
+        "programURL": "http://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems/",
+        "schoolName": "Athabasca University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48696",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Bachelor of Science in Information Systems",
+        "programURL": "https://www.trentu.ca/futurestudents/degree/information-systems?target=undergraduate",
+        "schoolName": "Trent University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28778",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Bachelor of Science in Information Systems  (Honours)",
+        "programURL": "https://www.trentu.ca/futurestudents/degree/information-systems?target=undergraduate",
+        "schoolName": "Trent University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21715",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Honors in Computing Science",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc030/cmput2",
+        "schoolName": "University of Alberta",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1288",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Specialization in Computing Science",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc020/cmput1",
+        "schoolName": "University of Alberta",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21713",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Specialization in Computing Science - Software Practice",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc020/cssp1",
+        "schoolName": "University of Alberta",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26901",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Specialization in Computing Science and Minor in Business",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc020/csbus1",
+        "schoolName": "University of Alberta",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26347",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Technology in Computer Systems - Database Option",
+        "programURL": "https://www.bcit.ca/study/programs/846abtech",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35137",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Technology in Computer Systems - Games Development Option",
+        "programURL": "https://www.bcit.ca/study/programs/862bbtech",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26281",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Technology in Computer Systems - Human Computer Interface Option",
+        "programURL": "https://www.bcit.ca/study/programs/846bbtech",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26008",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Technology in Computer Systems - Network Security Administration Option",
+        "programURL": "https://www.bcit.ca/study/programs/846cbtech",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38919",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Technology in Computer Systems - Network Security Applications Development Option",
+        "programURL": "https://www.bcit.ca/study/programs/846dbtech",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26282",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Technology in Computer Systems - Wireless and Mobile Applications Development Option",
+        "programURL": "https://www.bcit.ca/study/programs/846ebtech",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26301",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Technology in Forensic Investigation - Digital Forensics and Cybersecurity Option",
+        "programURL": "https://www.bcit.ca/study/programs/845jbtech",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26301",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Technology in Forensic Investigation - Digital Forensics and Cybersecurity Option",
+        "programURL": "https://www.bcit.ca/study/programs/845jbtech",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47770",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Bachelor of Technology in Information Technology (BTech in IT)",
+        "programURL": "http://www.kpu.ca/calendar/2018-19/business/informationtechnology/informationtechnology-deg.html",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4805",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Certificate in Computer Science",
+        "programURL": "http://cs.acadiau.ca/current-students/degree-programs-7145/computer-science-certificate30-credit-hour.html",
+        "schoolName": "Acadia University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4913",
+        "provinceName": "Quebec",
+        "cityName": "Sherbrooke",
+        "programName": "Certificate in Computer Science",
+        "programURL": "http://www.ubishops.ca/academic-programs/faculty-of-arts-and-science/natural-sciences-and-mathematics/computer-science/courses-programs/",
+        "schoolName": "Bishop's University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34017",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Certificate in Computing",
+        "programURL": "http://www.algomau.ca/view.php?page=ap_programDetails&id=29",
+        "schoolName": "Algoma University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47824",
+        "provinceName": "British Columbia",
+        "cityName": "Cloverdale",
+        "programName": "Certificate in Google Tools",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47824",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Certificate in Google Tools",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47824",
+        "provinceName": "British Columbia",
+        "cityName": "Richmond",
+        "programName": "Certificate in Google Tools",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47824",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Certificate in Google Tools",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27475",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Certificate in Information Technology",
+        "programURL": "https://www.tru.ca/distance/programs/technology/certificate-information-technology.html",
+        "schoolName": "Thompson Rivers University - Open Learning",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34028",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Certificate in Information Technology",
+        "programURL": "http://www.algomau.ca/view.php?page=ap_programDetails&id=30",
+        "schoolName": "Algoma University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "37375",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Certificate in Information Technology Auditing and Assurance",
+        "programURL": "http://futurestudents.yorku.ca/program/certificates/information-technology-audition-assurance",
+        "schoolName": "York University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38301",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Certificate in Network Security (Part-time)",
+        "programURL": "http://pace.uwinnipegcourses.ca/part-time-programs/network-security-certificate",
+        "schoolName": "University of Winnipeg",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2854",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Certificate in Software Development",
+        "programURL": "https://www.unb.ca/fredericton/cs/undergrad/cert.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47755",
+        "provinceName": "British Columbia",
+        "cityName": "Cloverdale",
+        "programName": "Certificate in Web Design",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47755",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Certificate in Web Design",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47755",
+        "provinceName": "British Columbia",
+        "cityName": "Richmond",
+        "programName": "Certificate in Web Design",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47755",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Certificate in Web Design",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11444",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Computer Information Systems (Honours) (optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/science/361/bsc-honours-computer-information-systems-and-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28916",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Computer Information Systems Certificate",
+        "programURL": "https://www.ufv.ca/cis/programs/cis-certificate/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13169",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Computer Information Systems Diploma",
+        "programURL": "https://www.ufv.ca/cis/programs/cis-diploma/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13235",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Computer Information Systems: Certificate",
+        "programURL": "http://www.kpu.ca/calendar/2018-19/business/computerinformationsystems/computerinformationsystems-cert.html",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13236",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Computer Information Systems: Diploma",
+        "programURL": "http://www.kpu.ca/calendar/2018-19/business/computerinformationsystems/computerinformationsystems-dip.html",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "378",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Computer Science",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/computer-science",
+        "schoolName": "University of Toronto",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "378",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Computer Science",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/computer-science",
+        "schoolName": "University of Toronto",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "25748",
+        "provinceName": "Quebec",
+        "cityName": "Sherbrooke",
+        "programName": "Computer Science",
+        "programURL": "http://www.ubishops.ca/academic-programs/faculty-of-arts-and-science/natural-sciences-and-mathematics/computer-science/",
+        "schoolName": "Bishop's University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35369",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Computer Science",
+        "programURL": "https://alexandercollege.ca/programs-and-courses/subject-areas/computer-science/",
+        "schoolName": "Alexander College",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35369",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Computer Science",
+        "programURL": "https://alexandercollege.ca/programs-and-courses/subject-areas/computer-science/",
+        "schoolName": "Alexander College",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34016",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Computer Science",
+        "programURL": "https://www.algomau.ca/academics/programs/computer-science/",
+        "schoolName": "Algoma University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8770",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Computer Science (BCS)",
+        "programURL": "https://www.dal.ca/academics/programs/undergraduate/compsci.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2254",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computer Science (H.B.A.Sc.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18422&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11457",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Computer Science (Honours Applied Computing) (optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/science/359/bachelor-computer-science-honours-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11435",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Computer Science (with optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/343/computer-science-optional-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "45031",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Computer Science - Business Systems Management",
+        "programURL": "http://www.algomau.ca/academics/programs/computer-science/",
+        "schoolName": "Algoma University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "45032",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Computer Science - Computer Games Technology",
+        "programURL": "https://www.algomau.ca/academics/programs/computer-science/",
+        "schoolName": "Algoma University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "45033",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Computer Science - Computer Games Technology/ Creative Arts",
+        "programURL": "https://www.algomau.ca/academics/programs/computer-science/",
+        "schoolName": "Algoma University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21331",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computer Science Co-Op (H.B.A.Sc.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18422&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40194",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computer Science I/Computer Science I Co-Op (B.A.Sc.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18423&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40666",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computer Science as a Second Degree (H.B.A.Sc.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18425&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41476",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Computer Science with Software Engineering Specialization (Honours) (optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/344/computer-science-software-engineering-specialization-honours-optional-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6678",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Computing Science  - B.Sc. Major, Minor",
+        "programURL": "https://www.kingsu.ca/programs/bachelor/computing",
+        "schoolName": "The King's University College",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20133",
+        "provinceName": "British Columbia",
+        "cityName": "Nanaimo",
+        "programName": "Computing Science Diploma",
+        "programURL": "https://calendar.viu.ca/science-and-technology/diploma-computing-science",
+        "schoolName": "Vancouver Island University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "37173",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Computing Science Dual Degree Program Major (Bachelor of Science)",
+        "programURL": "http://www.sfu.ca/dean-gradstudies/future/academicprograms/faculty_of_appliedsciences/computing_science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4166",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Computing Science Major (Bachelor of Science or Bachelor of Arts)",
+        "programURL": "http://www.sfu.ca/dean-gradstudies/future/academicprograms/faculty_of_appliedsciences/computing_science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21174",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Computing Science Second Degree Major (Bachelor of Science or Bachelor of Arts)",
+        "programURL": "http://www.sfu.ca/dean-gradstudies/future/academicprograms/faculty_of_appliedsciences/computing_science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21176",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Computing Science and Linguistics Joint Major (Bachelor of Arts or Bachelor of Science)",
+        "programURL": "http://www.sfu.ca/students/calendar/2018/summer/programs/computing-science-and-linguistics/joint-major/bachelor-of-arts-or-bachelor-of-science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "25066",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Digital Futures",
+        "programURL": "https://www.ocadu.ca/admissions/programs/digital-futures.htm",
+        "schoolName": "Ontario College of Art and Design - OCAD University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "22000",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Diploma in Computer Science",
+        "programURL": "http://postdegree.uwo.ca/Programs/compsci/index.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27476",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Diploma in Information Technology and Management",
+        "programURL": "https://www.tru.ca/distance/programs/technology/diploma-information-technology.html",
+        "schoolName": "Thompson Rivers University - Open Learning",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "18376",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Diploma in Network Security",
+        "programURL": "http://pace.uwinnipegcourses.ca/full-time-programs/network-security-diploma",
+        "schoolName": "University of Winnipeg",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4702",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Diploma in Web Development",
+        "programURL": "https://pace.uwinnipegcourses.ca/full-time-programs/web-development-diploma",
+        "schoolName": "University of Winnipeg",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27956",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Honors Specialization in Bioinformatics",
+        "programURL": "http://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21121&SelectedCalendar=Live&ArchiveID=",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11257",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Honors Specialization in Computer Science",
+        "programURL": "http://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21123&SelectedCalendar=Live&ArchiveID=",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50226",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Honors Specialization in Information Systems",
+        "programURL": "http://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21124&SelectedCalendar=Live&ArchiveID=",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26741",
+        "provinceName": "Ontario",
+        "cityName": "Oakville",
+        "programName": "Honours Bachelor of Applied Information Sciences (Information Systems Security)",
+        "programURL": "https://academics.sheridancollege.ca/programs/bachelor-of-applied-information-sciences-information-systems-security",
+        "schoolName": "Sheridan Institute of Technology and Advanced Learning",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41510",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Honours Bachelor of Computer Science",
+        "programURL": "https://umanitoba.ca/student/admissions/programs/computer-science.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "49909",
+        "provinceName": "Ontario",
+        "cityName": "Brampton",
+        "programName": "Honours Bachelor of Computer Science (Mobile Computing)",
+        "programURL": "https://academics.sheridancollege.ca/programs/bachelor-of-applied-computer-science-mobile-computing/",
+        "schoolName": "Sheridan Institute of Technology and Advanced Learning",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "17994",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Honours Bachelor of Digital Experience Design",
+        "programURL": "https://www.georgebrown.ca/programs/honours-bachelor-of-digital-experience-design-g301/?year=2019",
+        "schoolName": "George Brown College",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "37848",
+        "provinceName": "Ontario",
+        "cityName": "Oakville",
+        "programName": "Honours Bachelor of Game Design",
+        "programURL": "https://academics.sheridancollege.ca/programs/bachelor-of-game-design",
+        "schoolName": "Sheridan Institute of Technology and Advanced Learning",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "37849",
+        "provinceName": "Ontario",
+        "cityName": "Oakville",
+        "programName": "Honours Bachelor of Interaction Design",
+        "programURL": "https://academics.sheridancollege.ca/programs/bachelor-of-interaction-design",
+        "schoolName": "Sheridan Institute of Technology and Advanced Learning",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28246",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics in Computer Science (8 Plans)",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-List-of-Academic-Programs-or-Plans",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51250",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics in Computer Science - Joint Computer Science",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Joint-Computer-Science-Bach-of-Math",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28147",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics/Business in Information Technology Management",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Information-Techn-Mgt-Degree-Requirements",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28369",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Honours Bachelor of Science in Computer Science",
+        "programURL": "http://www.cs.umanitoba.ca/undergraduate/honours.php",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "3555",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Honours Bachelor of Science in Mathematical and Computational Sciences",
+        "programURL": "http://upei.ca/programs/computer-science",
+        "schoolName": "University of Prince Edward Island",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "32452",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Honours Bachelor of Technology - Informatics and Security",
+        "programURL": "http://www.senecacollege.ca/programs/fulltime/IFS.html",
+        "schoolName": "Seneca College",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "32465",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Honours Bachelor of Technology - Software Development",
+        "programURL": "http://www.senecacollege.ca/programs/fulltime/BSD.html",
+        "schoolName": "Seneca College",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46408",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Information Security",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/information-security",
+        "schoolName": "University of Toronto",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21241",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Information Systems in Business Administration and Computing Science Joint Major (Bachelor of Business Administration or Bachelor of Science)",
+        "programURL": "http://www.sfu.ca/students/calendar/2018/summer/programs/information-systems-in-business-administration-and-computing-science/joint-major/bachelor-of-business-administration-or-bachelor-of-science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47162",
+        "provinceName": "Quebec",
+        "cityName": "Sherbrooke",
+        "programName": "Information Technology",
+        "programURL": "http://www.ubishops.ca/academic-programs/faculty-of-arts-and-science/natural-sciences-and-mathematics/computer-science/courses-programs/bachelor-of-arts-in-information-technology-bait/",
+        "schoolName": "Bishop's University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43050",
+        "provinceName": "Alberta",
+        "cityName": "St. Paul",
+        "programName": "Information Technology",
+        "programURL": "http://www.bluequills.ca/information-technology/",
+        "schoolName": "University nuhelot'ine thaiyots'ii nistameyimakanak Blue Quills",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13348",
+        "provinceName": "British Columbia",
+        "cityName": "Nanaimo",
+        "programName": "Information Technology and Applied Systems Diploma",
+        "programURL": "https://calendar.viu.ca/trades/information-technology-and-applied-systems",
+        "schoolName": "Vancouver Island University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50733",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Integrated Media: Digital Painting and Expanded Animation",
+        "programURL": "https://www.ocadu.ca/admissions/programs/digital-painting-and-expanded-animation-im",
+        "schoolName": "Ontario College of Art and Design - OCAD University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41481",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Interactive Systems Design",
+        "programURL": "https://admissions.usask.ca/interactive-systems-design.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51230",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Joint Honours Bachelor of Computer Science in Computer Science",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Joint-Bachelor-of-Computer-Science-1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "22010",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Major in Computer Science",
+        "programURL": "http://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47828",
+        "provinceName": "British Columbia",
+        "cityName": "Cloverdale",
+        "programName": "Managing Social Media Platforms Certificate",
+        "programURL": "https://www.kpu.ca/cps/online/certificates",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47828",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Managing Social Media Platforms Certificate",
+        "programURL": "https://www.kpu.ca/cps/online/certificates",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47828",
+        "provinceName": "British Columbia",
+        "cityName": "Richmond",
+        "programName": "Managing Social Media Platforms Certificate",
+        "programURL": "https://www.kpu.ca/cps/online/certificates",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47828",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Managing Social Media Platforms Certificate",
+        "programURL": "https://www.kpu.ca/cps/online/certificates",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21169",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Mathematics and Computing Science Joint Major (Bachelor of Science)",
+        "programURL": "http://www.sfu.ca/students/calendar/2018/summer/programs/mathematics-and-computing-science/joint-major/bachelor-of-science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51232",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Minor in Computer Science",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Computer-Science-Minor-2",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51573",
+        "provinceName": "Nova Scotia",
+        "cityName": "Truro",
+        "programName": "Minor in Computer Science",
+        "programURL": "https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=81&chapterid=4592&topicgroupid=19504&loaduseredits=False",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28245",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Minor in Computing",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Computing-Minor",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48610",
+        "provinceName": "British Columbia",
+        "cityName": "Prince George",
+        "programName": "Minor in Computing",
+        "programURL": "https://www.unbc.ca/calendar/undergraduate/computer-science#computer_physics",
+        "schoolName": "University of Northern British Columbia",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51600",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Minor in Informatics",
+        "programURL": "https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=81&chapterid=4592&topicgroupid=19562&loaduseredits=False",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21170",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Multimedia Computing Specialist Major (Bachelor of Science)",
+        "programURL": "http://www.sfu.ca/students/calendar/2018/summer/programs/multimedia-computing-specialist/major/bachelor-of-science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46362",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Professional Certificate in Information Technology for Internationally Educated Professionals",
+        "programURL": "http://futurestudents.yorku.ca/program/certificates/information-technology-for-internationally-educated-professionals",
+        "schoolName": "York University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47827",
+        "provinceName": "British Columbia",
+        "cityName": "Cloverdale",
+        "programName": "Social Media for Business Certificate",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47827",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Social Media for Business Certificate",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47827",
+        "provinceName": "British Columbia",
+        "cityName": "Richmond",
+        "programName": "Social Media for Business Certificate",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47827",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Social Media for Business Certificate",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11258",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Specialization in Computer Science",
+        "programURL": "http://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21125&SelectedCalendar=Live&ArchiveID=",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8050",
+        "provinceName": "Alberta",
+        "cityName": "Athabasca",
+        "programName": "University Certificate in Computing and Information Systems",
+        "programURL": "http://www.athabascau.ca/programs/summary/university-certificate-in-computing-and-information-systems/",
+        "schoolName": "Athabasca University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21364",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Web Design and Development (Certificate)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18675&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University"
+    }
+]

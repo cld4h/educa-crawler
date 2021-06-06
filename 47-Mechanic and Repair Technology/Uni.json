@@ -1,0 +1,32 @@
+[
+    {
+        "programId": "34054",
+        "provinceName": "British Columbia",
+        "cityName": "Cloverdale",
+        "programName": "Mechatronics and Advanced Manufacturing Technology: Diploma",
+        "programURL": "https://www.kpu.ca/calendar/2018-19/trades/mechatronics/mamt-dip.html",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "39781",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Motive Power Technician - Automotive Service",
+        "programURL": "https://www.conestogac.on.ca/fulltime/motive-power-technician-automotive-service",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "14552",
+        "provinceName": "Alberta",
+        "cityName": "Fort McMurray",
+        "programName": "Power Engineering - Computer Managed Learning",
+        "programURL": "https://www.keyano.ca/en/programs-and-courses/power-engineering-computer-managed-learning.aspx",
+        "schoolName": "Keyano College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "University"
+    }
+]

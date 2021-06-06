@@ -1,0 +1,312 @@
+[
+    {
+        "programId": "33959",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Applied Science and Technology Fundamentals (AST)",
+        "programURL": "http://www.senecacollege.ca/ce/humanities/applied-science-technology-fundamentals.html",
+        "schoolName": "Seneca College",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15801",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Associate of Science: Science (General)",
+        "programURL": "https://langara.ca/programs-and-courses/programs/science-general/index.html",
+        "schoolName": "Langara College",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17970",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Behavioural Science Technician",
+        "programURL": "https://www.georgebrown.ca/programs/behavioural-science-technician-program-c146/?year=2019",
+        "schoolName": "George Brown College",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38761",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Behavioural Science Technician (Intensive)",
+        "programURL": "https://www.georgebrown.ca/programs/behavioural-science-technician-program-intensive-c156/?year=2019",
+        "schoolName": "George Brown College",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "24598",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Biological Sciences Technology - Laboratory and Research",
+        "programURL": "http://www.nait.ca/program_home_76147.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18879",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Biomedical Engineering Technology",
+        "programURL": "http://www.nait.ca/program_home_76175.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13851",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Biotechnology - Technologist (2 years \u2013 Ontario College Diploma)",
+        "programURL": "https://www.canadorecollege.ca/programs/biotechnology-technologist",
+        "schoolName": "Canadore College",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13886",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Biotechnology - Technologist (3 years \u2013 Ontario College Advanced Diploma)",
+        "programURL": "https://www.canadorecollege.ca/programs/biotechnology-technologist",
+        "schoolName": "Canadore College",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18886",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Chemical Engineering Technology",
+        "programURL": "http://www.nait.ca/program_home_76401.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "48174",
+        "provinceName": "Ontario",
+        "cityName": "Sarnia",
+        "programName": "Chemical Laboratory Technician",
+        "programURL": "https://www.cibletudespro-canlearnpro.ca/cslgs-scpse/clp-clp/programmes-programs-eng.do?method=edit&id=821E6E0C407F9542",
+        "schoolName": "Lambton College of Applied Arts and Technology",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14955",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Chemical Laboratory Technician",
+        "programURL": "http://www.senecacollege.ca/programs/fulltime/CLT.html",
+        "schoolName": "Seneca College",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15150",
+        "provinceName": "Ontario",
+        "cityName": "Brampton",
+        "programName": "Chemical Laboratory Technician",
+        "programURL": "https://academics.sheridancollege.ca/programs/chemical-laboratory-technician",
+        "schoolName": "Sheridan Institute of Technology and Advanced Learning",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30841",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Chemical Laboratory Technician",
+        "programURL": "https://durhamcollege.ca/programs/chemical-laboratory-technician",
+        "schoolName": "Durham College of Applied Arts and Technology",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "24657",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Chemical Laboratory Technology",
+        "programURL": "https://www.sait.ca/programs-and-courses/diplomas/chemical-laboratory-technology",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14957",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Chemical Laboratory Technology - Pharmaceutical",
+        "programURL": "http://www.senecacollege.ca/programs/fulltime/CLP.html",
+        "schoolName": "Seneca College",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19185",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Chemical Technology",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Chemical-Technology.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18887",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Chemical Technology",
+        "programURL": "http://www.nait.ca/program_home_76429.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18245",
+        "provinceName": "New Brunswick",
+        "cityName": "Saint John",
+        "programName": "Chemical Technology (Co-op)",
+        "programURL": "http://www.nbcc.ca/programs-courses/program-details?baseCurriculumId=72e51eca-8791-44ec-9ee7-3ceb8a1c84e2",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "33024",
+        "provinceName": "Ontario",
+        "cityName": "Pembroke",
+        "programName": "Diploma in Applied Nuclear Science and Radiation Safety (Co-op)",
+        "programURL": "https://www.algonquincollege.com/pembroke/program/applied-nuclear-science-radiation-safety/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "12763",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Diploma in Chemical and Environmental Technology - Analytical Science Option",
+        "programURL": "https://www.bcit.ca/study/programs/537adiplt",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38751",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Diploma in Chemical and Environmental Technology - Process Engineering Option",
+        "programURL": "https://www.bcit.ca/study/programs/537bdiplt",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39448",
+        "provinceName": "Winnipeg",
+        "cityName": "Science and Technology",
+        "programName": "Diploma in Science Laboratory Technology",
+        "programURL": "https://catalogue.rrc.ca/Programs/WPG/FullTime/SLCTF-DP",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39603",
+        "provinceName": "New Brunswick",
+        "cityName": "Saint John",
+        "programName": "Energy Systems Technology",
+        "programURL": "http://www.nbcc.ca/programs-courses/program-details?baseCurriculumId=c94e405e-cb0a-4c2c-b47e-1135b35f51ac",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18912",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Geological Technology",
+        "programURL": "http://www.nait.ca/program_home_76839.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "35146",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Non-Destructive Testing",
+        "programURL": "https://www.bcit.ca/study/programs/5025nobcit",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14937",
+        "provinceName": "Ontario",
+        "cityName": "Sarnia",
+        "programName": "Pre-Trades & Technology",
+        "programURL": "https://www.lambtoncollege.ca/custom/LambtonApps/Programs/Full-Time.aspx?id=2147504005",
+        "schoolName": "Lambton College of Applied Arts and Technology",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49481",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Radiation And Environmental Monitoring Technician (36 weeks)",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Radiation-and-Environmental-Monitoring-Technician.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13087",
+        "provinceName": "British Columbia",
+        "cityName": "Coquitlam",
+        "programName": "Science",
+        "programURL": "http://www.douglascollege.ca/programs-courses/catalogue/programs/DPSCIE",
+        "schoolName": "Douglas College",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13087",
+        "provinceName": "British Columbia",
+        "cityName": "New Westminster",
+        "programName": "Science",
+        "programURL": "http://www.douglascollege.ca/programs-courses/catalogue/programs/DPSCIE",
+        "schoolName": "Douglas College",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49858",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Sustainable Studies Post-Diploma Certificate",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/Calendar/sustainable-studies-post-diploma-certificate",
+        "schoolName": "Okanagan College",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37854",
+        "provinceName": "Ontario",
+        "cityName": "Brampton",
+        "programName": "Technology Fundamentals",
+        "programURL": "https://academics.sheridancollege.ca/programs/technology-fundamentals",
+        "schoolName": "Sheridan Institute of Technology and Advanced Learning",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "College"
+    }
+]

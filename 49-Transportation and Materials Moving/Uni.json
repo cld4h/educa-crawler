@@ -1,0 +1,562 @@
+[
+    {
+        "programId": "11391",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Aeronautics",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/470/aeronautics",
+        "schoolName": "University of Windsor",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "25409",
+        "provinceName": "Manitoba",
+        "cityName": "Otterburne",
+        "programName": "Bachelor of Arts - Aviation Advanced Major (4 year)",
+        "programURL": "http://www.providenceuc.ca/college/programs/undergraduate/professional_studies/aviation/",
+        "schoolName": "Providence University College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "25390",
+        "provinceName": "Manitoba",
+        "cityName": "Otterburne",
+        "programName": "Bachelor of Arts - Aviation Major (3 year)",
+        "programURL": "http://www.providenceuc.ca/college/programs/undergraduate/professional_studies/aviation/",
+        "schoolName": "Providence University College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28881",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Bachelor of Business Administration in Aviation",
+        "programURL": "https://www.ufv.ca/business/programs/aviation--bachelor-of-business-administration/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43496",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Bachelor of Business Administration in Aviation",
+        "programURL": "https://www.coastalpacific.com/aviation-degree-or-diploma-programs",
+        "schoolName": "Coastal Pacific Aviation",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2483",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Maritime Studies",
+        "programURL": "https://www.mi.mun.ca/departments/schoolofmaritimestudies/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "36197",
+        "provinceName": "New Brunswick",
+        "cityName": "Dieppe",
+        "programName": "Bachelor of Science in Aviation",
+        "programURL": "http://www.mfc.nb.ca/bac-of-sc-in-aviation.html",
+        "schoolName": "Moncton Flight College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43678",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Bachelor of Technology in Nautical Science",
+        "programURL": "https://www.cbu.ca/academic-programs/program/bachelor-of-technology-nautical-science/",
+        "schoolName": "Cape Breton University",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "37673",
+        "provinceName": "Alberta",
+        "cityName": "Fort McMurray",
+        "programName": "Business Aviation",
+        "programURL": "https://www.keyano.ca/en/programs-and-courses/business-aviation.aspx",
+        "schoolName": "Keyano College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43453",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Slemon Park",
+        "programName": "Class 1A Equipment Operation",
+        "programURL": "https://www.jvidrivertraining.com/tractor-trailor-class-1a/",
+        "schoolName": "Jvi Transportation And Safety Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21999",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Commercial Aviation Management (CAM)",
+        "programURL": "http://mos.uwo.ca/undergraduate/cam/index.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "37502",
+        "provinceName": "British Columbia",
+        "cityName": "Sidney",
+        "programName": "Commercial Pilot Licence",
+        "programURL": "http://www.flyvfc.com/commercial-pilot-licence",
+        "schoolName": "Victoria Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43247",
+        "provinceName": "Alberta",
+        "cityName": "Lethbridge",
+        "programName": "Commercial Pilot Licence",
+        "programURL": "http://megacat.ca/excel/courses/commercial-pilot-licence/",
+        "schoolName": "Excel Flight Training Incorporated",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43748",
+        "provinceName": "British Columbia",
+        "cityName": "Delta",
+        "programName": "Commercial Pilot Licence Course",
+        "programURL": "http://www.pacificflying.com/career/training-commercial-pilot-licence-course",
+        "schoolName": "Pacific Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "36595",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Gander",
+        "programName": "Commercial Pilot License",
+        "programURL": "http://evasair.com/gft/planetraining/cplicence.php",
+        "schoolName": "Gander Flight Training",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "49122",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Commercial Pilot Program and Time-building",
+        "programURL": "http://www.langleyflyingschool.com/Pages/Commercial%20Pilot%20Program.html",
+        "schoolName": "Langley Flying School Incorporated",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "49090",
+        "provinceName": "Alberta",
+        "cityName": "Sherwood Park",
+        "programName": "Commercial Pilots License",
+        "programURL": "https://flycla.ca/flight-training/commercial-pilots-license/",
+        "schoolName": "Cooking Lake Aviation",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "25431",
+        "provinceName": "Manitoba",
+        "cityName": "Otterburne",
+        "programName": "Diploma - Aviation (2 year)",
+        "programURL": "http://www.providenceuc.ca/college/programs/undergraduate/professional_studies/aviation/",
+        "schoolName": "Providence University College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "14764",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Diploma in Aviation",
+        "programURL": "http://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/Business/Programs/AviationDiploma/index.htm",
+        "schoolName": "Mount Royal University",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27665",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Diploma of Technology in Nautical Science",
+        "programURL": "https://www.mi.mun.ca/programsandcourses/programs/nauticalscience/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34155",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Flight Instructor Rating",
+        "programURL": "http://www.langleyflyingschool.com/Pages/Instructor%20Rating%20Program.html",
+        "schoolName": "Langley Flying School Incorporated",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34153",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Group 1 Instrument Rating",
+        "programURL": "http://www.langleyflyingschool.com/Pages/Professional%20Pilot%20Program.html#Private%20Pilot%20Program(Inclass)",
+        "schoolName": "Langley Flying School Incorporated",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52472",
+        "provinceName": "Alberta",
+        "cityName": "Fort McMurray",
+        "programName": "Haul Truck Operator",
+        "programURL": "https://www.keyano.ca/en/programs-and-courses/haul-truck-operator.aspx",
+        "schoolName": "Keyano College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "44447",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Slemon Park",
+        "programName": "Heavy Equipment Operators",
+        "programURL": "https://www.jvidrivertraining.com/heavy-equipment-operation/",
+        "schoolName": "Jvi Transportation And Safety Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "14941",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Honours Bachelor of Aviation Technology",
+        "programURL": "http://www.senecacollege.ca/programs/fulltime/FPR.html",
+        "schoolName": "Seneca College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "14941",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Honours Bachelor of Aviation Technology",
+        "programURL": "http://www.senecacollege.ca/programs/fulltime/FPR.html",
+        "schoolName": "Seneca College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4526",
+        "provinceName": "Ontario",
+        "cityName": "Breslau",
+        "programName": "Honours Bachelor of Environmental Studies in Geography and Aviation",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENV-Honours-Geography-and-Aviation",
+        "schoolName": "University of Waterloo",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4526",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Environmental Studies in Geography and Aviation",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENV-Honours-Geography-and-Aviation",
+        "schoolName": "University of Waterloo",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40827",
+        "provinceName": "Ontario",
+        "cityName": "Breslau",
+        "programName": "Honours Bachelor of Environmental Studies in Geography and Environmental Management, Aviation Specialization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENV-Specializations-Geog-Env-Management",
+        "schoolName": "University of Waterloo",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40827",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Environmental Studies in Geography and Environmental Management, Aviation Specialization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENV-Specializations-Geog-Env-Management",
+        "schoolName": "University of Waterloo",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52772",
+        "provinceName": "Ontario",
+        "cityName": "Breslau",
+        "programName": "Honours Bachelor of Environmental Studies in Geomatics - Aviation Specialization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENV-Specializations-Geomatics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52772",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Environmental Studies in Geomatics - Aviation Specialization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENV-Specializations-Geomatics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4470",
+        "provinceName": "Ontario",
+        "cityName": "Breslau",
+        "programName": "Honours Bachelor of Science in Science and Aviation",
+        "programURL": "https://uwaterloo.ca/future-students/programs/science-and-aviation",
+        "schoolName": "University of Waterloo",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4470",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Science in Science and Aviation",
+        "programURL": "https://uwaterloo.ca/future-students/programs/science-and-aviation",
+        "schoolName": "University of Waterloo",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "37503",
+        "provinceName": "British Columbia",
+        "cityName": "Sidney",
+        "programName": "Instructor Rating",
+        "programURL": "http://www.flyvfc.com/instructor-rating",
+        "schoolName": "Victoria Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50715",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Instructor Rating",
+        "programURL": "http://www.springbankair.com/programs/flight-training/flight-training-instructor-rating/",
+        "schoolName": "Springbank Air Training College Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50711",
+        "provinceName": "British Columbia",
+        "cityName": "Sidney",
+        "programName": "Instrument Rating",
+        "programURL": "http://www.flyvfc.com/ifr-training",
+        "schoolName": "Victoria Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51929",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Instrument Rating, Multi-engine (Group 1)",
+        "programURL": "http://www.langleyflyingschool.com/Pages/Instrument%20Rating%20Program.html",
+        "schoolName": "Langley Flying School Incorporated",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34154",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Instrument Rating, Single Engine (Group 3)",
+        "programURL": "http://www.langleyflyingschool.com/Pages/Instrument%20Rating%20Program.html",
+        "schoolName": "Langley Flying School Incorporated",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11419",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Liberal Arts and Professional Studies - Aeronautics Leadership",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/470/aeronautics",
+        "schoolName": "University of Windsor",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50720",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Mountain Check",
+        "programURL": "http://www.springbankair.com/programs/flight-training/flight-training-mountain-check/",
+        "schoolName": "Springbank Air Training College Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50719",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Multi IFR",
+        "programURL": "http://www.springbankair.com/programs/flight-training/flight-training-multi-ifr/",
+        "schoolName": "Springbank Air Training College Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50717",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Multi-Engine",
+        "programURL": "http://www.springbankair.com/programs/flight-training/flight-training-multi-engine/",
+        "schoolName": "Springbank Air Training College Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "49124",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Multi-engine Class Rating Program",
+        "programURL": "http://www.langleyflyingschool.com/Pages/Multi-engine%20Rating%20Program.html",
+        "schoolName": "Langley Flying School Incorporated",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50710",
+        "provinceName": "British Columbia",
+        "cityName": "Sidney",
+        "programName": "Night Rating",
+        "programURL": "http://www.flyvfc.com/night-rating",
+        "schoolName": "Victoria Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50716",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Night Rating",
+        "programURL": "http://www.springbankair.com/programs/flight-training/flight-training-night-rating/",
+        "schoolName": "Springbank Air Training College Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34156",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Night Rating Program",
+        "programURL": "http://www.langleyflyingschool.com/Pages/Night%20Rating%20Program.html",
+        "schoolName": "Langley Flying School Incorporated",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "49089",
+        "provinceName": "Alberta",
+        "cityName": "Sherwood Park",
+        "programName": "Private Pilot License",
+        "programURL": "https://flycla.ca/flight-training/private-pilot-license/",
+        "schoolName": "Cooking Lake Aviation",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43747",
+        "provinceName": "British Columbia",
+        "cityName": "Delta",
+        "programName": "Private Pilot License Course",
+        "programURL": "http://www.pacificflying.com/career/training-private-pilot-licence-course",
+        "schoolName": "Pacific Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "49128",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Professional Pilot Program",
+        "programURL": "http://www.langleyflyingschool.com/Pages/Professional%20Pilot%20Program.html",
+        "schoolName": "Langley Flying School Incorporated",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "49088",
+        "provinceName": "Alberta",
+        "cityName": "Sherwood Park",
+        "programName": "Recreational Pilot Permit",
+        "programURL": "https://flycla.ca/flight-training/recreational-pilot-permit/",
+        "schoolName": "Cooking Lake Aviation",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50192",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Technical Certificate in Bridge Watch",
+        "programURL": "https://www.mi.mun.ca/programsandcourses/programs/bridgewatch/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "49127",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Time Building for Commercial Pilot Students",
+        "programURL": "http://langleyflyingschool.com/Pages/Commercial%20Pilot%20Time%20Building.html",
+        "schoolName": "Langley Flying School Incorporated",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43452",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Slemon Park",
+        "programName": "Tractor Trailer Class 1A",
+        "programURL": "https://www.jvidrivertraining.com/tractor-trailor-class-1a/",
+        "schoolName": "Jvi Transportation And Safety Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "44449",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Tractor trailer with Forklift",
+        "programURL": "https://www.jvidrivertraining.com/6-week-tractor-trailer-with-forklift/",
+        "schoolName": "Jvi Transportation And Safety Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34157",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "VFR On-the-top (VFR OTT) Rating Program",
+        "programURL": "http://www.langleyflyingschool.com/Pages/VFR%20OTT%20Program.html",
+        "schoolName": "Langley Flying School Incorporated",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "University"
+    }
+]

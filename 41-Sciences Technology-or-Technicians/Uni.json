@@ -1,0 +1,62 @@
+[
+    {
+        "programId": "37929",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Associate of Science",
+        "programURL": "https://alexandercollege.ca/programs/associate-degrees/associate-of-science/",
+        "schoolName": "Alexander College",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23545",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Bachelor of Arts in Science and Technology Studies",
+        "programURL": "https://www.stu.ca/sts/",
+        "schoolName": "St. Thomas University",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20596",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Technology in Technology Management",
+        "programURL": "https://www.bcit.ca/study/programs/8350btech",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52359",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Honours Bachelor of Health Care Technology Management (pathway to degree) \u2013 NEW",
+        "programURL": "https://durhamcollege.ca/programs/honours-bachelor-of-health-care-technology-management-pathway-to-degree",
+        "schoolName": "Durham College of Applied Arts and Technology",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11441",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Medical Physics (with optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/485/medical-physics-optional-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "22575",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Nanoscience",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/nanoscience",
+        "schoolName": "University of Toronto",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "University"
+    }
+]

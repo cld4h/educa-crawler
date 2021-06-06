@@ -1,0 +1,362 @@
+[
+    {
+        "programId": "19836",
+        "provinceName": "British Columbia",
+        "cityName": "North Vancouver",
+        "programName": "2D Animation & Visual Development Diploma",
+        "programURL": "https://www.capilanou.ca/programs--courses/program-profiles/2d-animation--visual-development-diploma/",
+        "schoolName": "Capilano University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "44915",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "3D Animation & FX",
+        "programURL": "http://pacificdesignacademy.com/3da.php",
+        "schoolName": "Western Academy of Photography",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "39163",
+        "provinceName": "British Columbia",
+        "cityName": "North Vancouver",
+        "programName": "3D Animation for Film and Games Diploma",
+        "programURL": "https://www.capilanou.ca/programs--courses/program-profiles/3d-animation-for-film-and-games-diploma/",
+        "schoolName": "Capilano University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "14712",
+        "provinceName": "Alberta",
+        "cityName": "Medicine Hat",
+        "programName": "Bachelor of Applied Arts Art and Design (formerly Visual Communications)",
+        "programURL": "https://www.mhc.ab.ca/ProgramsandCourses/Academic-Programs/Programs-of-Study/Visual-Communications",
+        "schoolName": "Medicine Hat College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20245",
+        "provinceName": "Alberta",
+        "cityName": "Red Deer",
+        "programName": "Bachelor of Applied Arts in Animation and Visual Effects",
+        "programURL": "https://rdc.ab.ca/programs",
+        "schoolName": "Red Deer College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2671",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Bachelor of Arts in Communication (Minor)",
+        "programURL": "https://www.msvu.ca/academics/bachelor-of-arts-ba/communication/",
+        "schoolName": "Mount Saint Vincent University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "37190",
+        "provinceName": "British Columbia",
+        "cityName": "Nanaimo",
+        "programName": "Bachelor of Arts in Digital Media Studies - Major",
+        "programURL": "https://www.viu.ca/programs/arts-humanities-social-sciences/digital-media-studies",
+        "schoolName": "Vancouver Island University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "14766",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Bachelor of Communication - Broadcast Media Studies",
+        "programURL": "http://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/Communications/Programs/BachelorofCommunication-BroadcastMediaStudies/index.htm",
+        "schoolName": "Mount Royal University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38584",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Bachelor of Computer Information Systems Degree",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/calendar/calendar.aspx?page=BachelorOfComputerInformationSystemsDegree",
+        "schoolName": "Okanagan College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38584",
+        "provinceName": "British Columbia",
+        "cityName": "Penticton",
+        "programName": "Bachelor of Computer Information Systems Degree",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/calendar/calendar.aspx?page=BachelorOfComputerInformationSystemsDegree",
+        "schoolName": "Okanagan College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38584",
+        "provinceName": "British Columbia",
+        "cityName": "Vernon",
+        "programName": "Bachelor of Computer Information Systems Degree",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/calendar/calendar.aspx?page=BachelorOfComputerInformationSystemsDegree",
+        "schoolName": "Okanagan College",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "15438",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Design",
+        "programURL": "http://www.macewan.ca/web/artssci/boarts/Program/Index.cfm?MenuOption=1&Line=11",
+        "schoolName": "Grant MacEwan University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47999",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Bachelor of Design - Character Design Stream",
+        "programURL": "https://www.auarts.ca/degrees-and-programs/bachelors-degrees/bdes/visual-communications-design",
+        "schoolName": "Alberta University of the Arts",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "39336",
+        "provinceName": "British Columbia",
+        "cityName": "North Vancouver",
+        "programName": "Bachelor of Design in Visual Communication",
+        "programURL": "https://www.capilanou.ca/programs--courses/program-profiles/bachelor-of-design-in-visual-communication/",
+        "schoolName": "Capilano University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "24591",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Bachelor of Fine Arts - Major in Media Arts",
+        "programURL": "https://www.auarts.ca/degrees-and-programs/bachelors-degrees/bfa/media-arts",
+        "schoolName": "Alberta University of the Arts",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35254",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Information Technology Interactive Multimedia and Design",
+        "programURL": "http://admissions.carleton.ca/programs/interactive-multimedia-and-design-imd/",
+        "schoolName": "Carleton University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52939",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science - Information Technology Major",
+        "programURL": "https://concordia.ab.ca/science/bachelor/bachelor-information-technology/",
+        "schoolName": "Concordia University of Edmonton",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7680",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Bachelor of Science in Computer Science - Computer Graphics and Gaming",
+        "programURL": "https://www.uvic.ca/engineering/computerscience/undergraduate/bsc-honours-program-info/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2641",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Bachelor of Science in Information Technology (Minor)",
+        "programURL": "http://www.msvu.ca/en/home/programsdepartments/professionalstudies/informationtechnology/default.aspx",
+        "schoolName": "Mount Saint Vincent University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7191",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Technology in Graphic Communications Management",
+        "programURL": "https://www.ryerson.ca/programs/undergraduate/graphic-communications/",
+        "schoolName": "Ryerson University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23288",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Certificate in Digital Classics",
+        "programURL": "http://academiccalendar.nipissingu.ca/~/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=5&topicgroupid=2036",
+        "schoolName": "Nipissing University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13269",
+        "provinceName": "British Columbia",
+        "cityName": "Cloverdale",
+        "programName": "Certificate in Self Publishing for Business",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13269",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Certificate in Self Publishing for Business",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13269",
+        "provinceName": "British Columbia",
+        "cityName": "Richmond",
+        "programName": "Certificate in Self Publishing for Business",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13269",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Certificate in Self Publishing for Business",
+        "programURL": "http://www.kpu.ca/cps/online-learning",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4056",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Communication and Interactive Arts and Technology Joint Major (Bachelor of Arts)",
+        "programURL": "http://www.sfu.ca/students/calendar/2018/summer/programs/communication-and-interactive-arts-and-technology/joint-major/bachelor-of-arts.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "22543",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Communication, Culture, Information, and Technology",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/communication-culture-information-and-technology",
+        "schoolName": "University of Toronto",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "12938",
+        "provinceName": "British Columbia",
+        "cityName": "North Vancouver",
+        "programName": "Digital Visual Effects Diploma",
+        "programURL": "https://www.capilanou.ca/programs--courses/program-profiles/digital-visual-effects-diploma/",
+        "schoolName": "Capilano University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "32422",
+        "provinceName": "Ontario",
+        "cityName": "Oakville",
+        "programName": "Honours Bachelor of Animation",
+        "programURL": "https://academics.sheridancollege.ca/programs/bachelor-of-animation",
+        "schoolName": "Sheridan Institute of Technology and Advanced Learning",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51146",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Arts in Communication Arts and Design Practice",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ARTS-Honours-Communication-Arts-Design-Practice",
+        "schoolName": "University of Waterloo",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52765",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Environmental Studies in Knowledge Integration, Collaborative Design Specialization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENV-Specializations-Knowledge-Integration",
+        "schoolName": "University of Waterloo",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48370",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Minor in Digital Arts Communication",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ARTS-Digital-Arts-Communication-Minor",
+        "schoolName": "University of Waterloo",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "24949",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Minor in Visual Communications",
+        "programURL": "https://www.auarts.ca/degrees-programs/visual-communication",
+        "schoolName": "Alberta University of the Arts",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35344",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Multimedia (H.B.A.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18495&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "42616",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Professional Specialization Certificate in Information Communication Technology",
+        "programURL": "https://www.uvic.ca/education/curriculum/undergraduate/home/certificates-diplomas/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7805",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Semiotics and Communications Studies",
+        "programURL": "https://future.utoronto.ca/undergraduate-programs/semiotics-and-communications-studies/",
+        "schoolName": "University of Toronto",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University"
+    }
+]

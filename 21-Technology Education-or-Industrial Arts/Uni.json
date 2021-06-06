@@ -1,0 +1,42 @@
+[
+    {
+        "programId": "21610",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Arts in Planning",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/ar/ar510/plan1",
+        "schoolName": "University of Alberta",
+        "programCategory": "21-Technology Education-or-Industrial Arts",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "17385",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Design - Industrial Design Major",
+        "programURL": "https://www.ecuad.ca/academics/undergraduate-degrees/bachelor-of-design/industrial-design-major",
+        "schoolName": "Emily Carr University of Art and Design",
+        "programCategory": "21-Technology Education-or-Industrial Arts",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26400",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Bachelor of Education in Technology",
+        "programURL": "http://education.acadiau.ca/technology.html",
+        "schoolName": "Acadia University",
+        "programCategory": "21-Technology Education-or-Industrial Arts",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "32856",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Bachelor of Technology (Trades and Technology Leadership) Degree",
+        "programURL": "http://www.tru.ca/distance/programs/technology/bachelor-technology-leadership.html",
+        "schoolName": "Thompson Rivers University - Open Learning",
+        "programCategory": "21-Technology Education-or-Industrial Arts",
+        "EducationLevel": "University"
+    }
+]

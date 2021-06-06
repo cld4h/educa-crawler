@@ -1,0 +1,522 @@
+[
+    {
+        "programId": "40864",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Applied Mathematics",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-applied-mathematics/doctor-philosophy-phd-applied-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "40811",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Applied Mathematics - Control and Dynamical Systems Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-applied-mathematics/doctor-philosophy-phd-applied-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "4331",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Applied Mathematics - Fluid Mechanics Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-applied-mathematics/doctor-philosophy-phd-applied-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "40863",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Applied Mathematics - Mathematical Medicine and Biology",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-applied-mathematics/doctor-philosophy-phd-applied-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "40919",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Applied Mathematics - Mathematical Physics",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-applied-mathematics/doctor-philosophy-phd-applied-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "48071",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Combinatorics and Optimization",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/doctor-philosophy-phd-combinatorics-and-optimization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "40908",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Combinatorics and Optimization - Algebraic Combinatorics Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/doctor-philosophy-phd-combinatorics-and-optimization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "48053",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Combinatorics and Optimization - Continuous Optimization Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/doctor-philosophy-phd-combinatorics-and-optimization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "48055",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Combinatorics and Optimization - Cryptography Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/doctor-philosophy-phd-combinatorics-and-optimization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "48056",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Combinatorics and Optimization - Discrete Optimization Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/doctor-philosophy-phd-combinatorics-and-optimization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "48057",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Combinatorics and Optimization - Graph Theory Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/doctor-philosophy-phd-combinatorics-and-optimization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "21248",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Combinatorics and Optimization - Quantum Computing Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/doctor-philosophy-phd-combinatorics-and-optimization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "48072",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Combinatorics and Optimization - Quantum Information",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/doctor-philosophy-phd-combinatorics-and-optimization-quantum-information",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "28193",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Pure Mathematics",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-pure-mathematics/doctor-philosophy-phd-pure-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "41025",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Pure Mathematics - Algebra and Logic",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/applied-health-sciences/school-public-health-and-health-systems/doctor-philosophy-phd-public-health-and-health-systems-aging-health-and-well-being",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "35249",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Pure Mathematics - Analysis",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-pure-mathematics/doctor-philosophy-phd-pure-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "48145",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Pure Mathematics - Geometry and Topology",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-pure-mathematics/doctor-philosophy-phd-pure-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "48500",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Pure Mathematics - Number Theory",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-pure-mathematics/doctor-philosophy-phd-pure-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "4400",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Statistics (5 areas of research)",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/doctor-philosophy-phd-statistics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "52747",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Statistics - Biostatistics - Probability",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/doctor-philosophy-phd-statistics-biostatistics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "52748",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Statistics - Biostatistics - Statistical Theory and Methods",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/doctor-philosophy-phd-statistics-biostatistics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "8593",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Engineering Mathematics (PhD)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/engineering-mathematics.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "27029",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Mathematical and Statistical Sciences (PhD)",
+        "programURL": "https://www.ualberta.ca/mathematical-and-statistical-sciences/graduate-studies",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "4050",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Mathematics (Doctor of Philosophy)",
+        "programURL": "http://www.sfu.ca/dean-gradstudies/future/academicprograms/faculty_of_science/mathematics.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "24072",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mathematics (PhD)",
+        "programURL": "https://graduate.mcmaster.ca/programs/mathematics",
+        "schoolName": "McMaster University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "8620",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Mathematics (PhD)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/mathematics.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "21268",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Mathematics Education (Doctor of Philosophy)",
+        "programURL": "http://www.sfu.ca/dean-gradstudies/future/academicprograms/faculty_of_science/mathematics.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "11438",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Ph.D. in Mathematics and Statistics",
+        "programURL": "https://graduate.carleton.ca/cu-programs/mathematics-and-statistics-phd/",
+        "schoolName": "University of Windsor",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "27972",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "PhD in Applied Mathematics",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=12",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "52674",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Mathematical Modelling and Methods",
+        "programURL": "https://www.ryerson.ca/graduate/calendar/programs-and-courses/mathematics/",
+        "schoolName": "Ryerson University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "83",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Mathematics",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Mathematics.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "5020",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "PhD in Mathematics",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-mathematics",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "6692",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "PhD in Mathematics",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/mathematics.html#PhD",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "10487",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "PhD in Mathematics",
+        "programURL": "https://grad.usask.ca/programs/mathematics.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "11040",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "PhD in Mathematics",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=85",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "35520",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "PhD in Mathematics & Statistics",
+        "programURL": "https://www.uoguelph.ca/graduatestudies/programs/math",
+        "schoolName": "University of Guelph",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "52562",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "PhD in Mathematics & Statistics - Applied Mathematics",
+        "programURL": "https://graduatestudies.uoguelph.ca/programs/math",
+        "schoolName": "University of Guelph",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "52563",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "PhD in Mathematics & Statistics - Applied Statistics",
+        "programURL": "https://graduatestudies.uoguelph.ca/programs/math",
+        "schoolName": "University of Guelph",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "35397",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "PhD in Mathematics - 3 Specializations - Okanagan",
+        "programURL": "http://math.ok.ubc.ca/graduate.html",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2696",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "PhD in Mathematics and Statistics",
+        "programURL": "https://www.unb.ca/gradstudies/programs/math.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "6146",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "PhD in Mathematics and Statistics",
+        "programURL": "https://graduate.carleton.ca/cu-programs/mathematics-and-statistics-phd/",
+        "schoolName": "Carleton University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "27842",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "PhD in Mathematics and Statistics",
+        "programURL": "http://www.uvic.ca/science/math-statistics/current-students/graduate/programs/phd/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "24287",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Mathematics and Statistics",
+        "programURL": "http://futurestudents.yorku.ca/graduate/programs/mathematics-and-statistics",
+        "schoolName": "York University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2394",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "PhD in Mathematics and Statistics",
+        "programURL": "https://www.mun.ca/become/graduate/programs/mathstats.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "123",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Statistics",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Statistics.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "5039",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "PhD in Statistics",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-statistics",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "6731",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "PhD in Statistics",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/statistics.html#PhD",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "7550",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "PhD in Statistics",
+        "programURL": "https://www.uvic.ca/science/math-statistics/current-students/graduate/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "11025",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "PhD in Statistics",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=141",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "11301",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "PhD in Statistics",
+        "programURL": "http://www1.uwindsor.ca/math/msc-in-statistics",
+        "schoolName": "University of Windsor",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "8624",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Statistics (PhD)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/statistics.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "21297",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Statistics and Actuarial Science (Doctor of Philosophy)",
+        "programURL": "http://www.sfu.ca/dean-gradstudies/future/academicprograms/faculty_of_science/statistics.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Doctorate"
+    }
+]

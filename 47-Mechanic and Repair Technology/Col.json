@@ -1,0 +1,2402 @@
+[
+    {
+        "programId": "30332",
+        "provinceName": "British Columbia",
+        "cityName": "Cranbrook",
+        "programName": "Foundation in Industrial Mechanic (Millwright)",
+        "programURL": "https://cotr.bc.ca/programs/industrial-mechanic-millwright/industrial-mechanic-millwright-foundation/",
+        "schoolName": "College of the Rockies",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13970",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "(Automotive) Motive Power Technician - Technical",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/automotive-motive-power-technician-technical/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39644",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "(Heavy Duty Equipment) Motive Power Technician",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/heavy-duty-equipment-motive-power-technician/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39646",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "(Truck and Coach) Motive Power Technician",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/truck-and-coach-motive-power-technician/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17431",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Advanced Diploma in Aviation Technology - Aircraft Maintenance and Avionics",
+        "programURL": "https://www.fanshawec.ca/programs/avi1-aviation-technology-aircraft-maintenance-and-avionics/current",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17461",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Advanced Diploma in Aviation Technology - Aircraft Maintenance and Avionics (Co-op)",
+        "programURL": "https://www.fanshawec.ca/programs/avi2-aviation-technology-aircraft-maintenance-and-avionics-co-op/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "26989",
+        "provinceName": "Southport",
+        "cityName": "Science and Technology",
+        "programName": "Aircraft Maintenance Engineer",
+        "programURL": "https://me.rrc.mb.ca/catalogue/ProgramInfo.aspx?ProgCode=AIRMF-DP&RegionCode=WPG",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "26989",
+        "provinceName": "Winnipeg",
+        "cityName": "Science and Technology",
+        "programName": "Aircraft Maintenance Engineer",
+        "programURL": "https://me.rrc.mb.ca/catalogue/ProgramInfo.aspx?ProgCode=AIRMF-DP&RegionCode=WPG",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "24619",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Aircraft Maintenance Engineers Technology",
+        "programURL": "https://www.sait.ca/programs-and-courses/diplomas/aircraft-maintenance-engineers-technology",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13878",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Aircraft Structural Repair Technician (1 year \u2013 Ontario College Certificate)",
+        "programURL": "https://www.canadorecollege.ca/programs/aircraft-structural-repair-technician",
+        "schoolName": "Canadore College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "24621",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Aircraft Structures Technician",
+        "programURL": "https://www.sait.ca/programs-and-courses/certificates/aircraft-structures-technician",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30689",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "Aircraft Structures Technician (AME-S)",
+        "programURL": "https://www.nic.bc.ca/programs-courses/trades-technical/transportation-programs/aircraft-structures-technician-ame-s/",
+        "schoolName": "North Island College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13484",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Apprenticeship in Automotive Service Technology Diploma",
+        "programURL": "https://www.okanagan.bc.ca/automotive-service-technology-diploma",
+        "schoolName": "Okanagan College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "20500",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Associate Certificate in Hydronic Technician",
+        "programURL": "https://www.bcit.ca/study/programs/1790acert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "40180",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Auto Body Mechanics Certificate",
+        "programURL": "https://db2.centennialcollege.ca/ce/programdetail.php?CertificateCode=7708",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "31527",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Auto Body Preparation Certificate of Achievement",
+        "programURL": "https://www.sait.ca/programs-and-courses/certificates/auto-body-preparation",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13968",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Auto Body Repair Techniques",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/auto-body-repair-techniques/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19138",
+        "provinceName": "Saskatchewan",
+        "cityName": "Regina",
+        "programName": "Auto Body Technician",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Auto-Body-Technician.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19138",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Auto Body Technician",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Auto-Body-Technician.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18150",
+        "provinceName": "New Brunswick",
+        "cityName": "Saint John",
+        "programName": "Auto Body and Collision Technician",
+        "programURL": "http://www.nbcc.ca/programs-courses/program-details?baseCurriculumId=5622c0b9-23bb-4bbd-beb3-670909357063",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "40188",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Auto Service Advisor Certificate",
+        "programURL": "https://db2.centennialcollege.ca/ce/programdetail.php?CertificateCode=7285",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "35019",
+        "provinceName": "British Columbia",
+        "cityName": "Chilliwack",
+        "programName": "Automotive Collision Repair & Refinishing Certificate",
+        "programURL": "http://www.ufv.ca/automotive_collision_repair/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "40272",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Automotive Electrical/Electronics 1",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/course/automotive-electricalelectronics-1/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19146",
+        "provinceName": "Saskatchewan",
+        "cityName": "Moose Jaw",
+        "programName": "Automotive Service Technician",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Automotive-Service-Technician.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19146",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Automotive Service Technician",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Automotive-Service-Technician.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18152",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Automotive Service Technician",
+        "programURL": "http://www.nbcc.ca/programs-courses/program-details?baseCurriculumId=69df2589-32ef-4654-afca-7a4e166caab9",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18152",
+        "provinceName": "New Brunswick",
+        "cityName": "Saint John",
+        "programName": "Automotive Service Technician",
+        "programURL": "http://www.nbcc.ca/programs-courses/program-details?baseCurriculumId=69df2589-32ef-4654-afca-7a4e166caab9",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38421",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Creston",
+        "programName": "Automotive Service Technician",
+        "programURL": "http://keyin.ca/program/automotive-service-technician/",
+        "schoolName": "Keyin College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44314",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Automotive Service Technician",
+        "programURL": "http://www.scbt.ca/programs/automotive-service-technician/",
+        "schoolName": "Stanford International College of Business & Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30021",
+        "provinceName": "British Columbia",
+        "cityName": "Fort St. John",
+        "programName": "Automotive Service Technician - Foundation (Fort St. John)",
+        "programURL": "https://www.nlc.bc.ca/Programs/All-Programs-Alphabetical/Automotive-Service-Technician-Apprenticeship",
+        "schoolName": "Northern Lights College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13155",
+        "provinceName": "British Columbia",
+        "cityName": "Chilliwack",
+        "programName": "Automotive Service Technician Certificate",
+        "programURL": "https://www.ufv.ca/automotive/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13432",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "Automotive Service Technician Foundation Harmonized Certificate",
+        "programURL": "https://www.nic.bc.ca/programs-courses/trades-technical/transportation-programs/automotive-service-technician-harmonized-certificate/",
+        "schoolName": "North Island College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13432",
+        "provinceName": "British Columbia",
+        "cityName": "Port Alberni",
+        "programName": "Automotive Service Technician Foundation Harmonized Certificate",
+        "programURL": "https://www.nic.bc.ca/programs-courses/trades-technical/transportation-programs/automotive-service-technician-harmonized-certificate/",
+        "schoolName": "North Island College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39712",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Automotive Service Technician Pre-Apprenticeship",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/automotive-service-technician-pre-apprenticeship/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "24629",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Automotive Service Technology",
+        "programURL": "https://www.sait.ca/programs-and-courses/diplomas/automotive-service-technology",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "26573",
+        "provinceName": "Alberta",
+        "cityName": "Lethbridge",
+        "programName": "Automotive Systems",
+        "programURL": "https://lethbridgecollege.ca/programs/automotive-systems",
+        "schoolName": "Lethbridge College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17307",
+        "provinceName": "Manitoba",
+        "cityName": "Brandon",
+        "programName": "Automotive Technician",
+        "programURL": "https://assiniboine.net/programs/automotive-technician",
+        "schoolName": "Assiniboine Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30908",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Automotive Technician \u2013 Service and Management (Motive Power Technician)",
+        "programURL": "https://durhamcollege.ca/programs/automotive-technician-service-and-management-motive-power-technician",
+        "schoolName": "Durham College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18448",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Summerside",
+        "programName": "Automotive Technology",
+        "programURL": "https://www.hollandcollege.com/programs/automotive-technology.html",
+        "schoolName": "Holland College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18323",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Automotive Technology",
+        "programURL": "https://nbcc.ca/programs-courses/program-details?baseCurriculumId=da0e2a90-8c32-45d7-bcf5-9c76e5af9c95",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18323",
+        "provinceName": "New Brunswick",
+        "cityName": "Saint John",
+        "programName": "Automotive Technology",
+        "programURL": "https://nbcc.ca/programs-courses/program-details?baseCurriculumId=da0e2a90-8c32-45d7-bcf5-9c76e5af9c95",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "50153",
+        "provinceName": "Saskatchewan",
+        "cityName": "Regina",
+        "programName": "Automotive painter (16 weeks)",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Automotive-Painter.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "50153",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Automotive painter (16 weeks)",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Automotive-Painter.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13966",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Aviation Technician - Aircraft Maintenance",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/aviation-technician-aircraft-maintenance/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14089",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Aviation Technician - Aircraft Maintenance",
+        "programURL": "http://www.confederationcollege.ca/program/aviation-technician-aircraft-maintenance",
+        "schoolName": "Confederation College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18699",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Aviation Technician - Aircraft Maintenance",
+        "programURL": "https://www.mohawkcollege.ca/programs/technology/aviation-technician-aircraft-maintenance-269",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13888",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Aviation Technician - Aircraft Maintenance (2 years \u2013 Ontario College Diploma)",
+        "programURL": "https://www.canadorecollege.ca/programs/aviation-technician-aircraft-maintenance",
+        "schoolName": "Canadore College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "50494",
+        "provinceName": "Ontario",
+        "cityName": "Stoney Creek",
+        "programName": "Aviation Technician - Aircraft Structures",
+        "programURL": "https://www.mohawkcollege.ca/programs/technology/aviation-technician-aircraft-structures-289",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13967",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Aviation Technician - Avionics Maintenance",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/aviation-technician-avionics-maintenance/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "52261",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Aviation Technician - Avionics Maintenance",
+        "programURL": "https://www.mohawkcollege.ca/programs/technology/aviation-technician-avionics-maintenance-299",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13877",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Aviation Technician - Avionics Maintenance (2 years \u2013 Ontario College Diploma)",
+        "programURL": "https://www.canadorecollege.ca/programs/aviation-technician-avionics-maintenance",
+        "schoolName": "Canadore College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39220",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Aviation Technology - Aircraft Maintenance and Avionics (3 years \u2013 Ontario College Advanced Diploma)",
+        "programURL": "https://www.canadorecollege.ca/programs/aviation-technology-aircraft-maintenance-and-avionics",
+        "schoolName": "Canadore College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39222",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Aviation Technology - Aircraft Maintenance and Structures (3 years \u2013 Ontario College Advanced Diploma)",
+        "programURL": "https://www.canadorecollege.ca/programs/aviation-technology-aircraft-maintenance-and-structures",
+        "schoolName": "Canadore College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "24630",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Avionics Technology",
+        "programURL": "https://www.sait.ca/programs-and-courses/diplomas/avionics-technology",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39591",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "CNC Machining",
+        "programURL": "https://nbcc.ca/programs-courses/program-details?baseCurriculumId=7d54776b-649c-42c4-ae46-fd56c12ba46e",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "12735",
+        "provinceName": "British Columbia",
+        "cityName": "Richmond",
+        "programName": "Certificate in Aircraft Gas Turbine Technician",
+        "programURL": "https://www.bcit.ca/study/programs/1030certts",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32598",
+        "provinceName": "British Columbia",
+        "cityName": "Vernon",
+        "programName": "Certificate in Aircraft Maintenance Engineer - Structures",
+        "programURL": "https://www.okanagan.bc.ca/Programs/Areas_of_Study/trades/departments/aero/Aircraft_Maintenance_Engineer__AME__Structures.html",
+        "schoolName": "Okanagan College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "43518",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Certificate in Aircraft Maintenance Studies",
+        "programURL": "http://www.dorsetcollege.bc.ca/programs.html",
+        "schoolName": "Dorset College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38662",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Certificate in Aircraft Structural Repair Technician",
+        "programURL": "https://www.fanshawec.ca/programs/asr1-aircraft-structural-repair-technician/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17352",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Stephenville",
+        "programName": "Certificate in Aircraft Structural Repair Technician",
+        "programURL": "https://www.cna.nl.ca/program/aircraft-structural-repair-technician",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17640",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Certificate in Auto Body Repair Techniques",
+        "programURL": "https://www.fanshawec.ca/programs/abt1-auto-body-repair-techniques/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "12741",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Certificate in Automotive Refinishing Technician Foundation",
+        "programURL": "https://www.bcit.ca/study/programs/1125ttcert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17356",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Gander",
+        "programName": "Certificate in Automotive Service Technician",
+        "programURL": "https://www.cna.nl.ca/program/automotive-service-technician",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17356",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Certificate in Automotive Service Technician",
+        "programURL": "https://www.cna.nl.ca/program/automotive-service-technician",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17356",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Stephenville",
+        "programName": "Certificate in Automotive Service Technician",
+        "programURL": "https://www.cna.nl.ca/program/automotive-service-technician",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "43521",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Certificate in Automotive Service Technician Studies",
+        "programURL": "http://www.dorsetcollege.bc.ca/programs.html",
+        "schoolName": "Dorset College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18519",
+        "provinceName": "Manitoba",
+        "cityName": "The Pas",
+        "programName": "Certificate in Automotive Technician",
+        "programURL": "https://www.ucn.ca/sites/academics/tradetech/programofferings/automotive/Pages/Automotive.aspx",
+        "schoolName": "University College of the North",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18519",
+        "provinceName": "Manitoba",
+        "cityName": "Thompson",
+        "programName": "Certificate in Automotive Technician",
+        "programURL": "https://www.ucn.ca/sites/academics/tradetech/programofferings/automotive/Pages/Automotive.aspx",
+        "schoolName": "University College of the North",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "26173",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Certificate in Automotive Technician - Toyota Foundation",
+        "programURL": "https://www.bcit.ca/study/programs/1375ttcert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "26179",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Certificate in Automotive Technician Foundation",
+        "programURL": "https://www.bcit.ca/study/programs/1355ttcert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19539",
+        "provinceName": "Winnipeg",
+        "cityName": "Science and Technology",
+        "programName": "Certificate in Collision Repair and Refinishing",
+        "programURL": "https://catalogue.rrc.ca/Programs/WPG/Fulltime/COLFF-CT",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "20325",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Certificate in Electronics Technician (Formerly Industrial Electronics)",
+        "programURL": "http://mitt.ca/programs/post-secondary-programs/40/industrial-electronics",
+        "schoolName": "Manitoba Institute of Trades and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17521",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Certificate in Gas Technician II",
+        "programURL": "https://www.fanshawec.ca/pt/gtn1w-gas-technician-ii",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38768",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Certificate in Heating, Ventilation, Air Conditioning and Refrigeration Technician",
+        "programURL": "https://www.bcit.ca/study/programs/2955ttcert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19638",
+        "provinceName": "Winnipeg",
+        "cityName": "Science and Technology",
+        "programName": "Certificate in Heavy Duty Equipment Mechanic",
+        "programURL": "https://catalogue.rrc.ca/Programs/WPG/Fulltime/HEADF-CT",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32340",
+        "provinceName": "British Columbia",
+        "cityName": "Nelson",
+        "programName": "Certificate in Heavy Mechanical Foundation",
+        "programURL": "http://selkirk.ca/program/heavy-mechanical-foundation",
+        "schoolName": "Selkirk College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38965",
+        "provinceName": "British Columbia",
+        "cityName": "Delta",
+        "programName": "Certificate in Heavy Mechanical Trades Foundation",
+        "programURL": "https://www.bcit.ca/study/programs/1940cert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "12878",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Certificate in Heavy Mechanical Trades Foundation",
+        "programURL": "http://camosun.ca/learn/programs/heavy-mechanical-trades-foundation/",
+        "schoolName": "Camosun College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "12797",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Certificate in Machinist Foundation",
+        "programURL": "https://www.bcit.ca/study/programs/2175ttcert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19727",
+        "provinceName": "Winnipeg",
+        "cityName": "Science and Technology",
+        "programName": "Certificate in Marine and Powersports Technician",
+        "programURL": "https://catalogue.rrc.ca/Programs/WPG/FullTime/MARPF-CT",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "12805",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Certificate in Millwright Foundation",
+        "programURL": "https://www.bcit.ca/study/programs/2230cert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "12807",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Certificate in Motorcycle and Power Equipment Technician Foundation",
+        "programURL": "https://www.bcit.ca/study/programs/2360ttcert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "12821",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Certificate in Refrigeration Mechanic Foundation",
+        "programURL": "https://www.bcit.ca/study/programs/2320ttcert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19731",
+        "provinceName": "Winnipeg",
+        "cityName": "Science and Technology",
+        "programName": "Certificate in Refrigeration and Air Conditioning Technician",
+        "programURL": "https://catalogue.rrc.ca/Programs/WPG/Fulltime/REF5F-CT",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32599",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Collision Repair and Refinishing Diploma",
+        "programURL": "https://www.okanagan.bc.ca/collision-repair-and-refinishing-diploma",
+        "schoolName": "Okanagan College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37802",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Stephenville",
+        "programName": "Computer Service Technician",
+        "programURL": "http://www.westerncollege.net/computerservicetecnician.html",
+        "schoolName": "Western College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17567",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Declaration of Academic Achievement in AutoCAD Operator Training",
+        "programURL": "https://www.fanshawec.ca/pt/aot1-autocad-operator-training",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "33839",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Diesel Equipment Technician",
+        "programURL": "https://www.sait.ca/programs-and-courses/certificates/diesel-equipment-technician",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "12736",
+        "provinceName": "British Columbia",
+        "cityName": "Richmond",
+        "programName": "Diploma in Aircraft Maintenance Engineer Category 'M' (Maintenance)",
+        "programURL": "https://www.bcit.ca/study/programs/1010dipts#details",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "45036",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Diploma in Aircraft Maintenance Technician",
+        "programURL": "https://www.algonquincollege.com/sat/program/aircraft-maintenance-technician/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "45748",
+        "provinceName": "British Columbia",
+        "cityName": "Prince George",
+        "programName": "Diploma in Automotive Service Technician",
+        "programURL": "http://www.cnc.bc.ca/programs-courses/Mobile_Crane.htm",
+        "schoolName": "College of New Caledonia",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "26178",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Diploma in Automotive Service Technician - Ford ASSET Option",
+        "programURL": "https://www.bcit.ca/study/programs/143adipma",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "12745",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Diploma in Automotive Service Technician and Operations",
+        "programURL": "https://www.bcit.ca/study/programs/1430dipma",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "46292",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Diploma in Automotive Service Technician and Operations - Non-Co-op Option",
+        "programURL": "https://www.bcit.ca/study/programs/143bdipma",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19498",
+        "provinceName": "Winnipeg",
+        "cityName": "Science and Technology",
+        "programName": "Diploma in Automotive Technician",
+        "programURL": "https://catalogue.rrc.ca/Programs/WPG/Fulltime/AUTDF-DP",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19494",
+        "provinceName": "Winnipeg",
+        "cityName": "Science and Technology",
+        "programName": "Diploma in Automotive Technology",
+        "programURL": "https://catalogue.rrc.ca/Programs/WPG/FullTime/AUTIF-DP",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "52691",
+        "provinceName": "British Columbia",
+        "cityName": "Cranbrook",
+        "programName": "Diploma in Autonomous Systems Technician",
+        "programURL": "https://cotr.bc.ca/programs/autonomous-systems-technician/",
+        "schoolName": "College of the Rockies",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38924",
+        "provinceName": "British Columbia",
+        "cityName": "Richmond",
+        "programName": "Diploma in Aviation Maintenance Technician - Avionics",
+        "programURL": "https://www.bcit.ca/study/programs/1130dipma",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38668",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Diploma in Aviation Technician - Aircraft Maintenance",
+        "programURL": "https://www.fanshawec.ca/programs/aam3-aviation-technician-aircraft-maintenance/current",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17407",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Diploma in Aviation Technician - Aircraft Maintenance (Co-op)",
+        "programURL": "https://www.fanshawec.ca/programs/aam4-aviation-technician-aircraft-maintenance-co-op/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17691",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Diploma in Aviation Technician - Avionics Maintenance",
+        "programURL": "https://www.fanshawec.ca/programs/avm3-aviation-technician-avionics-maintenance/current",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17655",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Diploma in Aviation Technician - Avionics Maintenance (Co-op)",
+        "programURL": "https://www.fanshawec.ca/programs/avm4-aviation-technician-avionics-maintenance-co-op/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34707",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Diploma in Aviation Techniques - Aircraft Maintenance",
+        "programURL": "https://www.algonquincollege.com/sat/program/aircraft-maintenance-technician/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "20566",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Diploma in CNC Machinist Technician",
+        "programURL": "https://www.bcit.ca/study/programs/1525ttdipl",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "25869",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Diploma in Heating, Refrigeration and Air Conditioning Technician (42 weeks)",
+        "programURL": "https://www.algonquincollege.com/acce/program/heating-refrigeration-and-air-conditioning-technician/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "20565",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Diploma in Heating, Ventilation, Air Conditioning and Refrigeration Technician",
+        "programURL": "https://www.bcit.ca/study/programs/2990ttdipl",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18534",
+        "provinceName": "Manitoba",
+        "cityName": "The Pas",
+        "programName": "Diploma in Heavy Duty Mechanics",
+        "programURL": "https://www.ucn.ca/sites/academics/tradetech/programofferings/heavyduty/Pages/Heavy-Duty-Mechanics.aspx",
+        "schoolName": "University College of the North",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "52085",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Diploma in Motive Power Technician (42 weeks)",
+        "programURL": "https://www.algonquincollege.com/sat/program/motive-power-technician/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38733",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Diploma in Motive Power Technician - Automotive",
+        "programURL": "https://www.fanshawec.ca/programs/mta7-motive-power-technician-automotive/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38734",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Diploma in Motive Power Technician - Diesel",
+        "programURL": "https://www.fanshawec.ca/programs/mtd7-motive-power-technician-diesel/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "52087",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Diploma in Motive Power Technician - Diesel Equipment and Truck (42 weeks)",
+        "programURL": "https://www.algonquincollege.com/sat/program/motive-power-technician-diesel-equipment-truck/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39690",
+        "provinceName": "Ontario",
+        "cityName": "Kitchener",
+        "programName": "Electrical Technician - Industrial (Co-op)",
+        "programURL": "https://www.conestogac.on.ca/fulltime/electrical-technician-industrial",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39693",
+        "provinceName": "Ontario",
+        "cityName": "Whitby",
+        "programName": "Electrical Techniques",
+        "programURL": "https://durhamcollege.ca/programs/electrical-techniques",
+        "schoolName": "Durham College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39691",
+        "provinceName": "Ontario",
+        "cityName": "Ingersoll",
+        "programName": "Electrical Techniques",
+        "programURL": "https://www.conestogac.on.ca/fulltime/electrical-techniques",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39691",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Electrical Techniques",
+        "programURL": "https://www.conestogac.on.ca/fulltime/electrical-techniques",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38823",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Electronics Technician Program (Distance Education)",
+        "programURL": "https://www.georgebrown.ca/programs/electronics-technician-program-distance-education-t901/?year=2018#overviewContenthttps://www.georgebrown.ca/programs/electronics-technician-program-distance-education-t901/?year=2019",
+        "schoolName": "George Brown College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "40294",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Fluid Power Technician Certificate",
+        "programURL": "https://db2.centennialcollege.ca/ce/programdetail.php?CertificateCode=7412",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "33186",
+        "provinceName": "British Columbia",
+        "cityName": "Prince George",
+        "programName": "Foundation Program in Automotive Service Technician",
+        "programURL": "http://www.cnc.bc.ca/programs-courses/Automotive_Service_Technician.htm",
+        "schoolName": "College of New Caledonia",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30339",
+        "provinceName": "British Columbia",
+        "cityName": "Cranbrook",
+        "programName": "Foundation in Automotive Service Technician",
+        "programURL": "https://cotr.bc.ca/programs/automotive-service-technician/automotive-service-technician-foundation/",
+        "schoolName": "College of the Rockies",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15880",
+        "provinceName": "British Columbia",
+        "cityName": "Cranbrook",
+        "programName": "Foundation in Heavy Duty Equipment Technician",
+        "programURL": "https://cotr.bc.ca/programs/heavy-duty/heavy-duty-foundation/",
+        "schoolName": "College of the Rockies",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44323",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Gas Fitter Level 3",
+        "programURL": "https://www.scbt.ca/programs/gas-fitter-level-3-9-wks-full-time",
+        "schoolName": "Stanford International College of Business & Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44323",
+        "provinceName": "Ontario",
+        "cityName": "Scarborough",
+        "programName": "Gas Fitter Level 3",
+        "programURL": "https://www.scbt.ca/programs/gas-fitter-level-3-9-wks-full-time",
+        "schoolName": "Stanford International College of Business & Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44323",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Gas Fitter Level 3",
+        "programURL": "https://www.scbt.ca/programs/gas-fitter-level-3-9-wks-full-time",
+        "schoolName": "Stanford International College of Business & Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37651",
+        "provinceName": "Ontario",
+        "cityName": "Collingwood",
+        "programName": "Gas Technician",
+        "programURL": "http://www.georgiancollege.ca/academics/full-time-programs/gas-technician-gast/",
+        "schoolName": "Georgian College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37651",
+        "provinceName": "Ontario",
+        "cityName": "Owen Sound",
+        "programName": "Gas Technician",
+        "programURL": "http://www.georgiancollege.ca/academics/full-time-programs/gas-technician-gast/",
+        "schoolName": "Georgian College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44324",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Gas Technician (G3 & G2)",
+        "programURL": "https://www.scbt.ca/programs/gas-technician-g3-g2-full-time",
+        "schoolName": "Stanford International College of Business & Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44324",
+        "provinceName": "Ontario",
+        "cityName": "Scarborough",
+        "programName": "Gas Technician (G3 & G2)",
+        "programURL": "https://www.scbt.ca/programs/gas-technician-g3-g2-full-time",
+        "schoolName": "Stanford International College of Business & Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44324",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Gas Technician (G3 & G2)",
+        "programURL": "https://www.scbt.ca/programs/gas-technician-g3-g2-full-time",
+        "schoolName": "Stanford International College of Business & Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14244",
+        "provinceName": "Ontario",
+        "cityName": "Whitby",
+        "programName": "Gas Technician 2",
+        "programURL": "https://durhamcollege.ca/programs/gas-technician-2",
+        "schoolName": "Durham College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37421",
+        "provinceName": "Alberta",
+        "cityName": "Fairview",
+        "programName": "Harley-Davidson Technician Certificate",
+        "programURL": "https://www.gprc.ab.ca/programs/harley-davidson-technician.html",
+        "schoolName": "Grande Prairie Regional College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39982",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Heating Ventilation Air Conditioning Refrigeration Technician",
+        "programURL": "http://www.nait.ca/program_home_78351.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15229",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Heating, Refrigeration & Air Conditioning Technician",
+        "programURL": "http://www.stclaircollege.ca/programs/postsec/hvac/",
+        "schoolName": "St. Clair College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "25979",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Heating, Refrigeration and Air Conditioning Technician",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/heating-refrigeration-and-ac-technician/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18049",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Heating, Refrigeration and Air Conditioning Technician",
+        "programURL": "https://www.georgebrown.ca/programs/heating-refrigeration-and-air-conditioning-technician-program-t160/?year=2019",
+        "schoolName": "George Brown College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "23081",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Heating, Refrigeration and Air Conditioning Technician",
+        "programURL": "https://appliedtechnology.humber.ca/index.php?q=programs/heating-refrigeration-and-air-conditioning-technician.html",
+        "schoolName": "Humber College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39692",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Heating, Refrigeration and Air Conditioning Technician",
+        "programURL": "http://www.conestogac.on.ca/fulltime/heating-refrigeration-and-air-conditioning-technician",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "27739",
+        "provinceName": "Ontario",
+        "cityName": "Stoney Creek",
+        "programName": "Heating, Refrigeration and Air Conditioning Techniques",
+        "programURL": "https://www.mohawkcollege.ca/programs/skilled-trades/heating-refrigeration-and-air-conditioning-techniques-180",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38830",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Heating, Refrigeration and Air Conditioning Technology",
+        "programURL": "https://www.georgebrown.ca/programs/heating-refrigeration-and-air-conditioning-technology-program-t162/?year=2019",
+        "schoolName": "George Brown College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "23106",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Heating, Refrigeration and Air Conditioning Technology",
+        "programURL": "http://appliedtechnology.humber.ca/programs/heating-refrigeration-and-air-conditioning-technology.html",
+        "schoolName": "Humber College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13788",
+        "provinceName": "Ontario",
+        "cityName": "Sudbury",
+        "programName": "Heating, Ventilation & Air Conditioning Technician (HVTN)",
+        "programURL": "http://cambriancollege.ca/programs/heating-ventilation-air-conditioning-technician/",
+        "schoolName": "Cambrian College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "26042",
+        "provinceName": "Ontario",
+        "cityName": "Whitby",
+        "programName": "Heating, Ventilation and Air Conditioning Techniques (HVAC)",
+        "programURL": "https://durhamcollege.ca/programs/heating-ventilation-and-air-conditioning-techniques-hvac",
+        "schoolName": "Durham College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17321",
+        "provinceName": "Manitoba",
+        "cityName": "Brandon",
+        "programName": "Heavy Duty Equipment Technician",
+        "programURL": "https://assiniboine.net/programs/heavy-duty-equipment-technician",
+        "schoolName": "Assiniboine Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "31019",
+        "provinceName": "Saskatchewan",
+        "cityName": "Meadow Lake",
+        "programName": "Heavy Equipment & Truck & Transport Certificate",
+        "programURL": "https://northwestcollege.ca/program.html?ProgramID=70&NavID=8&loc=558",
+        "schoolName": "North West College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49454",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Heavy Equipment And Truck And Transport (19-week program)",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Heavy-Equipment-and-Truck-and-Transport.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49455",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Heavy Equipment And Truck And Transport Technician (35 weeks)",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Heavy-Equipment-and-Truck-and-Transport-Technician.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "41263",
+        "provinceName": "Alberta",
+        "cityName": "Lac La Biche",
+        "programName": "Heavy Equipment Operator",
+        "programURL": "http://www.portagecollege.ca/Programs/Trades-and-Technology/Heavy-Equipment-Operator",
+        "schoolName": "Portage College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "46948",
+        "provinceName": "New Brunswick",
+        "cityName": "Miramichi",
+        "programName": "Heavy Equipment Operator",
+        "programURL": "http://www.nbcc.ca/programs-courses/specialized-full-time-programs/heavy-equipment-operator",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37748",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Creston",
+        "programName": "Heavy Equipment Operator",
+        "programURL": "http://keyin.ca/program/heavy-equipment-operator/",
+        "schoolName": "Keyin College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19952",
+        "provinceName": "Saskatchewan",
+        "cityName": "Warman",
+        "programName": "Heavy Equipment Operator (HEO)",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/college-trades-university/heavy-equipment-operator-heo",
+        "schoolName": "Great Plains College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "50688",
+        "provinceName": "British Columbia",
+        "cityName": "Merritt",
+        "programName": "Heavy Equipment Operator Foundation/Technician Certificate",
+        "programURL": "http://www.nvit.ca/heavy-equipment-operator-foundationtechnician-certificate/program.aspx",
+        "schoolName": "Nicola Valley Institute of Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18161",
+        "provinceName": "New Brunswick",
+        "cityName": "Miramichi",
+        "programName": "Heavy Equipment Service Technician",
+        "programURL": "http://www.nbcc.ca/programs-courses/program-details?baseCurriculumId=44ad616a-79a1-40c7-9adc-236156f8ba45",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13785",
+        "provinceName": "Ontario",
+        "cityName": "Sudbury",
+        "programName": "Heavy Equipment Technician (HDTN)",
+        "programURL": "http://cambriancollege.ca/programs/heavy-equipment-technician/",
+        "schoolName": "Cambrian College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32314",
+        "provinceName": "Ontario",
+        "cityName": "South Porcupine",
+        "programName": "Heavy Equipment Techniques",
+        "programURL": "http://www.northernc.on.ca/heavy-equipment-techniques/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19685",
+        "provinceName": "Saskatchewan",
+        "cityName": "Yorkton",
+        "programName": "Heavy Equipment Truck & Transport Technician",
+        "programURL": "http://www.parklandcollege.sk.ca/programs/tradesapprenticeship/hetandtt.html",
+        "schoolName": "Parkland College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "48633",
+        "provinceName": "British Columbia",
+        "cityName": "Terrace",
+        "programName": "Heavy Mechanical Trades",
+        "programURL": "https://catalogue.coastmountaincollege.ca/programs/heavy-mechanical-apprenticeship/",
+        "schoolName": "Coast Mountain College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34256",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "Heavy Mechanical Trades Foundation Certificate",
+        "programURL": "https://www.nic.bc.ca/programs-courses/trades-technical/transportation-programs/heavy-mechanical-foundation/",
+        "schoolName": "North Island College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18915",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Industrial Heavy Equipment Technology",
+        "programURL": "http://www.nait.ca/program_home_76895.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "46538",
+        "provinceName": "Ontario",
+        "cityName": "Kitchener",
+        "programName": "Industrial Maintenance Mechanical Techniques",
+        "programURL": "http://www.conestogac.on.ca/parttime/industrial-maintenance-mechanical-techniques",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32565",
+        "provinceName": "Ontario",
+        "cityName": "Kingston",
+        "programName": "Industrial Mechanic (Millwright) Apprenticeship (Level 1 to 3)",
+        "programURL": "https://www.stlawrencecollege.ca/programs-and-courses/full-time/programs/a_m/industrial-mechanic-millwright-apprenticeship/kingston/",
+        "schoolName": "St. Lawrence College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "48634",
+        "provinceName": "British Columbia",
+        "cityName": "Terrace",
+        "programName": "Industrial Mechanic (Millwright) Apprenticeship Levels 1-4",
+        "programURL": "https://catalogue.coastmountaincollege.ca/programs/millwright-apprenticeship/",
+        "schoolName": "Coast Mountain College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13787",
+        "provinceName": "Ontario",
+        "cityName": "Sudbury",
+        "programName": "Industrial Mechanical Millwright Technician (IMTN)",
+        "programURL": "http://cambriancollege.ca/programs/industrial-mechanical-millwright-technician/",
+        "schoolName": "Cambrian College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18293",
+        "provinceName": "New Brunswick",
+        "cityName": "Miramichi",
+        "programName": "Industrial Mechanics",
+        "programURL": "http://www.nbcc.ca/programs-courses/program-details?baseCurriculumId=4b7cc444-3e34-46c4-b5ba-bb6e155389e1",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18293",
+        "provinceName": "New Brunswick",
+        "cityName": "Saint John",
+        "programName": "Industrial Mechanics",
+        "programURL": "http://www.nbcc.ca/programs-courses/program-details?baseCurriculumId=4b7cc444-3e34-46c4-b5ba-bb6e155389e1",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19617",
+        "provinceName": "Saskatchewan",
+        "cityName": "Prince Albert",
+        "programName": "Industrial Mechanics (Applied Certificate, 16 weeks)",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Industrial-Mechanics-Applied-Certificate.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19617",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Industrial Mechanics (Applied Certificate, 16 weeks)",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Industrial-Mechanics-Applied-Certificate.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "33210",
+        "provinceName": "British Columbia",
+        "cityName": "Coquitlam",
+        "programName": "Light Warehouse Training",
+        "programURL": "http://www.douglascollege.ca/programs-courses/catalogue/programs/CNLWTP",
+        "schoolName": "Douglas College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18198",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Machinist",
+        "programURL": "http://www.nbcc.ca/programs-courses/program-details?baseCurriculumId=baeb28c6-1ed3-4269-b5d3-df176021d8a0",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18198",
+        "provinceName": "New Brunswick",
+        "cityName": "Saint John",
+        "programName": "Machinist",
+        "programURL": "http://www.nbcc.ca/programs-courses/program-details?baseCurriculumId=baeb28c6-1ed3-4269-b5d3-df176021d8a0",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18300",
+        "provinceName": "New Brunswick",
+        "cityName": "St. Andrews",
+        "programName": "Marine Diesel Mechanics",
+        "programURL": "http://www.nbcc.ca/programs-courses/program-details?baseCurriculumId=35b024f3-26d6-4031-92a3-d27a4b6cd440",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "24995",
+        "provinceName": "Ontario",
+        "cityName": "Cambridge",
+        "programName": "Mechanical Engineering Technician - Automated Manufacturing (Optional Co-op)",
+        "programURL": "https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18305",
+        "provinceName": "New Brunswick",
+        "cityName": "Saint John",
+        "programName": "Mechanical Technician (Optional Co-op)",
+        "programURL": "http://www.nbcc.ca/programs-courses/program-details?baseCurriculumId=a47563fb-375e-4cce-9652-2cf8e41c30b5",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "26170",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Mechanical Technician - CNC and Precision Machining",
+        "programURL": "https://www.georgebrown.ca/programs/mechanical-technician-cnc-and-precision-machining-t173/?year=2019",
+        "schoolName": "George Brown College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "52266",
+        "provinceName": "Ontario",
+        "cityName": "Stoney Creek",
+        "programName": "Mechanical Technician - Elevating Devices",
+        "programURL": "https://www.mohawkcollege.ca/programs/skilled-trades/mechanical-technician-elevating-devices-484",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14246",
+        "provinceName": "Ontario",
+        "cityName": "Whitby",
+        "programName": "Mechanical Technician \u2013 Elevating Devices (Co-op option available)",
+        "programURL": "https://durhamcollege.ca/programs/mechanical-technician-elevating-devices",
+        "schoolName": "Durham College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "26051",
+        "provinceName": "Ontario",
+        "cityName": "Whitby",
+        "programName": "Mechanical Technician \u2013 Millwright (Co-op option available)",
+        "programURL": "https://durhamcollege.ca/programs/mechanical-technician-millwright",
+        "schoolName": "Durham College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14069",
+        "provinceName": "Ontario",
+        "cityName": "Dryden",
+        "programName": "Mechanical Techniques",
+        "programURL": "http://www.confederationcollege.ca/program/mechanical-techniques",
+        "schoolName": "Confederation College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14069",
+        "provinceName": "Ontario",
+        "cityName": "Fort Frances",
+        "programName": "Mechanical Techniques",
+        "programURL": "http://www.confederationcollege.ca/program/mechanical-techniques",
+        "schoolName": "Confederation College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14069",
+        "provinceName": "Ontario",
+        "cityName": "Kenora",
+        "programName": "Mechanical Techniques",
+        "programURL": "http://www.confederationcollege.ca/program/mechanical-techniques",
+        "schoolName": "Confederation College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14069",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Mechanical Techniques",
+        "programURL": "http://www.confederationcollege.ca/program/mechanical-techniques",
+        "schoolName": "Confederation College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32208",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechanical Techniques (Advanced Manufacturing Operations)",
+        "programURL": "https://www.mohawkcollege.ca/programs/skilled-trades/mechanical-techniques-advanced-manufacturing-operations-568",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18671",
+        "provinceName": "Ontario",
+        "cityName": "Stoney Creek",
+        "programName": "Mechanical Techniques (Electrical Monitoring & Systems)",
+        "programURL": "http://www.mohawkcollege.ca/programs/skilled-trades/mechanical-techniques-electrical-monitoring-systems-573",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32519",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Mechanical Techniques - Machine Shop",
+        "programURL": "http://www.saultcollege.ca/Programs/Programs.asp?progcode=4040&cat=overview&groupcode=SKI",
+        "schoolName": "Sault College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "26016",
+        "provinceName": "Ontario",
+        "cityName": "Midland",
+        "programName": "Mechanical Techniques - Marine Engine Mechanic",
+        "programURL": "http://www.georgiancollege.ca/academics/full-time-programs/mechanical-techniques-marine-engine-mechanic-mtme/",
+        "schoolName": "Georgian College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "23200",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Mechanical Techniques - Millwright",
+        "programURL": "https://appliedtechnology.humber.ca/index.php?q=programs/mechanical-techniques-millwright.html",
+        "schoolName": "Humber College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "26018",
+        "provinceName": "Ontario",
+        "cityName": "Midland",
+        "programName": "Mechanical Techniques - Small Engine Mechanic",
+        "programURL": "http://www.georgiancollege.ca/academics/full-time-programs/mechanical-techniques-small-engine-mechanic-mtse/",
+        "schoolName": "Georgian College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32472",
+        "provinceName": "Ontario",
+        "cityName": "Brampton",
+        "programName": "Mechanical Techniques - Tool and Die Maker",
+        "programURL": "https://academics.sheridancollege.ca/programs/mechanical-techniques-tool-and-die-maker",
+        "schoolName": "Sheridan Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15374",
+        "provinceName": "Ontario",
+        "cityName": "Haileybury",
+        "programName": "Mechanical Techniques \u2013 Industrial Millwright Level 1 Apprenticeship",
+        "programURL": "http://www.northernc.on.ca/mechanical-techniques-industrial-millwright/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15374",
+        "provinceName": "Ontario",
+        "cityName": "Kirkland Lake",
+        "programName": "Mechanical Techniques \u2013 Industrial Millwright Level 1 Apprenticeship",
+        "programURL": "http://www.northernc.on.ca/mechanical-techniques-industrial-millwright/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15374",
+        "provinceName": "Ontario",
+        "cityName": "Moosonee",
+        "programName": "Mechanical Techniques \u2013 Industrial Millwright Level 1 Apprenticeship",
+        "programURL": "http://www.northernc.on.ca/mechanical-techniques-industrial-millwright/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15374",
+        "provinceName": "Ontario",
+        "cityName": "South Porcupine",
+        "programName": "Mechanical Techniques \u2013 Industrial Millwright Level 1 Apprenticeship",
+        "programURL": "http://www.northernc.on.ca/mechanical-techniques-industrial-millwright/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "27727",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Motive Power Fundamentals",
+        "programURL": "https://www.mohawkcollege.ca/programs/skilled-trades/motive-power-fundamentals-187",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "47834",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Motive Power Fundamentals - Automotive Repair",
+        "programURL": "http://www.conestogac.on.ca/fulltime/motive-power-fundamentals-automotive-repair",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "36736",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Motive Power Fundamentals - Automotive Repair",
+        "programURL": "http://www.saultcollege.ca/Programs/Programs.asp?progcode=4041&cat=overview&groupcode=SKI",
+        "schoolName": "Sault College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19020",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Motive Power Fundamentals - Heavy Equipment and Truck Repair",
+        "programURL": "http://www.saultcollege.ca/Programs/Programs.asp?progcode=5085&cat=overview&groupcode=SKI",
+        "schoolName": "Sault College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34890",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Motive Power Fundamentals - Motorcycle and Sport Vehicle Repair (1 year \u2013 Ontario College Certificate)",
+        "programURL": "https://www.canadorecollege.ca/programs/motive-power-fundamentals-motorcycle-and-sport-vehicle-repair",
+        "schoolName": "Canadore College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15235",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Motive Power Technician",
+        "programURL": "http://www.stclaircollege.ca/programs/postsec/motive/",
+        "schoolName": "St. Clair College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15317",
+        "provinceName": "Ontario",
+        "cityName": "Cornwall",
+        "programName": "Motive Power Technician",
+        "programURL": "https://www.stlawrencecollege.ca/programs-and-courses/full-time/programs/a_m/motive-power-technician/cornwall/",
+        "schoolName": "St. Lawrence College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18678",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Motive Power Technician",
+        "programURL": "https://www.mohawkcollege.ca/programs/skilled-trades/motive-power-technician-446",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13910",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Motive Power Technician (40 weeks \u2013 Ontario College Diploma)",
+        "programURL": "https://www.canadorecollege.ca/programs/motive-power-technician",
+        "schoolName": "Canadore College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32520",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Motive Power Technician - Advanced Repair",
+        "programURL": "http://www.saultcollege.ca/Programs/Programs.asp?progcode=4044&cat=overview&groupcode=SKI",
+        "schoolName": "Sault College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "33437",
+        "provinceName": "Ontario",
+        "cityName": "South Porcupine",
+        "programName": "Motive Power Technician - Automotive Service",
+        "programURL": "http://www.northernc.on.ca/motive-power-technician-automotive-service/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39831",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Motive Power Technician - Automotive Service",
+        "programURL": "http://www.conestogac.on.ca/fulltime/motive-power-technician-automotive-service",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "47835",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Motive Power Technician - Heavy Duty Equipment",
+        "programURL": "http://www.conestogac.on.ca/fulltime/motive-power-technician-heavy-duty-equipment",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "16892",
+        "provinceName": "Ontario",
+        "cityName": "South Porcupine",
+        "programName": "Motive Power Technician - Heavy Equipment",
+        "programURL": "http://www.northernc.on.ca/motive-power-technician-heavy-equipment/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34694",
+        "provinceName": "Ontario",
+        "cityName": "Sudbury",
+        "programName": "Motive Power Technician - Service and Management (VMTN)",
+        "programURL": "http://cambriancollege.ca/programs/motive-power-technician-service-and-management/",
+        "schoolName": "Cambrian College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39784",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Motive Power Technician - Truck and Coach",
+        "programURL": "https://www.conestogac.on.ca/fulltime/motive-power-technician-truck-and-coach",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39962",
+        "provinceName": "Ontario",
+        "cityName": "Sudbury",
+        "programName": "Motive Power Technician - Truck and Coach (TCTN)",
+        "programURL": "http://cambriancollege.ca/programs/motive-power-technician-truck-and-coach/",
+        "schoolName": "Cambrian College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "47836",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Motive Power Techniques - Heavy Duty Equipment Repair",
+        "programURL": "https://www.conestogac.on.ca/fulltime/motive-power-techniques-heavy-duty-equipment-repair",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14123",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Motive Power Techniques - Heavy Equipment",
+        "programURL": "http://www.confederationcollege.ca/program/motive-power-techniques-heavy-equipment",
+        "schoolName": "Confederation College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39834",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Motive Power Techniques - Motorcycle and Power Sport Vehicles Repair",
+        "programURL": "https://www.conestogac.on.ca/fulltime/motive-power-techniques-motorcycle-and-power-sport-vehicles-repair",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "47837",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Motive Power Techniques - Truck and Coach Repair",
+        "programURL": "https://www.conestogac.on.ca/fulltime/motive-power-techniques-truck-and-coach-repair",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "46629",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Motorcycle Maintenance Certificate",
+        "programURL": "https://db2.centennialcollege.ca/ce/programdetail.php?CertificateCode=7825",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37428",
+        "provinceName": "Alberta",
+        "cityName": "Fairview",
+        "programName": "Motorcycle Mechanic Certificate",
+        "programURL": "https://www.gprc.ab.ca/programs/motorcycle-mechanic.html",
+        "schoolName": "Grande Prairie Regional College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "35104",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Motorcycle Repair",
+        "programURL": "http://www.nbcc.ca/programs-courses/program-details?baseCurriculumId=3a37b795-017f-4a89-b30f-b0208ddb4bfa",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13971",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Motorcycle and Powersports Product Repair Techniques",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/motorcycle-and-powersports-product-repair-techniques/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "40335",
+        "provinceName": "Alberta",
+        "cityName": "Fairview",
+        "programName": "Parts and Materials Technician Certificate",
+        "programURL": "https://www.gprc.ab.ca/programs/parts-materials-technician.html",
+        "schoolName": "Grande Prairie Regional College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37121",
+        "provinceName": "Saskatchewan",
+        "cityName": "Swift Current",
+        "programName": "Power Engineering - Fourth Class",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/college-trades-university/power-engineering-fourth-class",
+        "schoolName": "Great Plains College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "29963",
+        "provinceName": "Saskatchewan",
+        "cityName": "Humboldt",
+        "programName": "Power Engineering - Third (3rd) Class Theory - Post-Secondary Education - Trades & Technology",
+        "programURL": "https://www.carltontrailcollege.com/view-program-session?programSessionId=398",
+        "schoolName": "Carlton Trail Regional College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "31099",
+        "provinceName": "Saskatchewan",
+        "cityName": "Kindersley",
+        "programName": "Power Engineering - Third Class",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/college-trades-university/power-engineering-third-class#kindersley",
+        "schoolName": "Great Plains College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "31099",
+        "provinceName": "Saskatchewan",
+        "cityName": "Swift Current",
+        "programName": "Power Engineering - Third Class",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/college-trades-university/power-engineering-third-class#kindersley",
+        "schoolName": "Great Plains College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39124",
+        "provinceName": "Alberta",
+        "cityName": "Slave Lake",
+        "programName": "Power Engineering 3rd Class",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/resource-technology",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "33990",
+        "provinceName": "Alberta",
+        "cityName": "Slave Lake",
+        "programName": "Power Engineering 4th Class",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/resource-technology",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39126",
+        "provinceName": "Alberta",
+        "cityName": "Slave Lake",
+        "programName": "Power Engineering 5th Class",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/resource-technology",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32209",
+        "provinceName": "Ontario",
+        "cityName": "Stoney Creek",
+        "programName": "Power Engineering Techniques",
+        "programURL": "https://www.mohawkcollege.ca/programs/skilled-trades/power-engineering-techniques-482",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18700",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Power Engineering Techniques - 3rd Class",
+        "programURL": "https://www.mohawkcollege.ca/programs/skilled-trades/power-engineering-techniques-3rd-class-348",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19506",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Power Engineering Technology",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Power-Engineering-Technology.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "33131",
+        "provinceName": "Ontario",
+        "cityName": "Owen Sound",
+        "programName": "Power Engineering Technology (Co-op)",
+        "programURL": "http://www.georgiancollege.ca/academics/full-time-programs/power-engineering-technology-co-op-pety/",
+        "schoolName": "Georgian College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15231",
+        "provinceName": "Ontario",
+        "cityName": "Chatham",
+        "programName": "Powerline Technician",
+        "programURL": "http://www.stclaircollege.ca/programs/postsec/powerline_technician/",
+        "schoolName": "St. Clair College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39753",
+        "provinceName": "Ontario",
+        "cityName": "Kitchener",
+        "programName": "Powerline Technician (Co-op)",
+        "programURL": "https://www.conestogac.on.ca/fulltime/powerline-technician-co-op",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "45795",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Pre-employment Auto Body",
+        "programURL": "https://www.sait.ca/apprenticeships-and-trades/apprenticeship-and-pre-employment-programs/pre-employment-certificates/pre-employment-auto-body",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19545",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Refrigeration and Air Conditioning (34 weeks)",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Refrigeration-and-Air-Conditioning.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13540",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Refrigeration and Air Conditioning Mechanic Certificate",
+        "programURL": "https://www.okanagan.bc.ca/refrigeration-and-air-conditioning-mechanic#program_details",
+        "schoolName": "Okanagan College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18324",
+        "provinceName": "New Brunswick",
+        "cityName": "St. Andrews",
+        "programName": "Refrigeration and Air Conditioning Technician",
+        "programURL": "http://www.nbcc.ca/programs-courses/program-details?baseCurriculumId=935cc161-0993-4af4-8527-72d75e0c840e",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "20509",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Statement of Completion in Roadworks Maintenance",
+        "programURL": "https://www.bcit.ca/study/programs/5620000000",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "40523",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Steering, Suspension and Brakes Certificate",
+        "programURL": "https://db2.centennialcollege.ca/ce/programdetail.php?CertificateCode=7818",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "40347",
+        "provinceName": "Alberta",
+        "cityName": "Fairview",
+        "programName": "ThinkBIG Service Technician",
+        "programURL": "https://www.gprc.ab.ca/programs/thinkbig-service-technician.html",
+        "schoolName": "Grande Prairie Regional College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18705",
+        "provinceName": "Ontario",
+        "cityName": "Stoney Creek",
+        "programName": "Utilities Systems Operator",
+        "programURL": "http://www.mohawkcollege.ca/skilled-trades-programs/utilities-systems-operator-certificate.html",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49493",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Warehouse Worker (8 weeks , Online/Distance)",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Warehouse-Worker.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "36021",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Summerside",
+        "programName": "Wind Turbine Technician",
+        "programURL": "https://www.hollandcollege.com/programs/wind-turbine-technology.html",
+        "schoolName": "Holland College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "48474",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Women in Welding",
+        "programURL": "https://nbcc.ca/programs-courses/specialized-full-time-programs/women-in-welding",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "47-Mechanic and Repair Technology",
+        "EducationLevel": "College"
+    }
+]

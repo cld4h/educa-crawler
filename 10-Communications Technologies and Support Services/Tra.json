@@ -1,0 +1,72 @@
+[
+    {
+        "programId": "47724",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "3D Animation",
+        "programURL": "http://www.rais.ca/3D%20Animation",
+        "schoolName": "The Recording Arts Institute of Saskatoon",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44074",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Audio in Media",
+        "programURL": "http://www.midoceanschool.ca/12/page.php?page_id=7",
+        "schoolName": "Mid-Ocean School of Media Arts",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49185",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Certificate in Designing Webinars",
+        "programURL": "https://www.sjasd.ca/Programs/Coned/Pages/default.aspx",
+        "schoolName": "St. James-Assiniboia School Division",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "19090",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Communication Technician",
+        "programURL": "http://www.nait.ca/program_home_80856.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43241",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "In The Control Room",
+        "programURL": "http://powersoundstudios.com/recording-school/",
+        "schoolName": "Powersound Recording Studios",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49179",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Social Media for Business Certificate",
+        "programURL": "https://www.sjasd.ca/Programs/Coned/Pages/default.aspx",
+        "schoolName": "St. James-Assiniboia School Division",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49320",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Workplace Conflict Solutions Certificate Design",
+        "programURL": "https://www.sjasd.ca/Programs/Coned/Pages/default.aspx",
+        "schoolName": "St. James-Assiniboia School Division",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "Training"
+    }
+]

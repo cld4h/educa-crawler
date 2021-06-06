@@ -1,0 +1,322 @@
+[
+    {
+        "programId": "25893",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Apprenticeship Certificate - Microelectronics Manufacturer for employees of Abbott Point of Care in Ottawa",
+        "programURL": "https://www.algonquincollege.com/sat/program/microelectronics-manufacturer/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33038",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Apprenticeship Certificate in Refrigeration and Air Conditioning Systems Mechanic (24 weeks)",
+        "programURL": "https://www.algonquincollege.com/acce/program/refrigeration-and-air-conditioning-systems-mechanic/",
+        "schoolName": "Algonquin College of Applied Arts and Technology",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13394",
+        "provinceName": "British Columbia",
+        "cityName": "Prince George",
+        "programName": "Apprenticeship in Electrical",
+        "programURL": "https://cnc.bc.ca/programs-courses/programs/detail/electrical",
+        "schoolName": "College of New Caledonia",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "31348",
+        "provinceName": "Alberta",
+        "cityName": "Medicine Hat",
+        "programName": "Apprenticeship in Fourth Class Power Engineering Power Lab",
+        "programURL": "https://www.mhc.ab.ca/ProgramsandCourses/Academic-Programs/Programs-of-Study/Fourth-Class-Power-Lab",
+        "schoolName": "Medicine Hat College",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44822",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Audio Engineering",
+        "programURL": "http://www.rais.ca/Audio%20Engineering",
+        "schoolName": "The Recording Arts Institute of Saskatoon",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "25184",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "AutoCAD Designer",
+        "programURL": "https://appliedtechnology.humber.ca/programs/autocad-designer.html",
+        "schoolName": "Humber College of Applied Arts and Technology",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13044",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Automotive Service Technician - Apprenticeship",
+        "programURL": "http://www.tru.ca/programs/catalogue/automotive-service-technician-apprenticeship.html",
+        "schoolName": "Thompson Rivers University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "12996",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Automotive Service Technician - Foundation",
+        "programURL": "http://www.tru.ca/programs/catalogue/automotive-service-technician-foundation.html",
+        "schoolName": "Thompson Rivers University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36379",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "CNC Machine Setup / Operator / Part Programmer",
+        "programURL": "https://www.instituteoftechnicaltrades.com/cnc-training-toronto",
+        "schoolName": "Institute of Technical Trades",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "31268",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Certificate in French Electrical",
+        "programURL": "https://mitt.ca/programs/post-secondary-programs/1834/French-Electrical",
+        "schoolName": "Manitoba Institute of Trades and Technology",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "30287",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Burin Bay Arm",
+        "programName": "Certificate in Instrumentation and Control Technician",
+        "programURL": "https://www.cna.nl.ca/program/instrumentation-and-control-technician",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "30287",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Conception Bay South",
+        "programName": "Certificate in Instrumentation and Control Technician",
+        "programURL": "https://www.cna.nl.ca/program/instrumentation-and-control-technician",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "30287",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Gander",
+        "programName": "Certificate in Instrumentation and Control Technician",
+        "programURL": "https://www.cna.nl.ca/program/instrumentation-and-control-technician",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15353",
+        "provinceName": "Ontario",
+        "cityName": "Kirkland Lake",
+        "programName": "Diamond Driller Assistant Common Core",
+        "programURL": "http://www.northernc.on.ca/trainingdivision/diamond-drilling-assistant/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "29988",
+        "provinceName": "Yukon",
+        "cityName": "Whitehorse",
+        "programName": "Driller's Helper",
+        "programURL": "https://www.yukonu.ca/programs/drillers-helper",
+        "schoolName": "Yukon University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33332",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "Electrician Apprenticeship Training",
+        "programURL": "https://www.nic.bc.ca/programs-courses/trades-technical/construction-programs/electrician-apprenticeship-harmonized/",
+        "schoolName": "North Island College",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43118",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Engineering Design Technology Diploma",
+        "programURL": "https://www.digitalschool.ca/programs/engineering-design-technology/",
+        "schoolName": "Digital School",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43121",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Engineering Design Technology with the Process Piping Specialization",
+        "programURL": "https://www.digitalschool.ca/programs/engineering-design-technology-process-piping-specialization/",
+        "schoolName": "Digital School",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "34687",
+        "provinceName": "Ontario",
+        "cityName": "Sudbury",
+        "programName": "Environmental Monitoring & Impact Assessment (EMPD)",
+        "programURL": "http://cambriancollege.ca/programs/environmental-monitoring-impact-assessment/",
+        "schoolName": "Cambrian College",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13400",
+        "provinceName": "British Columbia",
+        "cityName": "Prince George",
+        "programName": "Foundation Program in Electrical",
+        "programURL": "https://cnc.bc.ca/programs-courses/programs/detail/electrical",
+        "schoolName": "College of New Caledonia",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "52599",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Foundations In Digital Manufacturing",
+        "programURL": "https://www.sait.ca/programs-and-courses/youth-foundations-programs/available-foundations-programs/foundations-in-digital-manufacturing",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "52600",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Foundations In Digital Manufacturing (Part-Time)",
+        "programURL": "https://www.sait.ca/programs-and-courses/youth-foundations-programs/available-foundations-programs/foundations-in-emergency-medical-response",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "37273",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Gas-fitter (Domestic/Commercial) - Apprenticeship",
+        "programURL": "https://www.tru.ca/trades/trades-programs/gasfitter.html",
+        "schoolName": "Thompson Rivers University",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "23618",
+        "provinceName": "Ontario",
+        "cityName": "Kingston",
+        "programName": "Industrial Electrician Apprenticeship (Level 1 to 3)",
+        "programURL": "https://www.stlawrencecollege.ca/programs-and-courses/full-time/programs/a_m/industrial-electrician-apprenticeship/kingston/",
+        "schoolName": "St. Lawrence College of Applied Arts and Technology",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48199",
+        "provinceName": "Ontario",
+        "cityName": "Sarnia",
+        "programName": "Instrumentation & Control Technician Apprenticeship",
+        "programURL": "https://www.lambtoncollege.ca/custom/LambtonApps/Programs/Full-Time.aspx?id=2147517409",
+        "schoolName": "Lambton College of Applied Arts and Technology",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "18626",
+        "provinceName": "Ontario",
+        "cityName": "Stoney Creek",
+        "programName": "Instrumentation Control and Control Technician",
+        "programURL": "https://www.mohawkcollege.ca/programs/skilled-trades/instrumentation-control-and-control-technician-447a",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "19209",
+        "provinceName": "Saskatchewan",
+        "cityName": "Moose Jaw",
+        "programName": "Instrumentation and Control Technician (Apprenticeship)",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/browse-programs/apprenticeship/",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "31540",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Instrumentation and Control Technician Apprenticeship",
+        "programURL": "https://www.sait.ca/apprenticeships-and-trades/apprenticeship-and-pre-employment-programs/apprenticeships/instrumentation-and-control-technician",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "26633",
+        "provinceName": "Alberta",
+        "cityName": "Red Deer",
+        "programName": "Instrumentation and Control Technician, Apprenticeship",
+        "programURL": "https://www.rdc.ab.ca/programs",
+        "schoolName": "Red Deer College",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36884",
+        "provinceName": "Northwest Territories",
+        "cityName": "Fort Smith",
+        "programName": "Introduction to Underground Mining",
+        "programURL": "http://www.auroracollege.nt.ca/_live/pages/wpPages/ProgramInfoDisplay.aspx?id=74&tp=PRG",
+        "schoolName": "Aurora College",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50176",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Technician Diploma in Remotely Operated Vehicles (ROV Operator)",
+        "programURL": "https://www.mi.mun.ca/departments/officeoftheregistrar/programsandfees/remotelyoperatedvehiclesrovoperator/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36892",
+        "provinceName": "Northwest Territories",
+        "cityName": "Yellowknife",
+        "programName": "Underground Miner Training Program",
+        "programURL": "http://www.auroracollege.nt.ca/_live/pages/wpPages/ProgramInfoDisplay.aspx?id=102&tp=PRG",
+        "schoolName": "Aurora College",
+        "programCategory": "15-Engineering Technology",
+        "EducationLevel": "Training"
+    }
+]

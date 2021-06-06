@@ -1,0 +1,22 @@
+[
+    {
+        "programId": "48449",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in French Studies - Electronic Archiving, Editing and Publishing in a Francophone Context",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/arts/department-french-studies/doctor-philosophy-phd-french-studies",
+        "schoolName": "University of Waterloo",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "52687",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Communication and Culture - Technology in Practice",
+        "programURL": "https://www.ryerson.ca/graduate/programs/communication-culture/",
+        "schoolName": "Ryerson University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University - Doctorate"
+    }
+]

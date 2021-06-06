@@ -1,0 +1,822 @@
+[
+    {
+        "programId": "4133",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Big Data (Professional Master of Science)",
+        "programURL": "http://www.sfu.ca/computing/current-students/graduate-students/academic-programs/bigdata/about.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "31022",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Certificate in Communication Technologies and Cyber Security",
+        "programURL": "https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=81&chapterid=4596&topicgroupid=19608&loaduseredits=False",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8598",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Certificate in Computing in Arts & Social Sciences",
+        "programURL": "https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=81&chapterid=4596&topicgroupid=19578&loaduseredits=False",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8827",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Certificate in Data Analytics",
+        "programURL": "https://www.dal.ca/faculty/science/programs/diploma-certificate-programs/actuarial-and-financial-mathematics11.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "31026",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Certificate in Data Science",
+        "programURL": "https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=81&chapterid=4596&topicgroupid=19609&loaduseredits=False",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8745",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Certificate in Information Technology (online)",
+        "programURL": "https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=81&chapterid=4596&topicgroupid=19587&loaduseredits=False",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51538",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Certificate in User Experience Design and Evaluation",
+        "programURL": "https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=81&chapterid=4596&topicgroupid=19613&loaduseredits=False",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51539",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Certificate in Web and Mobile Development",
+        "programURL": "https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=81&chapterid=4596&topicgroupid=19614&loaduseredits=False",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6329",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Collaborative Masters in Data Science",
+        "programURL": "http://graduate.carleton.ca/programs/data-science-collaborative-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "27948",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Collaborative Specialization in Scientific Computing",
+        "programURL": "http://grad.uwo.ca/prospective_students/programs/program_NEW.cfm?p=246",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "24083",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computer Science (M.Sc.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/computer-science",
+        "schoolName": "McMaster University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21371",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Computer Science (MCSc)",
+        "programURL": "https://www.dal.ca/academics/programs/graduate/computer-science.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8706",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Computer Science (MCSc), Big Data Analytics & Machine Learning Field",
+        "programURL": "https://www.dal.ca/faculty/computerscience/big-data-machine-learning.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51508",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Computer Science (MCSc), HCI, Visualization and Graphics Field",
+        "programURL": "https://www.dal.ca/faculty/computerscience/hci-visualization-graphics.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51509",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Computer Science (MCSc), Systems, Networks and Security Field",
+        "programURL": "https://www.dal.ca/faculty/computerscience/systems-networks-security.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "37158",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Computing Science (Accelerated Master's)",
+        "programURL": "http://www.sfu.ca/computing/current-students/graduate-students/academic-programs/accelerated.html#main_content_title",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "38348",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Computing Science (MSc)",
+        "programURL": "https://www.ualberta.ca/graduate-studies/programs/search#08B942F9CE54435D83D870B8FDE395D6",
+        "schoolName": "University of Alberta",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21142",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Computing Science (Master of Science)",
+        "programURL": "http://www.sfu.ca/dean-gradstudies/future/academicprograms/faculty_of_appliedsciences/computing_science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21301",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computing and Software (M.Eng.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/computing-and-software-0",
+        "schoolName": "McMaster University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "41135",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Data Analysis Post-Baccalaureate Certificate",
+        "programURL": "https://www.ufv.ca/data-analysis-post-degree/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "47193",
+        "provinceName": "Alberta",
+        "cityName": "Athabasca",
+        "programName": "Graduate Certificate in Data Analytics",
+        "programURL": "http://www.athabascau.ca/programs/summary/post-baccalaureate-certificate-in-data-analytics/",
+        "schoolName": "Athabasca University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "47194",
+        "provinceName": "Alberta",
+        "cityName": "Athabasca",
+        "programName": "Graduate Certificate in Information Security",
+        "programURL": "https://www.athabascau.ca/programs/summary/graduate-certificate-in-information-security/",
+        "schoolName": "Athabasca University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51132",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Graduate Diploma (GDip) in Computational Analytics for the Social Sciences and Humanities",
+        "programURL": "https://uwaterloo.ca/economics/graduate/graduate-diploma-gdip-computational-analytics-social",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6371",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Graduate Diploma in Information Security",
+        "programURL": "https://concordia.ab.ca/management/infosec/graduate-diploma-in-information-security/",
+        "schoolName": "Concordia University of Edmonton",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "24034",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Information Management (MIM)",
+        "programURL": "http://www.dal.ca/academics/programs/graduate/information-management.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21378",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Internetworking (MEng)",
+        "programURL": "https://www.dal.ca/academics/programs/graduate/internetworking.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "27243",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Law, Juris Doctor / Master of Information",
+        "programURL": "https://sgs.calendar.utoronto.ca/combined/STG-JD~MI",
+        "schoolName": "University of Toronto",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "27893",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "MBA/Master of Science in Computer Science",
+        "programURL": "http://www.uvic.ca/gustavson/gill/mba/",
+        "schoolName": "University of Victoria",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52340",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Master of Applied Computer Science  (MACS)",
+        "programURL": "https://www.dal.ca/academics/programs/graduate/applied-computer-science.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "28844",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Computer Networks",
+        "programURL": "https://www.ryerson.ca/graduate/programs/computer-networks/",
+        "schoolName": "Ryerson University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52682",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Computer Networks, Accelerated Pathway Plan",
+        "programURL": "https://www.ryerson.ca/engineering-architectural-science/programs/undergraduate/accelerated-masc-pathway/",
+        "schoolName": "Ryerson University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "46024",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Management Sciences - Management of Technology (Co-op and regular)",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-management-sciences/master-applied-science-masc-management-sciences",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6419",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Artificial Intelligence - collaborative specialization",
+        "programURL": "https://graduatestudies.uoguelph.ca/programs/csai",
+        "schoolName": "University of Guelph",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40933",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Arts in English - Experimental Digital Media",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/arts/department-english-language-and-literature/master-arts-ma-english-experimental-digital-media",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48080",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Arts in English - Experimental Digital Media - Co-operative Program (direct entry)",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/arts/department-english-language-and-literature/master-arts-ma-english-experimental-digital-media-co-operative-program-direct-entry",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "37403",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Arts in Information Systems and Technology",
+        "programURL": "http://futurestudents.yorku.ca/graduate/programs/information-technology",
+        "schoolName": "York University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2704",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Master of Computer Science",
+        "programURL": "https://www.unb.ca/fredericton/cs/grad/masters.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6195",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Computer Science",
+        "programURL": "http://graduate.carleton.ca/programs/computer-science-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "11341",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Master of Computer Science (MSc)",
+        "programURL": "http://www.uwindsor.ca/graduate-studies/494/computer-science",
+        "schoolName": "University of Windsor",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6490",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Cybersecurity and Threat Intelligence",
+        "programURL": "https://www.uoguelph.ca/computing/graduates-graduate-programs/master-cybersecurity-and-threat-intelligence-mcti",
+        "schoolName": "University of Guelph",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "22201",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Data Analytics",
+        "programURL": "http://grad.uwo.ca/prospective_students/programs/program_NEW.cfm?p=272",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52339",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Master of Digital Innovation (MDI)",
+        "programURL": "https://www.dal.ca/academics/programs/graduate/digital-innovation/admissions.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "28845",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Engineering in Computer Networks",
+        "programURL": "https://www.ryerson.ca/graduate/programs/computer-networks/",
+        "schoolName": "Ryerson University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48329",
+        "provinceName": "Ontario",
+        "cityName": "Kitchener",
+        "programName": "Master of Engineering in Electrical and Computer Engineering - Computer Networking and Security",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-electrical-and-computer-engineering/master-engineering-meng-electrical-and-computer-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "38233",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Master of Information Systems Assurance Management",
+        "programURL": "https://concordia.ab.ca/management/infosec/misam/",
+        "schoolName": "Concordia University of Edmonton",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6369",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Master of Information Systems Security and Assurance",
+        "programURL": "https://concordia.ab.ca/management/infosec/missm/",
+        "schoolName": "Concordia University of Edmonton",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "33906",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Master of Information Technology Security (MITS)",
+        "programURL": "https://gradstudies.ontariotechu.ca/future_students/programs/masters_programs/information_technology_security/index.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "45679",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Master of Information Technology Security (MITS)",
+        "programURL": "https://ontariotechu.ca/programs/business-and-information-technology/information-technology-security-masters-program.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "18494",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Master of Science in Applied Computer Science and Society",
+        "programURL": "http://www.uwinnipeg.ca/graduate-studies/graduate-programs/msc-applied-computer-science-and-society.html",
+        "schoolName": "University of Winnipeg",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "41686",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Science in Applied Computing",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Applied-Computing.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48721",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Master of Science in Big Data Analytics: Applied Modelling and Quantitative Methods",
+        "programURL": "https://www.trentu.ca/graduatestudies/programs/course-based-masters-programs/master-science-big-data-analytics-applied-modelling-and",
+        "schoolName": "Trent University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52650",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Science in Computer Networks",
+        "programURL": "https://www.ryerson.ca/graduate/programs/computer-networks/",
+        "schoolName": "Ryerson University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21744",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Science in Computer Science",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Computer-Science.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "20844",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Science in Computer Science",
+        "programURL": "https://www.mun.ca/become/graduate/programs/computer.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "4731",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Master of Science in Computer Science",
+        "programURL": "https://www2.acadiau.ca/prg_gr_comp.html",
+        "schoolName": "Acadia University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "17982",
+        "provinceName": "Quebec",
+        "cityName": "Sherbrooke",
+        "programName": "Master of Science in Computer Science",
+        "programURL": "http://www.ubishops.ca/academic-programs/faculty-of-arts-and-science/natural-sciences-and-mathematics/computer-science/masters-degree-program/",
+        "schoolName": "Bishop's University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5247",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Science in Computer Science",
+        "programURL": "https://www.cs.ubc.ca/students/grad/prospective",
+        "schoolName": "University of British Columbia",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6438",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Science in Computer Science",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/cis-msc.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6786",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Master of Science in Computer Science",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/computer_science.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "24002",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Science in Computer Science",
+        "programURL": "http://www.ryerson.ca/graduate/programs/computer-science/",
+        "schoolName": "Ryerson University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "7608",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Master of Science in Computer Science",
+        "programURL": "https://web.uvic.ca/calendar2018-01/grad/programs/csc/index.html",
+        "schoolName": "University of Victoria",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "34792",
+        "provinceName": "Alberta",
+        "cityName": "Lethbridge",
+        "programName": "Master of Science in Computer Science",
+        "programURL": "https://www.uleth.ca/future-student/graduate-studies/master-science/computer-science",
+        "schoolName": "University of Lethbridge",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "23671",
+        "provinceName": "Nova Scotia",
+        "cityName": "Antigonish",
+        "programName": "Master of Science in Computer Science",
+        "programURL": "http://www2.mystfx.ca/mscs/graduate-studies-cs",
+        "schoolName": "St. Francis Xavier University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10529",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Science in Computer Science",
+        "programURL": "https://grad.usask.ca/programs/computer-science.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "22218",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Science in Computer Science",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=37",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35563",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Master of Science in Computer Science",
+        "programURL": "https://gradstudies.ontariotechu.ca/future_students/programs/masters_programs/computer_science/index.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "9134",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Master of Science in Computer Science (MSc)",
+        "programURL": "https://www.lakeheadu.ca/academics/graduate/programs/masters/computer-science/node/7246",
+        "schoolName": "Lakehead University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52506",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Science in Computer Science - Applied Modelling Field",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/cis-msc.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52508",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Science in Computer Science - Distributed Computing Field",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/cis-msc.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52509",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Science in Computer Science - Human Computer Interaction Field",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/cis-msc.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52662",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Science in Data Science and Analytics",
+        "programURL": "https://www.ryerson.ca/graduate/programs/data-science-analytics/",
+        "schoolName": "Ryerson University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "7994",
+        "provinceName": "Alberta",
+        "cityName": "Athabasca",
+        "programName": "Master of Science in Information Systems",
+        "programURL": "http://www.athabascau.ca/programs/summary/master-of-science-in-information-systems/",
+        "schoolName": "Athabasca University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8115",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Science in Science & Technology Studies",
+        "programURL": "http://futurestudents.yorku.ca/graduate/programs/science-and-technology-studies",
+        "schoolName": "York University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "50171",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Science in Scientific Computing",
+        "programURL": "https://www.mun.ca/become/graduate/programs/computing.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2382",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Science in Scientific Computing  (Co-op)",
+        "programURL": "https://www.mun.ca/become/graduate/programs/computing.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "37162",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Modelling of Complex Social Systems (MoCSSy) (Graduate Certificate)",
+        "programURL": "http://mocssy.irmacs.sfu.ca/graduatestudies",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "1017",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Multimedia (MSc)",
+        "programURL": "https://www.ualberta.ca/graduate-studies/programs/search#E1791390A5E24FB09392AA3C0E0EFD3F",
+        "schoolName": "University of Alberta",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52586",
+        "provinceName": "Nova Scotia",
+        "cityName": "Antigonish",
+        "programName": "Post-Baccalaureate Diploma in Artificial Intelligence",
+        "programURL": "https://www.stfx.ca/academics/science/artificial-intelligence-diploma",
+        "schoolName": "St. Francis Xavier University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "27303",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Postgraduate Diploma in Computer Science",
+        "programURL": "https://grad.usask.ca/programs/computer-science.php#Program",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52655",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Professional Master's Diploma in Enterprise Information Security, Privacy and Data Protection'",
+        "programURL": "https://www.ryerson.ca/graduate/calendar/programs-and-courses/master-business-administration/",
+        "schoolName": "Ryerson University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "37161",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "SFU-ZJU Graduate Dual-Degree Program (GDDP)",
+        "programURL": "http://www.sfu.ca/computing/prospective-students/graduate-students/academic-programs/gddp-program.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "47737",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Technical Management and Services: Post-Baccalaureate Diploma",
+        "programURL": "http://www.kpu.ca/calendar/2018-19/business/technicalmanagementservices/technicalmanagementservices-pbc.html",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Master"
+    }
+]

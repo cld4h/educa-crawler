@@ -1,0 +1,2852 @@
+[
+    {
+        "programId": "36570",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "6 Week Flight Attendant Program",
+        "programURL": "http://www.flightattend.com/6-week-flight-attendant-program",
+        "schoolName": "Atlantic Flight Attendant Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50839",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Instrument Rating - Group 1 (Multi-Engine)",
+        "programURL": "https://www.millenniumaviation.ca/courses_offered/details/instrument_rating.html",
+        "schoolName": "Millennium Aviation Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33807",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "105 Hour Commercial Pilot License Course",
+        "programURL": "http://www.heli-college.com/FLTCRS/br105c.htm",
+        "schoolName": "Heli College Canada",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50636",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "115 Flight Hour Advanced Plus Hybrid Training Program",
+        "programURL": "http://okheli.ca/programs-and-fees/",
+        "schoolName": "Okanagan Mountain Helicopters",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43720",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "115 Flight Hour Advanced Plus R44 Training Program",
+        "programURL": "http://okheli.ca/programs-and-fees/",
+        "schoolName": "Okanagan Mountain Helicopters",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50637",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "115 Flight Hour Advanced Plus Turbine Training Program",
+        "programURL": "http://okheli.ca/programs-and-fees/",
+        "schoolName": "Okanagan Mountain Helicopters",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50362",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "12 Week Flight Attendant & French Immersion Program",
+        "programURL": "http://www.flightattend.com/12-week-flight-attendant-french-immersion-program",
+        "schoolName": "Atlantic Flight Attendant Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50808",
+        "provinceName": "Alberta",
+        "cityName": "Sturgeon County",
+        "programName": "150 Hour Commercial Course",
+        "programURL": "https://synergyflighttraining.ca/our-courses-1/",
+        "schoolName": "Synergy Flight Training Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36856",
+        "provinceName": "Saskatchewan",
+        "cityName": "Nipawin",
+        "programName": "1A Truck Driver Training",
+        "programURL": "https://www.cumberlandcollege.sk.ca/index.php?id=236",
+        "schoolName": "Cumberland Regional College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43817",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "21 Week Heavy Equipment Technician Program",
+        "programURL": "http://www.taylorprotraining.com/course_detail.php?id=26",
+        "schoolName": "Taylor Pro Training Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "32383",
+        "provinceName": "Ontario",
+        "cityName": "South Porcupine",
+        "programName": "AZ Truck Driving Program",
+        "programURL": "http://www.northernc.on.ca/trainingdivision/az-driving/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "51854",
+        "provinceName": "Alberta",
+        "cityName": "Spruce Grove",
+        "programName": "Accelerated Private Pilot Course\t",
+        "programURL": "https://www.flyefc.ca/courses/accelerated-private-pilot-course",
+        "schoolName": "Edmonton Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43502",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Accelerated Professional Pilot Program",
+        "programURL": "https://www.coastalpacific.com/accelerated-professional-pilot-trai",
+        "schoolName": "Coastal Pacific Aviation",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43483",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Advanced Open Water",
+        "programURL": "http://www.divingdynamics.com/discover-scuba/advanced-open-water/",
+        "schoolName": "Diving Dynamics",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50320",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Aerial Application Training",
+        "programURL": "http://advancedheliflight.com/page16.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50320",
+        "provinceName": "New Brunswick",
+        "cityName": "Lincoln",
+        "programName": "Aerial Application Training",
+        "programURL": "http://advancedheliflight.com/page16.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "47670",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Air Transport Pilot License Helicopter",
+        "programURL": "https://www.lrhelicopters.com/air-transport-pilot-license-helicopter-calgary-alberta-canada/",
+        "schoolName": "LR Helicopters Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15546",
+        "provinceName": "British Columbia",
+        "cityName": "Dawson Creek",
+        "programName": "Aircraft Maintenance Technician - Basic Training",
+        "programURL": "https://www.nlc.bc.ca/Programs/All-Programs-Alphabetical/Aircraft-Maintenance-Technician-Basic-Training",
+        "schoolName": "Northern Lights College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49035",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Airline Pilot Program (Diploma)",
+        "programURL": "http://www.cfc.aero/index.php/flight-training/professional/diploma-atpl",
+        "schoolName": "Canadian Flight Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49035",
+        "provinceName": "British Columbia",
+        "cityName": "Pitt Meadows",
+        "programName": "Airline Pilot Program (Diploma)",
+        "programURL": "http://www.cfc.aero/index.php/flight-training/professional/diploma-atpl",
+        "schoolName": "Canadian Flight Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44844",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Airline Transport Pilot Licence - Helicopters",
+        "programURL": "http://advancedheliflight.com/page22.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44844",
+        "provinceName": "New Brunswick",
+        "cityName": "Lincoln",
+        "programName": "Airline Transport Pilot Licence - Helicopters",
+        "programURL": "http://advancedheliflight.com/page22.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43192",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Approved Mountain Course",
+        "programURL": "https://www.mvheli.com/approved-mountain-course/",
+        "schoolName": "Mountain View Helicopters",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43498",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Aviation Business - 2-year Diploma",
+        "programURL": "https://www.coastalpacific.com/aviation-degree-or-diploma-programs",
+        "schoolName": "Coastal Pacific Aviation",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49092",
+        "provinceName": "Alberta",
+        "cityName": "Sherwood Park",
+        "programName": "Aviation Management & Pilot Training Diploma Program (Solomon College)",
+        "programURL": "https://flycla.ca/solomon-college/",
+        "schoolName": "Cooking Lake Aviation",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "47544",
+        "provinceName": "Nova Scotia",
+        "cityName": "Masstown",
+        "programName": "Backhoe Operator",
+        "programURL": "http://safetycollege.ca/programs/heavy-equipment/backhoe",
+        "schoolName": "Commercial Safety College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "42815",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Backhoe Program",
+        "programURL": "https://ttcc.ca/training/heo/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "42800",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Basic Heavy Equipment Program",
+        "programURL": "http://ttcc.ca/training/heo",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "42805",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Basic Heavy Equipment Program - 2 Piece (EX, BH)",
+        "programURL": "https://ttcc.ca/training/heo/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "42807",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Basic Heavy Equipment Program - 2 Piece (GR, EX)",
+        "programURL": "https://ttcc.ca/training/heo/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "42803",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Basic Heavy Equipment Program - 3 Piece (BD, BH, EX)",
+        "programURL": "https://ttcc.ca/training/heo/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36066",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Basic Heavy Equipment Program - 4 Piece (BD, BH, EX, GR)",
+        "programURL": "https://ttcc.ca/training/heo/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50322",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Basic Wildfire Fighting Operations",
+        "programURL": "http://advancedheliflight.com/page18.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50322",
+        "provinceName": "New Brunswick",
+        "cityName": "Lincoln",
+        "programName": "Basic Wildfire Fighting Operations",
+        "programURL": "http://advancedheliflight.com/page18.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "37726",
+        "provinceName": "Nova Scotia",
+        "cityName": "Masstown",
+        "programName": "Boom Truck (Class IV Articulated Crane) Training",
+        "programURL": "http://safetycollege.ca/programs/crane/boom-truck-class-iv-training",
+        "schoolName": "Commercial Safety College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "42816",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Bulldozer Program",
+        "programURL": "https://ttcc.ca/training/heo/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "17813",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Placentia",
+        "programName": "Certificate in Heavy Equipment Operator",
+        "programURL": "https://www.cna.nl.ca/program/heavy-equipment-operator",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "17813",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Stephenville",
+        "programName": "Certificate in Heavy Equipment Operator",
+        "programURL": "https://www.cna.nl.ca/program/heavy-equipment-operator",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "17745",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Stephenville",
+        "programName": "Certificate in Mobile Crane Operator",
+        "programURL": "https://www.cna.nl.ca/program/mobile-crane-operator",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15888",
+        "provinceName": "British Columbia",
+        "cityName": "Cranbrook",
+        "programName": "Certificate of Achievement in Haul Truck Operator",
+        "programURL": "https://cotr.bc.ca/programs/haul-truck/",
+        "schoolName": "College of the Rockies",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50363",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Class 1 Construction Program",
+        "programURL": "https://ttcc.ca/training/heo/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "47688",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Class 1 Driver \u2013 Tractor Trailer",
+        "programURL": "http://www.metiatlantic.com/programs/class-1-driver-tractor-trailer/",
+        "schoolName": "Maritime Environmental Training Institute",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36062",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Class 1 Internship + 5 Piece",
+        "programURL": "https://ttcc.ca/training/heo/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "19958",
+        "provinceName": "Saskatchewan",
+        "cityName": "Kindersley",
+        "programName": "Class 1 Truck Driver Mandatory Entry Level Training (MELT) program (theory only, online)",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/class-1-truck-driver-mandatory-entry-level-training-melt-program-theory-only",
+        "schoolName": "Great Plains College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "19958",
+        "provinceName": "Saskatchewan",
+        "cityName": "Swift Current",
+        "programName": "Class 1 Truck Driver Mandatory Entry Level Training (MELT) program (theory only, online)",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/class-1-truck-driver-mandatory-entry-level-training-melt-program-theory-only",
+        "schoolName": "Great Plains College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "19958",
+        "provinceName": "Saskatchewan",
+        "cityName": "Warman",
+        "programName": "Class 1 Truck Driver Mandatory Entry Level Training (MELT) program (theory only, online)",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/class-1-truck-driver-mandatory-entry-level-training-melt-program-theory-only",
+        "schoolName": "Great Plains College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36063",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Class 1 Truck Driver Training -  Six Weeks",
+        "programURL": "https://ttcc.ca/training/truck/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36064",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Class 1 Truck Driver Training - Twelve Week Internship",
+        "programURL": "https://ttcc.ca/training/truck/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43053",
+        "provinceName": "New Brunswick",
+        "cityName": "Miramichi",
+        "programName": "Class 1E Entry Level",
+        "programURL": "http://transcanadacollege.ca/moncton-transport-training-classes/",
+        "schoolName": "Coll\u00e8ge Trans-Canada College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43053",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Class 1E Entry Level",
+        "programURL": "http://transcanadacollege.ca/moncton-transport-training-classes/",
+        "schoolName": "Coll\u00e8ge Trans-Canada College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43053",
+        "provinceName": "New Brunswick",
+        "cityName": "Oromocto",
+        "programName": "Class 1E Entry Level",
+        "programURL": "http://transcanadacollege.ca/moncton-transport-training-classes/",
+        "schoolName": "Coll\u00e8ge Trans-Canada College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43053",
+        "provinceName": "New Brunswick",
+        "cityName": "Sussex",
+        "programName": "Class 1E Entry Level",
+        "programURL": "http://transcanadacollege.ca/moncton-transport-training-classes/",
+        "schoolName": "Coll\u00e8ge Trans-Canada College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36111",
+        "provinceName": "New Brunswick",
+        "cityName": "Miramichi",
+        "programName": "Class 1E Intership",
+        "programURL": "http://transcanadacollege.ca/moncton-transport-training-classes/",
+        "schoolName": "Coll\u00e8ge Trans-Canada College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36111",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Class 1E Intership",
+        "programURL": "http://transcanadacollege.ca/moncton-transport-training-classes/",
+        "schoolName": "Coll\u00e8ge Trans-Canada College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36111",
+        "provinceName": "New Brunswick",
+        "cityName": "Oromocto",
+        "programName": "Class 1E Intership",
+        "programURL": "http://transcanadacollege.ca/moncton-transport-training-classes/",
+        "schoolName": "Coll\u00e8ge Trans-Canada College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36111",
+        "provinceName": "New Brunswick",
+        "cityName": "Sussex",
+        "programName": "Class 1E Intership",
+        "programURL": "http://transcanadacollege.ca/moncton-transport-training-classes/",
+        "schoolName": "Coll\u00e8ge Trans-Canada College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36110",
+        "provinceName": "New Brunswick",
+        "cityName": "Miramichi",
+        "programName": "Class 3 Certificate Standard",
+        "programURL": "http://transcanadacollege.ca/moncton-transport-training-classes/",
+        "schoolName": "Coll\u00e8ge Trans-Canada College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36110",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Class 3 Certificate Standard",
+        "programURL": "http://transcanadacollege.ca/moncton-transport-training-classes/",
+        "schoolName": "Coll\u00e8ge Trans-Canada College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36110",
+        "provinceName": "New Brunswick",
+        "cityName": "Oromocto",
+        "programName": "Class 3 Certificate Standard",
+        "programURL": "http://transcanadacollege.ca/moncton-transport-training-classes/",
+        "schoolName": "Coll\u00e8ge Trans-Canada College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36110",
+        "provinceName": "New Brunswick",
+        "cityName": "Sussex",
+        "programName": "Class 3 Certificate Standard",
+        "programURL": "http://transcanadacollege.ca/moncton-transport-training-classes/",
+        "schoolName": "Coll\u00e8ge Trans-Canada College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "42823",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Class 3 Truck Driver Training - 19 Hours",
+        "programURL": "https://ttcc.ca/training/truck/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48974",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Class Four Driver Program (Restricted or Unrestricted)",
+        "programURL": "http://www.taylorprotraining.com/course_detail-driver.php?id=41",
+        "schoolName": "Taylor Pro Training Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "47675",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Class One 88 Hour Program",
+        "programURL": "http://www.taylorprotraining.com/course_detail-driver.php?id=46",
+        "schoolName": "Taylor Pro Training Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "47677",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Class One Advanced Professional Driver Training Program",
+        "programURL": "http://www.taylorprotraining.com/course_detail-driver.php?id=33",
+        "schoolName": "Taylor Pro Training Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "47677",
+        "provinceName": "British Columbia",
+        "cityName": "Vernon",
+        "programName": "Class One Advanced Professional Driver Training Program",
+        "programURL": "http://www.taylorprotraining.com/course_detail-driver.php?id=33",
+        "schoolName": "Taylor Pro Training Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48971",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Class One Basic Driver Program",
+        "programURL": "http://www.taylorprotraining.com/course_detail-driver.php?id=37",
+        "schoolName": "Taylor Pro Training Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "47676",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Class One Premium",
+        "programURL": "http://www.taylorprotraining.com/course_detail-driver.php?id=47",
+        "schoolName": "Taylor Pro Training Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "47676",
+        "provinceName": "British Columbia",
+        "cityName": "Vernon",
+        "programName": "Class One Premium",
+        "programURL": "http://www.taylorprotraining.com/course_detail-driver.php?id=47",
+        "schoolName": "Taylor Pro Training Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48970",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Class One Professional Driver Program",
+        "programURL": "http://www.taylorprotraining.com/course_detail-driver.php?id=34",
+        "schoolName": "Taylor Pro Training Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48973",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Class Three Driver Program",
+        "programURL": "http://www.taylorprotraining.com/course_detail-driver.php?id=36",
+        "schoolName": "Taylor Pro Training Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48972",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Class Two Driver Program",
+        "programURL": "http://www.taylorprotraining.com/course_detail-driver.php?id=35",
+        "schoolName": "Taylor Pro Training Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50865",
+        "provinceName": "British Columbia",
+        "cityName": "Winfield",
+        "programName": "Combination Equipment",
+        "programURL": "http://www.iheschool.com/interior_heavy_equipment_school_course_combo.html",
+        "schoolName": "Interior Heavy Equipment Operator School",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50681",
+        "provinceName": "Alberta",
+        "cityName": "Whitecourt",
+        "programName": "Commercial Alternate (already hold fixed wing commercial)",
+        "programURL": "https://www.rotorworks.com/course-info/",
+        "schoolName": "Rotorworks Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43723",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Commercial Alternate Helicopter Pilot Course \u2013 Advanced",
+        "programURL": "http://okheli.ca/programs-and-fees/",
+        "schoolName": "Okanagan Mountain Helicopters",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43726",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Commercial Alternate Helicopter Pilot Course \u2013 Turbine",
+        "programURL": "http://okheli.ca/programs-and-fees/",
+        "schoolName": "Okanagan Mountain Helicopters",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43581",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "Commercial Dive Supervisor",
+        "programURL": "https://www.divesafe.com/courses/commercial-dive-supervisor",
+        "schoolName": "Divesafe International",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36482",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Badger",
+        "programName": "Commercial Driver Class 01",
+        "programURL": "http://www.centraltraining.ca/PR-class1.html",
+        "schoolName": "Central Training Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44919",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Bay Roberts",
+        "programName": "Commercial Driver \u2013 Class 01",
+        "programURL": "http://canadiantraininginstitutenl.ca/commercial-driver-class-01/",
+        "schoolName": "Canadian Training Institute",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "46397",
+        "provinceName": "Alberta",
+        "cityName": "Sturgeon County",
+        "programName": "Commercial Helicopter Licence",
+        "programURL": "https://synergyflighttraining.ca/our-courses-1/",
+        "schoolName": "Synergy Flight Training Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43181",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Commercial Helicopter Pilot",
+        "programURL": "https://www.mvheli.com/commercial-helicopter-pilot-training/",
+        "schoolName": "Mountain View Helicopters",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43722",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Commercial Helicopter Pilot Course Advanced Program",
+        "programURL": "http://okheli.ca/programs-and-fees/",
+        "schoolName": "Okanagan Mountain Helicopters",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50635",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Commercial Helicopter Pilot Course Advanced Turbine Program",
+        "programURL": "http://okheli.ca/programs-and-fees/",
+        "schoolName": "Okanagan Mountain Helicopters",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43182",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Commercial Helicopter Pilot Licence",
+        "programURL": "https://www.lrhelicopters.com/commercial-helicopter-pilot-licence-calgary-alberta-canada/",
+        "schoolName": "LR Helicopters Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43578",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "Commercial NITROX Diver",
+        "programURL": "https://www.divesafe.com/courses/commercial-nitrox-diver",
+        "schoolName": "Divesafe International",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50679",
+        "provinceName": "Alberta",
+        "cityName": "Whitecourt",
+        "programName": "Commercial Pilot Course (100 hours)",
+        "programURL": "https://www.rotorworks.com/course-info/",
+        "schoolName": "Rotorworks Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50683",
+        "provinceName": "Alberta",
+        "cityName": "Whitecourt",
+        "programName": "Commercial Pilot Course with R44 (150 hours)",
+        "programURL": "https://www.rotorworks.com/course-info/",
+        "schoolName": "Rotorworks Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "51855",
+        "provinceName": "Alberta",
+        "cityName": "Spruce Grove",
+        "programName": "Commercial Pilot Ground School",
+        "programURL": "",
+        "schoolName": "Edmonton Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36435",
+        "provinceName": "Ontario",
+        "cityName": "Breslau",
+        "programName": "Commercial Pilot Licence",
+        "programURL": "https://www.wwfc.ca/flyprofessional/commercial-pilot-licence/",
+        "schoolName": "Waterloo Wellington Flight Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43032",
+        "provinceName": "Alberta",
+        "cityName": "Sturgeon County",
+        "programName": "Commercial Pilot Licence",
+        "programURL": "http://www.centennial.ca/courses/commercial.html",
+        "schoolName": "Centennial Flight Centre Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43066",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Commercial Pilot Licence",
+        "programURL": "http://www.calgaryflyingclub.com/commercial-pilot-license/",
+        "schoolName": "Calgary Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44049",
+        "provinceName": "Manitoba",
+        "cityName": "Brandon",
+        "programName": "Commercial Pilot Licence",
+        "programURL": "http://brandonflightcentre.com/flight-academy/",
+        "schoolName": "Brandon Flying Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50314",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Commercial Pilot Licence",
+        "programURL": "http://advancedheliflight.com/page9.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50314",
+        "provinceName": "New Brunswick",
+        "cityName": "Lincoln",
+        "programName": "Commercial Pilot Licence",
+        "programURL": "http://advancedheliflight.com/page9.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43132",
+        "provinceName": "Alberta",
+        "cityName": "Spruce Grove",
+        "programName": "Commercial Pilot License",
+        "programURL": "https://www.flyefc.ca/learn-to-fly/becoming-a-commercial-pilot",
+        "schoolName": "Edmonton Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43404",
+        "provinceName": "Alberta",
+        "cityName": "Medicine Hat",
+        "programName": "Commercial Pilot License",
+        "programURL": "https://www.supertaviation.ca/courses-cost",
+        "schoolName": "Super T Aviation Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44872",
+        "provinceName": "Saskatchewan",
+        "cityName": "Yorkton",
+        "programName": "Commercial Pilot License",
+        "programURL": "http://leadingedgeyorkton.wixsite.com/leading-edge/commercial-pilot-licence",
+        "schoolName": "Leading Edge Aviation Limited",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44894",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Commercial Pilot License",
+        "programURL": "https://www.millenniumaviation.ca/courses_offered/details/commercial_pilot_licence.html",
+        "schoolName": "Millennium Aviation Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50844",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Commercial Pilot License",
+        "programURL": "http://www.mitchinsonflyingservice.com/prospective-students/licenses-and-ratings/commercial-pilot-s-license",
+        "schoolName": "Mitchinson Flying Service",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44899",
+        "provinceName": "Saskatchewan",
+        "cityName": "Regina",
+        "programName": "Commercial Pilot License",
+        "programURL": "http://reginaflyingclub.ca/services/flight-training/course-rates/",
+        "schoolName": "Regina Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49204",
+        "provinceName": "Alberta",
+        "cityName": "Canmore",
+        "programName": "Commercial Pilot License",
+        "programURL": "https://calgaryflight.com/flight-school/flight-training/commercial-pilot-license/",
+        "schoolName": "Calgary Flight Training Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43250",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Commercial Pilot Program",
+        "programURL": "http://springbank.aero/",
+        "schoolName": "Springbank Aero Flight Training Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43504",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Commercial Pilot Program",
+        "programURL": "https://www.coastalpacific.com/commercial-pilot-licence-program/",
+        "schoolName": "Coastal Pacific Aviation",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43232",
+        "provinceName": "Alberta",
+        "cityName": "Penhold",
+        "programName": "Commercial Pilot license",
+        "programURL": "https://skywings.com/courses/2017-02-07-22-57-49/commercial-pilot-license",
+        "schoolName": "Sky Wings Aviation Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43577",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "Commercial Scuba Diver",
+        "programURL": "https://www.divesafe.com/courses/commercial-scuba-diver",
+        "schoolName": "Divesafe International",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36658",
+        "provinceName": "Ontario",
+        "cityName": "Sudbury",
+        "programName": "Commercial Truck Driver Training",
+        "programURL": "http://ttcc.ca/training/truckhttp://ttcc.ca/training/truck",
+        "schoolName": "Foundation Career College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50680",
+        "provinceName": "Alberta",
+        "cityName": "Whitecourt",
+        "programName": "Commercial with Night Rating (110 hours)",
+        "programURL": "https://www.rotorworks.com/course-info/",
+        "schoolName": "Rotorworks Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44815",
+        "provinceName": "Saskatchewan",
+        "cityName": "Estevan",
+        "programName": "Commerical Pilot License",
+        "programURL": "http://www.southeastaviation.ca/flighttraining-comm.html",
+        "schoolName": "Southeast Aviation Services",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "47689",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Construction & Oilfield Driver \u2013 Class 3",
+        "programURL": "http://www.metiatlantic.com/programs/construction-oilfield-driver-class-3/",
+        "schoolName": "Maritime Environmental Training Institute",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "42794",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Construction Basic Heavy Equipment Program",
+        "programURL": "https://ttcc.ca/training/heo/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "42796",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Construction Basic Heavy Equipment Program - 5 Piece (BD, LD, BH, EX, GR)",
+        "programURL": "https://ttcc.ca/training/heo/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36065",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Construction Basic Heavy Equipment Program - Class 1 & 3 Piece",
+        "programURL": "https://ttcc.ca/training/heo/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "31240",
+        "provinceName": "Nova Scotia",
+        "cityName": "Masstown",
+        "programName": "Corporate Crane Training",
+        "programURL": "http://safetycollege.ca/programs/crane/corporate-crane-training",
+        "schoolName": "Commercial Safety College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "19092",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Crane & Hoisting Equipment Operator - Mobile Crane",
+        "programURL": "http://www.nait.ca/program_home_81362.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44078",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Crane Training",
+        "programURL": "https://oetim.com/crane-training/",
+        "schoolName": "Operating Engineers Training Institute of Manitoba",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39232",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Crane and Hoisting Equipment Operator - Boom Truck Apprenticeship",
+        "programURL": "https://www.sait.ca/apprenticeships-and-trades/apprenticeship-and-pre-employment-programs/apprenticeships/crane-and-hoisting-operator-boom-truck",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39233",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Crane and Hoisting Equipment Operator - Mobil Crane Apprenticeship",
+        "programURL": "https://www.sait.ca/apprenticeships-and-trades/apprenticeship-and-pre-employment-programs/apprenticeships/crane-and-hoisting-operator-mobile-crane",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36597",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Gander",
+        "programName": "Diploma Program - Integrated Commercial Pilot License",
+        "programURL": "http://evasair.com/gft/planetraining/icpl.php",
+        "schoolName": "Gander Flight Training",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "38057",
+        "provinceName": "Quebec",
+        "cityName": "Montreal",
+        "programName": "Dispatcher Automotive Careers",
+        "programURL": "http://www.cati.ca/careers/dispatcher-automotive-careers/",
+        "schoolName": "Canadian Automotive and Trucking Institute",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "38057",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Dispatcher Automotive Careers",
+        "programURL": "http://www.cati.ca/careers/dispatcher-automotive-careers/",
+        "schoolName": "Canadian Automotive and Trucking Institute",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "38057",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Dispatcher Automotive Careers",
+        "programURL": "http://www.cati.ca/careers/dispatcher-automotive-careers/",
+        "schoolName": "Canadian Automotive and Trucking Institute",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43580",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "Dive Accident Management",
+        "programURL": "https://www.divesafe.com/courses/dive-accident-management",
+        "schoolName": "Divesafe International",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "47545",
+        "provinceName": "Nova Scotia",
+        "cityName": "Masstown",
+        "programName": "Dozer Operator",
+        "programURL": "http://safetycollege.ca/programs/heavy-equipment/dozer",
+        "schoolName": "Commercial Safety College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "27359",
+        "provinceName": "Saskatchewan",
+        "cityName": "Regina",
+        "programName": "Driver Training Program \u2013 Buffalo Narrows",
+        "programURL": "https://gdins.org/programs-and-courses/what-we-offer/class-5-driver-training-2/",
+        "schoolName": "Gabriel Dumont Institute of Native Studies and Applied Research",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44903",
+        "provinceName": "British Columbia",
+        "cityName": "Winfield",
+        "programName": "Earth Mover",
+        "programURL": "http://www.iheschool.com/interior_heavy_equipment_school_course_earthmover.html",
+        "schoolName": "Interior Heavy Equipment Operator School",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "37691",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Earthmoving",
+        "programURL": "http://www.metiatlantic.com/programs/earthmoving/",
+        "schoolName": "Maritime Environmental Training Institute",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49264",
+        "provinceName": "Nova Scotia",
+        "cityName": "Bridgewater",
+        "programName": "Earthmoving Operator",
+        "programURL": "http://southshorecareer.com/wordpress/portfolio/earthmoving-truck-backhoe/",
+        "schoolName": "South Shore Career Training Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49264",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Earthmoving Operator",
+        "programURL": "http://southshorecareer.com/wordpress/portfolio/earthmoving-truck-backhoe/",
+        "schoolName": "South Shore Career Training Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43486",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Enriched Air Diver (Nitrox)",
+        "programURL": "https://www.divingdynamics.com/discover-scuba/enriched-air-diver/",
+        "schoolName": "Diving Dynamics",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50866",
+        "provinceName": "British Columbia",
+        "cityName": "Winfield",
+        "programName": "Excavator",
+        "programURL": "http://www.iheschool.com/interior_heavy_equipment_school_course_excavator.html",
+        "schoolName": "Interior Heavy Equipment Operator School",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "47546",
+        "provinceName": "Nova Scotia",
+        "cityName": "Masstown",
+        "programName": "Excavator Operator",
+        "programURL": "http://safetycollege.ca/programs/heavy-equipment/excavator",
+        "schoolName": "Commercial Safety College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "47674",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Excavator Operator Training",
+        "programURL": "http://www.taylorprotraining.com/course_detail.php?id=25",
+        "schoolName": "Taylor Pro Training Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "42817",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Excavator Program",
+        "programURL": "https://ttcc.ca/training/heo/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "27339",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Flight Attendant Diploma",
+        "programURL": "https://www.tourismcollege.com/programs/flight-attendant/",
+        "schoolName": "Canadian Tourism College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "27339",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Flight Attendant Diploma",
+        "programURL": "https://www.tourismcollege.com/programs/flight-attendant/",
+        "schoolName": "Canadian Tourism College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48900",
+        "provinceName": "Ontario",
+        "cityName": "Breslau",
+        "programName": "Flight Instructor Rating",
+        "programURL": "http://www.wwfc.ca/flyprofessional/flight-instructor-rating/",
+        "schoolName": "Waterloo Wellington Flight Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36596",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Gander",
+        "programName": "Flight Instructor Rating",
+        "programURL": "http://evasair.com/gft/planetraining/instructor.php",
+        "schoolName": "Gander Flight Training",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50397",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Flight Instructor Rating",
+        "programURL": "http://www.calgaryflyingclub.com/other-rating/",
+        "schoolName": "Calgary Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44895",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Flight Instructor Rating",
+        "programURL": "https://www.millenniumaviation.ca/courses_offered/details/flight_instructor_rating.html",
+        "schoolName": "Millennium Aviation Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50852",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Flight Instructor Rating",
+        "programURL": "http://www.mitchinsonflyingservice.com/prospective-students/licenses-and-ratings/flight-instructor-rating",
+        "schoolName": "Mitchinson Flying Service",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50963",
+        "provinceName": "Alberta",
+        "cityName": "Canmore",
+        "programName": "Flight Intructor Rating",
+        "programURL": "https://calgaryflight.com/flight-school/flight-training/flight-instructor-rating/",
+        "schoolName": "Calgary Flight Training Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43255",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Flight Training - Commercial Licence",
+        "programURL": "http://springbankair.com/programs/flight-training/flight-training-commercial-licence/",
+        "schoolName": "Springbank Air Training College Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "27373",
+        "provinceName": "Nova Scotia",
+        "cityName": "Masstown",
+        "programName": "Forklift Operator",
+        "programURL": "http://safetycollege.ca/programs/forklift-operator",
+        "schoolName": "Commercial Safety College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50549",
+        "provinceName": "British Columbia",
+        "cityName": "Maple Ridge",
+        "programName": "Forklift Operator Certificate",
+        "programURL": "http://rmcollege.ca/forklift-operator-certification/",
+        "schoolName": "Ridge Meadows College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44081",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Forklift Training",
+        "programURL": "https://oetim.com/forklift-training/",
+        "schoolName": "Operating Engineers Training Institute of Manitoba",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43818",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Four Piece Multi Heavy Equipment Training",
+        "programURL": "http://www.taylorprotraining.com/course_detail.php?id=42",
+        "schoolName": "Taylor Pro Training Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50864",
+        "provinceName": "British Columbia",
+        "cityName": "Winfield",
+        "programName": "Full Equipment",
+        "programURL": "http://www.iheschool.com/interior_heavy_equipment_school_course_full.html",
+        "schoolName": "Interior Heavy Equipment Operator School",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "42818",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Grader Program",
+        "programURL": "https://ttcc.ca/training/heo/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43505",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Group 1 (Multi-engine) Instrument Rating Program",
+        "programURL": "https://www.coastalpacific.com/instrument-rating-program",
+        "schoolName": "Coastal Pacific Aviation",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49189",
+        "provinceName": "Nova Scotia",
+        "cityName": "Bedford",
+        "programName": "Heavy Civil Skilled Worker Programs",
+        "programURL": "https://www.dexterinstitute.com/private-career-college/programs/heavy-civil-construction-program/",
+        "schoolName": "Dexter Institute",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "23794",
+        "provinceName": "Alberta",
+        "cityName": "Fort McMurray",
+        "programName": "Heavy Equipment Operator",
+        "programURL": "https://www.keyano.ca/en/programs-and-courses/heavy-equipment-operator.aspx",
+        "schoolName": "Keyano College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "37727",
+        "provinceName": "Nova Scotia",
+        "cityName": "Masstown",
+        "programName": "Heavy Equipment Operator",
+        "programURL": "http://safetycollege.ca/heavy-equipment-operator",
+        "schoolName": "Commercial Safety College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50863",
+        "provinceName": "British Columbia",
+        "cityName": "Winfield",
+        "programName": "Heavy Equipment Operator",
+        "programURL": "http://www.iheschool.com/interior_heavy_equipment_school_course_heo.html",
+        "schoolName": "Interior Heavy Equipment Operator School",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49188",
+        "provinceName": "Nova Scotia",
+        "cityName": "Bedford",
+        "programName": "Heavy Equipment Operator",
+        "programURL": "https://www.dexterinstitute.com/private-career-college/programs/heavy-civil-construction-program/",
+        "schoolName": "Dexter Institute",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49265",
+        "provinceName": "Nova Scotia",
+        "cityName": "Bridgewater",
+        "programName": "Heavy Equipment Operator",
+        "programURL": "http://southshorecareer.com/wordpress/portfolio/heavy-equipment-operator/",
+        "schoolName": "South Shore Career Training Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49265",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Heavy Equipment Operator",
+        "programURL": "http://southshorecareer.com/wordpress/portfolio/heavy-equipment-operator/",
+        "schoolName": "South Shore Career Training Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "26664",
+        "provinceName": "British Columbia",
+        "cityName": "Nanaimo",
+        "programName": "Heavy Equipment Operator - Certificate",
+        "programURL": "https://calendar.viu.ca/trades/heavy-equipment-operator",
+        "schoolName": "Vancouver Island University",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36492",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Badger",
+        "programName": "Heavy Equipment Operator - Class 08",
+        "programURL": "http://www.centraltraining.ca/PR-Class8.html",
+        "schoolName": "Central Training Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44920",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Bay Roberts",
+        "programName": "Heavy Equipment Operator - Class 08",
+        "programURL": "http://canadiantraininginstitutenl.ca/heavy-equipment-operator-class-08/",
+        "schoolName": "Canadian Training Institute",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "19825",
+        "provinceName": "Northwest Territories",
+        "cityName": "Fort Smith",
+        "programName": "Heavy Equipment Operator Program",
+        "programURL": "http://www.auroracollege.nt.ca/_live/pages/wpPages/ProgramInfoDisplay.aspx?id=70&tp=PRG",
+        "schoolName": "Aurora College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36659",
+        "provinceName": "Ontario",
+        "cityName": "Sudbury",
+        "programName": "Heavy Equipment Operator Training",
+        "programURL": "http://ttcc.ca/training/heo",
+        "schoolName": "Foundation Career College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "37823",
+        "provinceName": "Alberta",
+        "cityName": "Camrose",
+        "programName": "Heavy Equipment Operator Training",
+        "programURL": "http://www.heavymetaltraining.com/heavy-equipment-operator-training.html",
+        "schoolName": "High Velocity Equipment Training College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36585",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Holyrood",
+        "programName": "Heavy Equipment Program",
+        "programURL": "http://www.oecollege.ca/ProHE.html",
+        "schoolName": "Operating Engineers College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "42485",
+        "provinceName": "Ontario",
+        "cityName": "Sudbury ON",
+        "programName": "Heavy Equipment Training",
+        "programURL": "https://ttcc.ca/training",
+        "schoolName": "Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44080",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Heavy Equipment Training",
+        "programURL": "https://oetim.com/heavy-equipment-training/",
+        "schoolName": "Operating Engineers Training Institute of Manitoba",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49221",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Happy Valley-Goose Bay",
+        "programName": "Heavy Equipment Training",
+        "programURL": "http://www.dexterinstitute.com/courses",
+        "schoolName": "Dexter Institute",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49221",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Labrador City",
+        "programName": "Heavy Equipment Training",
+        "programURL": "http://www.dexterinstitute.com/courses",
+        "schoolName": "Dexter Institute",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43724",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Helicopter Class IV Instructor Course",
+        "programURL": "http://okheli.ca/programs-and-fees/",
+        "schoolName": "Okanagan Mountain Helicopters",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50315",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Helicopter Instrument Rating",
+        "programURL": "http://advancedheliflight.com/page11.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50315",
+        "provinceName": "New Brunswick",
+        "cityName": "Lincoln",
+        "programName": "Helicopter Instrument Rating",
+        "programURL": "http://advancedheliflight.com/page11.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50325",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Helicopter Recurrent Training Program",
+        "programURL": "http://advancedheliflight.com/page21.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50325",
+        "provinceName": "New Brunswick",
+        "cityName": "Lincoln",
+        "programName": "Helicopter Recurrent Training Program",
+        "programURL": "http://advancedheliflight.com/page21.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "52022",
+        "provinceName": "Alberta",
+        "cityName": "Penhold",
+        "programName": "IFR Renewal",
+        "programURL": "https://skywings.com/courses/2017-02-07-22-57-49/endorsment/ifr-renewal",
+        "schoolName": "Sky Wings Aviation Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43187",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "IIMC Training Course - Helicopter",
+        "programURL": "https://www.mvheli.com/iimc-training-helicopter/",
+        "schoolName": "Mountain View Helicopters",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50952",
+        "provinceName": "Alberta",
+        "cityName": "Spruce Grove",
+        "programName": "Instructor Rating",
+        "programURL": "https://www.flyefc.ca/courses/instructor-rating",
+        "schoolName": "Edmonton Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "52023",
+        "provinceName": "Alberta",
+        "cityName": "Penhold",
+        "programName": "Instructor Rating",
+        "programURL": "https://skywings.com/courses/2017-02-07-22-57-49/instructor-rating",
+        "schoolName": "Sky Wings Aviation Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43750",
+        "provinceName": "British Columbia",
+        "cityName": "Delta",
+        "programName": "Instructor Rating",
+        "programURL": "http://www.pacificflying.com/career/training-instructor-rating",
+        "schoolName": "Pacific Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44900",
+        "provinceName": "Saskatchewan",
+        "cityName": "Regina",
+        "programName": "Instructor Rating",
+        "programURL": "http://reginaflyingclub.ca/services/flight-training/course-rates/",
+        "schoolName": "Regina Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43508",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Instructor Rating Program",
+        "programURL": "https://www.coastalpacific.com/flight-instructor-rating-program",
+        "schoolName": "Coastal Pacific Aviation",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50316",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Instructor Rating \u2013 Class 4 (Helicopters)",
+        "programURL": "http://advancedheliflight.com/page12.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50316",
+        "provinceName": "New Brunswick",
+        "cityName": "Lincoln",
+        "programName": "Instructor Rating \u2013 Class 4 (Helicopters)",
+        "programURL": "http://advancedheliflight.com/page12.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44873",
+        "provinceName": "Saskatchewan",
+        "cityName": "Yorkton",
+        "programName": "Instructor rating",
+        "programURL": "http://leadingedgeyorkton.wixsite.com/leading-edge/instructor-rating",
+        "schoolName": "Leading Edge Aviation Limited",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36594",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Gander",
+        "programName": "Instrument Rating",
+        "programURL": "http://evasair.com/gft/planetraining/instrument.php",
+        "schoolName": "Gander Flight Training",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50954",
+        "provinceName": "Alberta",
+        "cityName": "Spruce Grove",
+        "programName": "Instrument Rating",
+        "programURL": "https://www.flyefc.ca/courses/instrument-rating",
+        "schoolName": "Edmonton Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43190",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Instrument Rating",
+        "programURL": "https://www.mvheli.com/instrument-rating/",
+        "schoolName": "Mountain View Helicopters",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50804",
+        "provinceName": "Alberta",
+        "cityName": "Medicine Hat",
+        "programName": "Instrument Rating",
+        "programURL": "https://www.supertaviation.ca/courses-cost",
+        "schoolName": "Super T Aviation Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50771",
+        "provinceName": "Saskatchewan",
+        "cityName": "Yorkton",
+        "programName": "Instrument Rating",
+        "programURL": "http://leadingedgeyorkton.wixsite.com/leading-edge/instrument-rating",
+        "schoolName": "Leading Edge Aviation Limited",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48904",
+        "provinceName": "Saskatchewan",
+        "cityName": "Regina",
+        "programName": "Instrument Rating",
+        "programURL": "https://reginaflyingclub.ca/services/flight-training/course-rates/",
+        "schoolName": "Regina Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "51989",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Instrument Rating - Group 3 (Single-engine)",
+        "programURL": "https://www.millenniumaviation.ca/courses_offered/details/instrument_rating.html",
+        "schoolName": "Millennium Aviation Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "52020",
+        "provinceName": "Alberta",
+        "cityName": "Penhold",
+        "programName": "Instrument Rating: Single Engine Instrument Rating",
+        "programURL": "https://skywings.com/courses/2017-02-07-22-57-49/endorsment/instrument-rating",
+        "schoolName": "Sky Wings Aviation Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36401",
+        "provinceName": "Ontario",
+        "cityName": "Breslau",
+        "programName": "Instrument Ratings",
+        "programURL": "http://www.wwfc.ca/flyprofessional/instrument-ratings/",
+        "schoolName": "Waterloo Wellington Flight Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43501",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Integrated Airline Transport Pilot Program",
+        "programURL": "https://www.coastalpacific.com/airline-transport-pilot-licence-pro",
+        "schoolName": "Coastal Pacific Aviation",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50324",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Licensing Requirements for Holders of Foreign Licence's (ICAO)",
+        "programURL": "http://advancedheliflight.com/page20.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50324",
+        "provinceName": "New Brunswick",
+        "cityName": "Lincoln",
+        "programName": "Licensing Requirements for Holders of Foreign Licence's (ICAO)",
+        "programURL": "http://advancedheliflight.com/page20.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "47547",
+        "provinceName": "Nova Scotia",
+        "cityName": "Masstown",
+        "programName": "Loader Operator",
+        "programURL": "http://safetycollege.ca/programs/heavy-equipment/loader",
+        "schoolName": "Commercial Safety College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "42819",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Loader Program",
+        "programURL": "https://ttcc.ca/training/heo/moncton",
+        "schoolName": "Atlantic Transport Training Academy - Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50321",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Long-Line External Load Course",
+        "programURL": "http://advancedheliflight.com/page17.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50321",
+        "provinceName": "New Brunswick",
+        "cityName": "Lincoln",
+        "programName": "Long-Line External Load Course",
+        "programURL": "http://advancedheliflight.com/page17.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "37667",
+        "provinceName": "Ontario",
+        "cityName": "Barrie",
+        "programName": "Marine Engine Technician",
+        "programURL": "http://www.georgiancollege.ca/academics/apprenticeships/",
+        "schoolName": "Georgian College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43485",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Master Scuba Diver",
+        "programURL": "https://www.divingdynamics.com/discover-scuba/master-scuba-diver/",
+        "schoolName": "Diving Dynamics",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48472",
+        "provinceName": "New Brunswick",
+        "cityName": "Miramichi",
+        "programName": "Mechanized Forest Equipment Operator",
+        "programURL": "http://nbcc.ca/programs-courses/specialized-full-time-programs/mechanized-forestry-operator",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50874",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Mobile Crane Operator",
+        "programURL": "https://www.iuoe115.ca/training/courses/mobile-crane-operator/",
+        "schoolName": "IUOE Local 115 Training Association",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "14248",
+        "provinceName": "Ontario",
+        "cityName": "Whitby",
+        "programName": "Mobile Crane Operator (Branch 1, 339A) Apprenticeship",
+        "programURL": "https://durhamcollege.ca/programs-and-courses/apprenticeships",
+        "schoolName": "Durham College of Applied Arts and Technology",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36584",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Holyrood",
+        "programName": "Mobile Crane Program",
+        "programURL": "http://www.oecollege.ca/ProMC.html",
+        "schoolName": "Operating Engineers College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "27372",
+        "provinceName": "Nova Scotia",
+        "cityName": "Masstown",
+        "programName": "Motor Coach",
+        "programURL": "http://safetycollege.ca/programs/motor-coach",
+        "schoolName": "Commercial Safety College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50319",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Mountain Flying Course",
+        "programURL": "http://advancedheliflight.com/page14.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50319",
+        "provinceName": "New Brunswick",
+        "cityName": "Lincoln",
+        "programName": "Mountain Flying Course",
+        "programURL": "http://advancedheliflight.com/page14.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48876",
+        "provinceName": "British Columbia",
+        "cityName": "Sidney",
+        "programName": "Mountain Training",
+        "programURL": "http://www.flyvfc.com/mountain-flying",
+        "schoolName": "Victoria Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43749",
+        "provinceName": "British Columbia",
+        "cityName": "Delta",
+        "programName": "Multi Engine Instrument Rating",
+        "programURL": "http://www.pacificflying.com/career/training-multi-engine-instrument-rating",
+        "schoolName": "Pacific Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50805",
+        "provinceName": "Alberta",
+        "cityName": "Medicine Hat",
+        "programName": "Multi Engine Rating",
+        "programURL": "https://www.supertaviation.ca/courses-cost",
+        "schoolName": "Super T Aviation Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43819",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Multi Equipment Operator and Class One",
+        "programURL": "http://www.taylorprotraining.com/course_detail.php?id=29",
+        "schoolName": "Taylor Pro Training Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50851",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Multi-Engine Instrument Rating (MIFR)",
+        "programURL": "http://www.mitchinsonflyingservice.com/prospective-students/licenses-and-ratings/multi-engine-instrument-rating",
+        "schoolName": "Mitchinson Flying Service",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43070",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Multi-Engine Instrument Rating Group 1",
+        "programURL": "http://www.calgaryflyingclub.com/other-rating/",
+        "schoolName": "Calgary Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50398",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Multi-Engine Instrument Rating Group 3",
+        "programURL": "http://www.calgaryflyingclub.com/other-rating/",
+        "schoolName": "Calgary Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48901",
+        "provinceName": "Ontario",
+        "cityName": "Breslau",
+        "programName": "Multi-Engine Rating",
+        "programURL": "http://www.wwfc.ca/flyprofessional/multi-engine-rating/",
+        "schoolName": "Waterloo Wellington Flight Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36593",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Gander",
+        "programName": "Multi-Engine Rating",
+        "programURL": "http://evasair.com/gft/planetraining/multiengine.php",
+        "schoolName": "Gander Flight Training",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43069",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Multi-Engine Rating",
+        "programURL": "http://www.calgaryflyingclub.com/other-rating/",
+        "schoolName": "Calgary Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50953",
+        "provinceName": "Alberta",
+        "cityName": "Spruce Grove",
+        "programName": "Multi-Engine Rating",
+        "programURL": "https://www.flyefc.ca/courses/multi-engine-rating",
+        "schoolName": "Edmonton Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50770",
+        "provinceName": "Saskatchewan",
+        "cityName": "Yorkton",
+        "programName": "Multi-Engine Rating",
+        "programURL": "http://leadingedgeyorkton.wixsite.com/leading-edge/multi-engine-rating",
+        "schoolName": "Leading Edge Aviation Limited",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50840",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Multi-Engine Rating",
+        "programURL": "https://www.millenniumaviation.ca/courses_offered/details/multiengine_rating.html",
+        "schoolName": "Millennium Aviation Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48902",
+        "provinceName": "Saskatchewan",
+        "cityName": "Regina",
+        "programName": "Multi-Engine Rating",
+        "programURL": "https://reginaflyingclub.ca/services/flight-training/course-rates/",
+        "schoolName": "Regina Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50849",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Multi-Engine Rating",
+        "programURL": "http://www.mitchinsonflyingservice.com/prospective-students/licenses-and-ratings/multi-engine-rating",
+        "schoolName": "Mitchinson Flying Service",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43507",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Multi-engine Class Rating Program",
+        "programURL": "https://www.coastalpacific.com/multi-engine-class-rating-program",
+        "schoolName": "Coastal Pacific Aviation",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36589",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Gander",
+        "programName": "Night & VFR OTT Rating",
+        "programURL": "http://evasair.com/gft/planetraining/nightvfr.php",
+        "schoolName": "Gander Flight Training",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43064",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Night Rating",
+        "programURL": "http://www.calgaryflyingclub.com/other-rating/",
+        "schoolName": "Calgary Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50950",
+        "provinceName": "Alberta",
+        "cityName": "Spruce Grove",
+        "programName": "Night Rating",
+        "programURL": "https://www.flyefc.ca/courses/night-rating",
+        "schoolName": "Edmonton Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48979",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Night Rating",
+        "programURL": "https://www.mvheli.com/night-rating/",
+        "schoolName": "Mountain View Helicopters",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50806",
+        "provinceName": "Alberta",
+        "cityName": "Medicine Hat",
+        "programName": "Night Rating",
+        "programURL": "https://www.supertaviation.ca/courses-cost",
+        "schoolName": "Super T Aviation Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50317",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Night Rating",
+        "programURL": "http://advancedheliflight.com/page14.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50317",
+        "provinceName": "New Brunswick",
+        "cityName": "Lincoln",
+        "programName": "Night Rating",
+        "programURL": "http://advancedheliflight.com/page14.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50841",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Night Rating",
+        "programURL": "https://www.millenniumaviation.ca/courses_offered/details/night_rating.html",
+        "schoolName": "Millennium Aviation Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50846",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Night Rating",
+        "programURL": "http://www.mitchinsonflyingservice.com/prospective-students/licenses-and-ratings/night-rating",
+        "schoolName": "Mitchinson Flying Service",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48903",
+        "provinceName": "Saskatchewan",
+        "cityName": "Regina",
+        "programName": "Night Rating",
+        "programURL": "https://reginaflyingclub.ca/services/flight-training/course-rates/",
+        "schoolName": "Regina Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50682",
+        "provinceName": "Alberta",
+        "cityName": "Whitecourt",
+        "programName": "Night Rating",
+        "programURL": "https://www.rotorworks.com/course-info/",
+        "schoolName": "Rotorworks Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43488",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "PADI Divemaster",
+        "programURL": "https://www.divingdynamics.com/discover-scuba/divemaster/",
+        "schoolName": "Diving Dynamics",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43587",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "PADI Divemaster",
+        "programURL": "https://www.divesafe.com/courses/padi-divemaster-training",
+        "schoolName": "Divesafe International",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43481",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "PADI Open Water Diver",
+        "programURL": "https://www.divingdynamics.com/discover-scuba/open-water/",
+        "schoolName": "Diving Dynamics",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43489",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "PADI Scuba Diving Instructor",
+        "programURL": "https://www.divingdynamics.com/discover-scuba/instructor-development-course/",
+        "schoolName": "Diving Dynamics",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "52614",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Pre-employment Mobile Crane",
+        "programURL": "https://www.sait.ca/apprenticeships-and-trades/apprenticeship-and-pre-employment-programs/pre-employment-certificates/pre-employment-mobile-crane",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48977",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Private Helicopter Pilot",
+        "programURL": "https://www.mvheli.com/private-helicopter-pilot/",
+        "schoolName": "Mountain View Helicopters",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48897",
+        "provinceName": "Ontario",
+        "cityName": "Breslau",
+        "programName": "Private Pilot Licence",
+        "programURL": "http://www.wwfc.ca/welcome-to-waterloo-wellington-flight-centre/private-pilot-licence/",
+        "schoolName": "Waterloo Wellington Flight Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50313",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Private Pilot Licence",
+        "programURL": "http://advancedheliflight.com/page10.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50313",
+        "provinceName": "New Brunswick",
+        "cityName": "Lincoln",
+        "programName": "Private Pilot Licence",
+        "programURL": "http://advancedheliflight.com/page10.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48878",
+        "provinceName": "British Columbia",
+        "cityName": "Sidney",
+        "programName": "Private Pilot License",
+        "programURL": "http://www.flyvfc.com/private-pilot-licence",
+        "schoolName": "Victoria Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36588",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Gander",
+        "programName": "Private Pilot License",
+        "programURL": "http://evasair.com/gft/planetraining/pplicence.php",
+        "schoolName": "Gander Flight Training",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44898",
+        "provinceName": "Saskatchewan",
+        "cityName": "Regina",
+        "programName": "Private Pilot License",
+        "programURL": "http://reginaflyingclub.ca/services/flight-training/course-rates/",
+        "schoolName": "Regina Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44896",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Professional Pilot Course",
+        "programURL": "http://www.mitchinsonflyingservice.com/prospective-students/licenses-and-ratings/professional-pilot-course",
+        "schoolName": "Mitchinson Flying Service",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49036",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Professional Pilot Program (Certificate)",
+        "programURL": "http://www.cfc.aero/index.php/flight-training/professional/certificate-ppp",
+        "schoolName": "Canadian Flight Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49036",
+        "provinceName": "British Columbia",
+        "cityName": "Pitt Meadows",
+        "programName": "Professional Pilot Program (Certificate)",
+        "programURL": "http://www.cfc.aero/index.php/flight-training/professional/certificate-ppp",
+        "schoolName": "Canadian Flight Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43588",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "Professional SCUBA Diver",
+        "programURL": "https://www.divesafe.com/courses/professional-scuba-diver",
+        "schoolName": "Divesafe International",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43680",
+        "provinceName": "British Columbia",
+        "cityName": "Castlegar",
+        "programName": "Professional Truck Driver Training",
+        "programURL": "http://www.drivemti.com/professional-truck-driver-training/",
+        "schoolName": "Mountain Transport Institute",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39304",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Railway Car Technician Apprenticeship (Level \u2013 Certificate)",
+        "programURL": "https://www.canadorecollege.ca/programs/railway-car-technician-apprenticeship",
+        "schoolName": "Canadore College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "24687",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Railway Conductor",
+        "programURL": "https://www.sait.ca/programs-and-courses/certificates/railway-conductor",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "52851",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Recreational Pilot Permit",
+        "programURL": "https://www.insigniacollege.com/aviation-programs/recreational-pilot-permit-canada/",
+        "schoolName": "Insignia College of Health and Business",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48877",
+        "provinceName": "British Columbia",
+        "cityName": "Sidney",
+        "programName": "Recreational Pilot Permit",
+        "programURL": "http://www.flyvfc.com/recreational-pilot-permit",
+        "schoolName": "Victoria Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48896",
+        "provinceName": "Ontario",
+        "cityName": "Breslau",
+        "programName": "Recreational Pilot Permit",
+        "programURL": "http://www.wwfc.ca/welcome-to-waterloo-wellington-flight-centre/recreational-pilot-permit/",
+        "schoolName": "Waterloo Wellington Flight Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36587",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Gander",
+        "programName": "Recreational Pilot Permit",
+        "programURL": "http://evasair.com/gft/planetraining/recpilotpermit.php",
+        "schoolName": "Gander Flight Training",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43484",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Rescue Diver",
+        "programURL": "https://www.divingdynamics.com/discover-scuba/rescue-diver/",
+        "schoolName": "Diving Dynamics",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44079",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Rigging Courses",
+        "programURL": "https://oetim.com/rigging-courses/",
+        "schoolName": "Operating Engineers Training Institute of Manitoba",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "27376",
+        "provinceName": "Nova Scotia",
+        "cityName": "Masstown",
+        "programName": "School Bus Driver",
+        "programURL": "http://safetycollege.ca/school-bus-driver",
+        "schoolName": "Commercial Safety College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36591",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Gander",
+        "programName": "Seaplane Rating",
+        "programURL": "http://evasair.com/gft/planetraining/seaplane.php",
+        "schoolName": "Gander Flight Training",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "52852",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Single Engine Instrument Rating",
+        "programURL": "https://www.insigniacollege.com/aviation-programs/single-engine-instrument-rating/",
+        "schoolName": "Insignia College of Health and Business",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50850",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Single-Engine Instrument Rating",
+        "programURL": "http://www.mitchinsonflyingservice.com/prospective-students/licenses-and-ratings/single-engine-instrument-rating",
+        "schoolName": "Mitchinson Flying Service",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36592",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Gander",
+        "programName": "Ski-Plane Training",
+        "programURL": "http://evasair.com/gft/planetraining/skiplane.php",
+        "schoolName": "Gander Flight Training",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48854",
+        "provinceName": "Ontario",
+        "cityName": "Sudbury ON",
+        "programName": "Skid School",
+        "programURL": "http://ttcc.ca/training/skid-school",
+        "schoolName": "Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "47548",
+        "provinceName": "Nova Scotia",
+        "cityName": "Masstown",
+        "programName": "Skid Steer Loader Operator",
+        "programURL": "http://safetycollege.ca/programs/skid-steer-loader-operator",
+        "schoolName": "Commercial Safety College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44082",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Skid Steer Operator Training",
+        "programURL": "https://oetim.com/skid-steer-operator-training/",
+        "schoolName": "Operating Engineers Training Institute of Manitoba",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "25626",
+        "provinceName": "Nova Scotia",
+        "cityName": "Masstown",
+        "programName": "Straight Truck",
+        "programURL": "http://safetycollege.ca/programs/straight-truck-driver",
+        "schoolName": "Commercial Safety College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49266",
+        "provinceName": "Nova Scotia",
+        "cityName": "Bridgewater",
+        "programName": "Straight Truck \u2013 Class 3",
+        "programURL": "http://southshorecareer.com/wordpress/portfolio/straight-truck/",
+        "schoolName": "South Shore Career Training Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49266",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Straight Truck \u2013 Class 3",
+        "programURL": "http://southshorecareer.com/wordpress/portfolio/straight-truck/",
+        "schoolName": "South Shore Career Training Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "36495",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Badger",
+        "programName": "Tandem Truck Driver - Class 3",
+        "programURL": "http://www.centraltraining.ca/PR-Class3.html",
+        "schoolName": "Central Training Academy",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50905",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Bay Roberts",
+        "programName": "Tandem Truck \u2013 Class 03",
+        "programURL": "http://canadiantraininginstitutenl.ca/commercial-driver-class-03-tandem-axel/",
+        "schoolName": "Canadian Training Institute",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "47673",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Three Piece Multi Heavy Equipment Training",
+        "programURL": "http://www.taylorprotraining.com/course_detail.php?id=28",
+        "schoolName": "Taylor Pro Training Ltd.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "25624",
+        "provinceName": "Nova Scotia",
+        "cityName": "Masstown",
+        "programName": "Tractor Trailer Internship Program",
+        "programURL": "http://safetycollege.ca/programs/tractor-trailer",
+        "schoolName": "Commercial Safety College",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49262",
+        "provinceName": "Nova Scotia",
+        "cityName": "Bridgewater",
+        "programName": "Tractor Trailer \u2013 Class 1",
+        "programURL": "http://southshorecareer.com/wordpress/portfolio/tractor-trailer/",
+        "schoolName": "South Shore Career Training Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49262",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Tractor Trailer \u2013 Class 1",
+        "programURL": "http://southshorecareer.com/wordpress/portfolio/tractor-trailer/",
+        "schoolName": "South Shore Career Training Centre",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "48853",
+        "provinceName": "Ontario",
+        "cityName": "Sudbury",
+        "programName": "Truck Driver Training",
+        "programURL": "https://ttcc.ca/training",
+        "schoolName": "Transport Training Centres of Canada Inc.",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50323",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Type Rating Training",
+        "programURL": "http://advancedheliflight.com/page19.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50323",
+        "provinceName": "New Brunswick",
+        "cityName": "Lincoln",
+        "programName": "Type Rating Training",
+        "programURL": "http://advancedheliflight.com/page19.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43586",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "Unrestricted Surface Supply Diver",
+        "programURL": "https://www.divesafe.com/courses/unrestricted-surface-supply-diver",
+        "schoolName": "Divesafe International",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50318",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "VFR Over The Top Rating",
+        "programURL": "http://advancedheliflight.com/page15.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50318",
+        "provinceName": "New Brunswick",
+        "cityName": "Lincoln",
+        "programName": "VFR Over The Top Rating",
+        "programURL": "http://advancedheliflight.com/page15.html",
+        "schoolName": "Advanced Heli-Flight Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50848",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "VFR Over the Top Rating",
+        "programURL": "http://www.mitchinsonflyingservice.com/prospective-students/licenses-and-ratings/vfr-over-the-top-rating",
+        "schoolName": "Mitchinson Flying Service",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50951",
+        "provinceName": "Alberta",
+        "cityName": "Spruce Grove",
+        "programName": "VFR Over-The-Top Rating (OTT)",
+        "programURL": "https://www.flyefc.ca/courses/vfr-over-the-top-rating-ott",
+        "schoolName": "Edmonton Flying Club",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50843",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "VFR-over-the-top Rating",
+        "programURL": "https://www.millenniumaviation.ca/courses_offered/details/vfroverthetop_rating.html",
+        "schoolName": "Millennium Aviation Ltd",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43584",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "https://www.divesafe.com/courses/restricted-surface-supply-diver",
+        "programURL": "https://www.divesafe.com/courses/restricted-surface-supply-diver",
+        "schoolName": "Divesafe International",
+        "programCategory": "49-Transportation and Materials Moving",
+        "EducationLevel": "Training"
+    }
+]

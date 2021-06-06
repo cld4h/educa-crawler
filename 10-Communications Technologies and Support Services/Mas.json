@@ -1,0 +1,72 @@
+[
+    {
+        "programId": "24033",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Certificate in Graphics, Gaming, and Media",
+        "programURL": "https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=81&chapterid=4596&topicgroupid=19610&loaduseredits=False",
+        "schoolName": "Dalhousie University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35541",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Certificate in Information and Communication Technology Management",
+        "programURL": "https://courses.opened.uoguelph.ca/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=129941",
+        "schoolName": "University of Guelph",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "1101",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Communication Sciences and Disorders (MSc-SLP/PhD)",
+        "programURL": "https://www.ualberta.ca/graduate-studies/programs/search#6DEF4F2EE8534CCDAA575DF3E0F2C495",
+        "schoolName": "University of Alberta",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21855",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Communications and Technology (MA)",
+        "programURL": "https://www.ualberta.ca/graduate-studies/programs/search#F683C01A7BF044EAAB759802F8C9FCF4",
+        "schoolName": "University of Alberta",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21172",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Interactive Arts and Technology (Master of Arts)",
+        "programURL": "http://www.sfu.ca/siat/grad.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52648",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Digital Media",
+        "programURL": "https://www.ryerson.ca/graduate/programs/digital-media/",
+        "schoolName": "Ryerson University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52587",
+        "provinceName": "Nova Scotia",
+        "cityName": "Antigonish",
+        "programName": "Post Baccalaureate Diploma in Enterprise IT Management",
+        "programURL": "http://business.stfx.ca/programs/postbac-enterprise",
+        "schoolName": "St. Francis Xavier University",
+        "programCategory": "10-Communications Technologies and Support Services",
+        "EducationLevel": "University - Master"
+    }
+]

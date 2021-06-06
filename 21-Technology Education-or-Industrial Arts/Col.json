@@ -1,0 +1,82 @@
+[
+    {
+        "programId": "38543",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Advanced GIS Certificate",
+        "programURL": "https://webapps-5.okanagan.bc.ca/ok/Calendar/AdvancedGISCertificate",
+        "schoolName": "Okanagan College",
+        "programCategory": "21-Technology Education-or-Industrial Arts",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38543",
+        "provinceName": "British Columbia",
+        "cityName": "Salmon Arm",
+        "programName": "Advanced GIS Certificate",
+        "programURL": "https://webapps-5.okanagan.bc.ca/ok/Calendar/AdvancedGISCertificate",
+        "schoolName": "Okanagan College",
+        "programCategory": "21-Technology Education-or-Industrial Arts",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "27018",
+        "provinceName": "Winnipeg",
+        "cityName": "Science and Technology",
+        "programName": "Bachelor of Education Business/Technology Teacher Education",
+        "programURL": "https://catalogue.rrc.ca/Programs/WPG/Fulltime/BUSHF-DP",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "21-Technology Education-or-Industrial Arts",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19510",
+        "provinceName": "Winnipeg",
+        "cityName": "Science and Technology",
+        "programName": "Bachelor of Education in Business/Technology Teacher Education - After Degree",
+        "programURL": "https://me.rrc.mb.ca/Catalogue/ProgramInfo.aspx?ProgCode=BUSTF-DP&DescriptionType=19&RegionCode=WPG",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "21-Technology Education-or-Industrial Arts",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49851",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Diploma in Animation",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/Calendar/animation-diploma",
+        "schoolName": "Okanagan College",
+        "programCategory": "21-Technology Education-or-Industrial Arts",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19508",
+        "provinceName": "Winnipeg",
+        "cityName": "Science and Technology",
+        "programName": "Diploma in Business/Technology Teacher Education - Accelerated",
+        "programURL": "https://me.rrc.mb.ca/Catalogue/ProgramInfo.aspx?RegionCode=WPG&ProgCode=BUSSF-DP",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "21-Technology Education-or-Industrial Arts",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34696",
+        "provinceName": "Ontario",
+        "cityName": "Sudbury",
+        "programName": "Pre-Trades/Technology (PRET)",
+        "programURL": "http://cambriancollege.ca/programs/pre-tradestechnology/",
+        "schoolName": "Cambrian College",
+        "programCategory": "21-Technology Education-or-Industrial Arts",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "47985",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Technology Basics",
+        "programURL": "https://appliedtechnology.humber.ca/programs/technology-basics.html",
+        "schoolName": "Humber College of Applied Arts and Technology",
+        "programCategory": "21-Technology Education-or-Industrial Arts",
+        "EducationLevel": "College"
+    }
+]

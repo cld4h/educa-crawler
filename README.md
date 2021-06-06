@@ -14,13 +14,13 @@ programId,provinceName,cityName,programName,programURL,schoolName,programCategor
 
 ## Education Level
 
-| EducationLevel         | value             |
-|------------------------|-------------------|
-| Training               | 3,1,4             |
-| College                | 18,5,6,8,31,32    |
-| University             | 25,10,33,34,30,35 |
-| University - Master    | 36,11,27          |
-| University - Doctorate | 37,12,38,39,40,41 |
+| EducationLevel         | key | value             |
+|------------------------|-----|-------------------|
+| Training               | Tra | 3,1,4             |
+| College                | Col | 18,5,6,8,31,32    |
+| University             | Uni | 25,10,33,34,30,35 |
+| University - Master    | Mas | 36,11,27          |
+| University - Doctorate | Doc | 37,12,38,39,40,41 |
 
 ## Program Category
 

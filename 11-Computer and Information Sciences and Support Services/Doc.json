@@ -1,0 +1,262 @@
+[
+    {
+        "programId": "21308",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computer Science (PhD)",
+        "programURL": "https://graduate.mcmaster.ca/programs/computer-science",
+        "schoolName": "McMaster University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "8637",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Computer Science (PhD)",
+        "programURL": "https://www.dal.ca/academics/programs/graduate/computer-science.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "51511",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Computer Science (PhD), Big Data Analytics & Machine Learning areas",
+        "programURL": "https://www.dal.ca/faculty/computerscience/big-data-machine-learning.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "51513",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Computer Science (PhD), HCI, Visualization and Graphics areas",
+        "programURL": "https://www.dal.ca/faculty/computerscience/hci-visualization-graphics.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "51514",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Computer Science (PhD), Systems, Networks and Security areas",
+        "programURL": "https://www.dal.ca/faculty/computerscience/systems-networks-security.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "21143",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Computing Science (Doctor of Philosophy)",
+        "programURL": "http://www.sfu.ca/dean-gradstudies/future/academicprograms/faculty_of_appliedsciences/computing_science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "38349",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Computing Science (PhD)",
+        "programURL": "https://www.ualberta.ca/graduate-studies/programs/search#08B942F9CE54435D83D870B8FDE395D6",
+        "schoolName": "University of Alberta",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "4348",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Computer Science (17 Fields of research)",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/david-r-cheriton-school-computer-science/doctor-philosophy-phd-computer-science",
+        "schoolName": "University of Waterloo",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "30741",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Ph.D. in Computer Science",
+        "programURL": "http://www.uwindsor.ca/science/computerscience/1006/graduate-programs",
+        "schoolName": "University of Windsor",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "34813",
+        "provinceName": "Alberta",
+        "cityName": "Lethbridge",
+        "programName": "Ph.D. in Theoretical and Computational Science",
+        "programURL": "https://www.uleth.ca/future-student/graduate-studies/doctor-philosophy/theoretical-and-computational-science",
+        "schoolName": "University of Lethbridge",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "46781",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "PhD in Computational Science",
+        "programURL": "https://graduatestudies.uoguelph.ca/programs/computational-science-phd",
+        "schoolName": "University of Guelph",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "21745",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Computer Science",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Computer-Science.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2333",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "PhD in Computer Science",
+        "programURL": "https://www.mun.ca/become/graduate/programs/computer.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2690",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "PhD in Computer Science",
+        "programURL": "https://www.unb.ca/gradstudies/programs/computer-science.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "5048",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "PhD in Computer Science",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science",
+        "schoolName": "University of British Columbia",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "6131",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "PhD in Computer Science",
+        "programURL": "http://graduate.carleton.ca/programs/computer-science-phd/",
+        "schoolName": "Carleton University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "6693",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "PhD in Computer Science",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/computer_science.html#PhD",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "37557",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Computer Science",
+        "programURL": "https://www.ryerson.ca/graduate/programs/computer-science/",
+        "schoolName": "Ryerson University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "7569",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "PhD in Computer Science",
+        "programURL": "http://www.uvic.ca/engineering/computerscience/graduate/phd/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "8072",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Computer Science",
+        "programURL": "http://futurestudents.yorku.ca/graduate/programs/science-and-technology-studies",
+        "schoolName": "York University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "10479",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "PhD in Computer Science",
+        "programURL": "https://grad.usask.ca/programs/computer-science.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "42653",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "PhD in Computer Science",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=38",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "35575",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "PhD in Computer Science",
+        "programURL": "https://gradstudies.ontariotechu.ca/future_students/programs/doctoral_programs/computer_science/index.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "76",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Information Studies",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Information.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "29611",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "PhD in Scientific Computing",
+        "programURL": "https://www.mun.ca/become/graduate/programs/computing.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "28387",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Pre-Master's in Computer Science",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/computer_science.html#PreM",
+        "schoolName": "University of Manitoba",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "University - Doctorate"
+    }
+]

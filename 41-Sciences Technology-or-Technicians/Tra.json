@@ -1,0 +1,22 @@
+[
+    {
+        "programId": "13291",
+        "provinceName": "British Columbia",
+        "cityName": "Nanaimo",
+        "programName": "Automotive Service Technician Apprenticeship Program - Certificate",
+        "programURL": "https://www.viu.ca/programs/trades-applied-technology/automotive-service-technician",
+        "schoolName": "Vancouver Island University",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13291",
+        "provinceName": "British Columbia",
+        "cityName": "Powell River",
+        "programName": "Automotive Service Technician Apprenticeship Program - Certificate",
+        "programURL": "https://www.viu.ca/programs/trades-applied-technology/automotive-service-technician",
+        "schoolName": "Vancouver Island University",
+        "programCategory": "41-Sciences Technology-or-Technicians",
+        "EducationLevel": "Training"
+    }
+]

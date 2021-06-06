@@ -1,0 +1,2092 @@
+[
+    {
+        "programId": "34991",
+        "provinceName": "Saskatchewan",
+        "cityName": "North Battleford",
+        "programName": "ABC's of Computer Literacy (Battlefords Campus)",
+        "programURL": "https://northwestcollege.ca/programs_services/2020_21/adult_basic_education.html",
+        "schoolName": "North West College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "34982",
+        "provinceName": "Saskatchewan",
+        "cityName": "Meadow Lake",
+        "programName": "ABC's of Computer Literacy (Meadow Lake Campus)",
+        "programURL": "https://northwestcollege.ca/programs_services/2020_21/adult_basic_education.html",
+        "schoolName": "North West College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "46299",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "ACP | Adult Upgrading",
+        "programURL": "http://www.kpu.ca/aca/acp/adult-basic-education-courses",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39514",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Academic & Career Entrance (ACE)",
+        "programURL": "http://www.confederationcollege.ca/program/academic-career-entrance-ace",
+        "schoolName": "Confederation College of Applied Arts and Technology",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43526",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Academic Preparation Program",
+        "programURL": "http://www.dorsetcollege.bc.ca/programs.html",
+        "schoolName": "Dorset College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "14321",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.gprc.ab.ca/programs/academic-upgrading.html",
+        "schoolName": "Grande Prairie Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15688",
+        "provinceName": "Alberta",
+        "cityName": "Drayton Valley",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.norquest.ca/cal/current/program/academic-upgrading-AU12/",
+        "schoolName": "NorQuest College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15688",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.norquest.ca/cal/current/program/academic-upgrading-AU12/",
+        "schoolName": "NorQuest College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15688",
+        "provinceName": "Alberta",
+        "cityName": "Wetaskiwin",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.norquest.ca/cal/current/program/academic-upgrading-AU12/",
+        "schoolName": "NorQuest College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15688",
+        "provinceName": "Alberta",
+        "cityName": "Whitecourt",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.norquest.ca/cal/current/program/academic-upgrading-AU12/",
+        "schoolName": "NorQuest College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "40847",
+        "provinceName": "Ontario",
+        "cityName": "Haileybury",
+        "programName": "Academic Upgrading",
+        "programURL": "http://www.northernc.on.ca/academic-upgrading/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "40847",
+        "provinceName": "Ontario",
+        "cityName": "Kapuskasing",
+        "programName": "Academic Upgrading",
+        "programURL": "http://www.northernc.on.ca/academic-upgrading/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "40847",
+        "provinceName": "Ontario",
+        "cityName": "Kirkland Lake",
+        "programName": "Academic Upgrading",
+        "programURL": "http://www.northernc.on.ca/academic-upgrading/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "40847",
+        "provinceName": "Ontario",
+        "cityName": "Moosonee",
+        "programName": "Academic Upgrading",
+        "programURL": "http://www.northernc.on.ca/academic-upgrading/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "40847",
+        "provinceName": "Ontario",
+        "cityName": "South Porcupine",
+        "programName": "Academic Upgrading",
+        "programURL": "http://www.northernc.on.ca/academic-upgrading/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "14938",
+        "provinceName": "Ontario",
+        "cityName": "North York",
+        "programName": "Academic Upgrading",
+        "programURL": "http://www.senecacollege.ca/programs/fulltime/AUC.html",
+        "schoolName": "Seneca College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "14938",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Academic Upgrading",
+        "programURL": "http://www.senecacollege.ca/programs/fulltime/AUC.html",
+        "schoolName": "Seneca College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "14938",
+        "provinceName": "Ontario",
+        "cityName": "Vaughan",
+        "programName": "Academic Upgrading",
+        "programURL": "http://www.senecacollege.ca/programs/fulltime/AUC.html",
+        "schoolName": "Seneca College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "31526",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.sait.ca/programs-and-courses/full-time-studies/academic-upgrading",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Athabasca",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Atikameg",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Barrhead",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Cadotte Lake",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Calling Lake",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Chateh",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Driftpile",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Fairview",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Faust",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Flatbush",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Fort Vermilion",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Gift Lake",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Grouard",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "High Level",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "High Prairie",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "La Crete",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Manning",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "McLennan",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Paddle Prairie",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Peace River",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Peerless Lake",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Red Earth Creek",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Slave Lake",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Smith",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Swan Hills",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Valleyview",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33973",
+        "provinceName": "Alberta",
+        "cityName": "Wabasca",
+        "programName": "Academic Upgrading",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/academic-upgrading",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13914",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Academic Upgrading (52 weeks \u2013 Certificate)",
+        "programURL": "https://www.canadorecollege.ca/programs/academic-upgrading",
+        "schoolName": "Canadore College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13914",
+        "provinceName": "Ontario",
+        "cityName": "Parry Sound",
+        "programName": "Academic Upgrading (52 weeks \u2013 Certificate)",
+        "programURL": "https://www.canadorecollege.ca/programs/academic-upgrading",
+        "schoolName": "Canadore College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "46225",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Academic Upgrading (AU)",
+        "programURL": "https://liberalarts.humber.ca/programs/academic-upgrading.html",
+        "schoolName": "Humber College of Applied Arts and Technology",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "17908",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Academic Upgrading for Deaf and Hard of Hearing Adults",
+        "programURL": "https://www.georgebrown.ca/programs/deaf-academic-upgrading-program-a752/?year=2019",
+        "schoolName": "George Brown College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "32313",
+        "provinceName": "Ontario",
+        "cityName": "Haileybury",
+        "programName": "Academic and Career Entrance (ACE)",
+        "programURL": "http://www.northernc.on.ca/ace/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "32313",
+        "provinceName": "Ontario",
+        "cityName": "Kirkland Lake",
+        "programName": "Academic and Career Entrance (ACE)",
+        "programURL": "http://www.northernc.on.ca/ace/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "32313",
+        "provinceName": "Ontario",
+        "cityName": "Moosonee",
+        "programName": "Academic and Career Entrance (ACE)",
+        "programURL": "http://www.northernc.on.ca/ace/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "32313",
+        "provinceName": "Ontario",
+        "cityName": "South Porcupine",
+        "programName": "Academic and Career Entrance (ACE)",
+        "programURL": "http://www.northernc.on.ca/ace/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15781",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Adult Basic Education",
+        "programURL": "https://bowvalleycollege.ca/programs-courses/academic-upgrading/adult-basic-education",
+        "schoolName": "Bow Valley College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "26509",
+        "provinceName": "Alberta",
+        "cityName": "Lloydminster",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.lakelandcollege.ca/academics/continuing-education/programs/adult-basic-education-skills-training/overview/",
+        "schoolName": "Lakeland College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "31131",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Adult Basic Education",
+        "programURL": "http://keyin.ca/program/adult-basic-education/",
+        "schoolName": "Keyin College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Athabasca",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Atikameg",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Barrhead",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Cadotte Lake",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Calling Lake",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Chateh",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Driftpile",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Fairview",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Faust",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Flatbush",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Fort Vermilion",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Gift Lake",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Grouard",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "High Level",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "High Prairie",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "La Crete",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Manning",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "McLennan",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Paddle Prairie",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Peace River",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Peerless Lake",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Red Earth Creek",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Slave Lake",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Smith",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Swan Hills",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Valleyview",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39129",
+        "provinceName": "Alberta",
+        "cityName": "Wabasca",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.northernlakescollege.ca/programs-courses/academic-upgrading/program/adult-basic-education",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13461",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.nic.bc.ca/programs-courses/upgrading/upgrading-programs-courses/adult-basic-education/",
+        "schoolName": "North Island College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13461",
+        "provinceName": "British Columbia",
+        "cityName": "Courtenay",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.nic.bc.ca/programs-courses/upgrading/upgrading-programs-courses/adult-basic-education/",
+        "schoolName": "North Island College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13461",
+        "provinceName": "British Columbia",
+        "cityName": "Port Alberni",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.nic.bc.ca/programs-courses/upgrading/upgrading-programs-courses/adult-basic-education/",
+        "schoolName": "North Island College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13461",
+        "provinceName": "British Columbia",
+        "cityName": "Port Hardy",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.nic.bc.ca/programs-courses/upgrading/upgrading-programs-courses/adult-basic-education/",
+        "schoolName": "North Island College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13461",
+        "provinceName": "British Columbia",
+        "cityName": "Ucluelet",
+        "programName": "Adult Basic Education",
+        "programURL": "https://www.nic.bc.ca/programs-courses/upgrading/upgrading-programs-courses/adult-basic-education/",
+        "schoolName": "North Island College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39865",
+        "provinceName": "Alberta",
+        "cityName": "Medicine Hat",
+        "programName": "Adult Basic Education (ABE)",
+        "programURL": "https://www.mhc.ab.ca/ProgramsandCourses/Academic-Programs/Programs-of-Study/Adult-Basic-Education",
+        "schoolName": "Medicine Hat College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "32931",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Adult Basic Education - Adult Graduation Diploma (Grade 12 equivalency)",
+        "programURL": "https://www.tru.ca/distance/programs/adult-basic-education/graduation-diploma.html",
+        "schoolName": "Thompson Rivers University - Open Learning",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "32930",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Adult Basic Education - Advanced Certificate (Grade 11 equivalency)",
+        "programURL": "https://www.tru.ca/distance/programs/adult-basic-education/advanced-certificate.html",
+        "schoolName": "Thompson Rivers University - Open Learning",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "32929",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Adult Basic Education - Intermediate Certificate (Grade 10 equivalency)",
+        "programURL": "http://www.tru.ca/distance/programs/adult-basic-education/intermediate-certificate.html",
+        "schoolName": "Thompson Rivers University - Open Learning",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "38423",
+        "provinceName": "Saskatchewan",
+        "cityName": "Humboldt",
+        "programName": "Adult Basic Education, Level 4 (Adult 12)",
+        "programURL": "https://www.carltontrailcollege.com/explore/adult-basic-education",
+        "schoolName": "Carlton Trail Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "38423",
+        "provinceName": "Saskatchewan",
+        "cityName": "Punnichy",
+        "programName": "Adult Basic Education, Level 4 (Adult 12)",
+        "programURL": "https://www.carltontrailcollege.com/explore/adult-basic-education",
+        "schoolName": "Carlton Trail Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "38423",
+        "provinceName": "Saskatchewan",
+        "cityName": "Wakaw",
+        "programName": "Adult Basic Education, Level 4 (Adult 12)",
+        "programURL": "https://www.carltontrailcollege.com/explore/adult-basic-education",
+        "schoolName": "Carlton Trail Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "38423",
+        "provinceName": "Saskatchewan",
+        "cityName": "Wynyard",
+        "programName": "Adult Basic Education, Level 4 (Adult 12)",
+        "programURL": "https://www.carltontrailcollege.com/explore/adult-basic-education",
+        "schoolName": "Carlton Trail Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13283",
+        "provinceName": "British Columbia",
+        "cityName": "Nanaimo",
+        "programName": "BC Adult Graduation Diploma",
+        "programURL": "https://calendar.viu.ca/acp/bc-adult-graduation-diploma",
+        "schoolName": "Vancouver Island University",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "40236",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "BC Adult Graduation Diploma",
+        "programURL": "https://www.nic.bc.ca/programs-courses/upgrading/upgrading-programs-courses/adult-graduation-diploma/",
+        "schoolName": "North Island College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "40236",
+        "provinceName": "British Columbia",
+        "cityName": "Courtenay",
+        "programName": "BC Adult Graduation Diploma",
+        "programURL": "https://www.nic.bc.ca/programs-courses/upgrading/upgrading-programs-courses/adult-graduation-diploma/",
+        "schoolName": "North Island College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "40236",
+        "provinceName": "British Columbia",
+        "cityName": "Port Alberni",
+        "programName": "BC Adult Graduation Diploma",
+        "programURL": "https://www.nic.bc.ca/programs-courses/upgrading/upgrading-programs-courses/adult-graduation-diploma/",
+        "schoolName": "North Island College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "40236",
+        "provinceName": "British Columbia",
+        "cityName": "Port Hardy",
+        "programName": "BC Adult Graduation Diploma",
+        "programURL": "https://www.nic.bc.ca/programs-courses/upgrading/upgrading-programs-courses/adult-graduation-diploma/",
+        "schoolName": "North Island College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "40236",
+        "provinceName": "British Columbia",
+        "cityName": "Ucluelet",
+        "programName": "BC Adult Graduation Diploma",
+        "programURL": "https://www.nic.bc.ca/programs-courses/upgrading/upgrading-programs-courses/adult-graduation-diploma/",
+        "schoolName": "North Island College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49255",
+        "provinceName": "Nova Scotia",
+        "cityName": "Coldbrook",
+        "programName": "Basic Office Skills",
+        "programURL": "http://peopleworx.ca/programs/details/annapolis-valley-work-centre",
+        "schoolName": "PeopleWorx",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "42992",
+        "provinceName": "Alberta",
+        "cityName": "St. Paul",
+        "programName": "Camp Life Training",
+        "programURL": "http://www.bluequills.ca/camp-life/",
+        "schoolName": "University nuhelot'ine thaiyots'ii nistameyimakanak Blue Quills",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "28303",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Career Exploration & Development Skills Certificate",
+        "programURL": "http://www.vcct.ca/curriculum.htm#certificatecareer",
+        "schoolName": "Vancouver College of Counsellor Training",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39917",
+        "provinceName": "Ontario",
+        "cityName": "Sarnia",
+        "programName": "Career Transitions",
+        "programURL": "https://www.lambtoncollege.ca/custom/LambtonApps/Programs/Part-Time.aspx?id=2147506454",
+        "schoolName": "Lambton College of Applied Arts and Technology",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15514",
+        "provinceName": "British Columbia",
+        "cityName": "Hazelton",
+        "programName": "Career and College Preparation Program",
+        "programURL": "https://catalogue.coastmountaincollege.ca/programs/career-college-prep/#text",
+        "schoolName": "Coast Mountain College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15514",
+        "provinceName": "British Columbia",
+        "cityName": "Prince Rupert",
+        "programName": "Career and College Preparation Program",
+        "programURL": "https://catalogue.coastmountaincollege.ca/programs/career-college-prep/#text",
+        "schoolName": "Coast Mountain College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15514",
+        "provinceName": "British Columbia",
+        "cityName": "Smithers",
+        "programName": "Career and College Preparation Program",
+        "programURL": "https://catalogue.coastmountaincollege.ca/programs/career-college-prep/#text",
+        "schoolName": "Coast Mountain College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15514",
+        "provinceName": "British Columbia",
+        "cityName": "Terrace",
+        "programName": "Career and College Preparation Program",
+        "programURL": "https://catalogue.coastmountaincollege.ca/programs/career-college-prep/#text",
+        "schoolName": "Coast Mountain College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13095",
+        "provinceName": "British Columbia",
+        "cityName": "New Westminster",
+        "programName": "Career and Employment Preparation",
+        "programURL": "http://www.douglascollege.ca/programs-courses/catalogue/programs/CNCAEP",
+        "schoolName": "Douglas College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13478",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Certificate in Adult Upgrading",
+        "programURL": "http://www.okanagan.bc.ca/Programs/Areas_of_Study/foundational/aacp.html",
+        "schoolName": "Okanagan College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13478",
+        "provinceName": "British Columbia",
+        "cityName": "Penticton",
+        "programName": "Certificate in Adult Upgrading",
+        "programURL": "http://www.okanagan.bc.ca/Programs/Areas_of_Study/foundational/aacp.html",
+        "schoolName": "Okanagan College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13478",
+        "provinceName": "British Columbia",
+        "cityName": "Salmon Arm",
+        "programName": "Certificate in Adult Upgrading",
+        "programURL": "http://www.okanagan.bc.ca/Programs/Areas_of_Study/foundational/aacp.html",
+        "schoolName": "Okanagan College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13478",
+        "provinceName": "British Columbia",
+        "cityName": "Vernon",
+        "programName": "Certificate in Adult Upgrading",
+        "programURL": "http://www.okanagan.bc.ca/Programs/Areas_of_Study/foundational/aacp.html",
+        "schoolName": "Okanagan College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "25268",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Certificate in Building Employment Success for Tomorrow",
+        "programURL": "http://camosun.ca/learn/programs/building-employment-success/",
+        "schoolName": "Camosun College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "25271",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Certificate in Indigenous College Prep of Human Services Career Access",
+        "programURL": "http://camosun.ca/learn/programs/indigenous-access/",
+        "schoolName": "Camosun College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49323",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Certificate in Learning Styles",
+        "programURL": "https://www.sjasd.ca/Programs/Coned/Pages/default.aspx",
+        "schoolName": "St. James-Assiniboia School Division",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "25282",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Certificate in MS-Office",
+        "programURL": "http://camosun.ca/learn/programs/ms-office/",
+        "schoolName": "Camosun College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Athabasca",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Atikameg",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Barrhead",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Cadotte Lake",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Calling Lake",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Chateh",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Driftpile",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Fairview",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Faust",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Flatbush",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Fort Vermilion",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Gift Lake",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Grouard",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "High Level",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "High Prairie",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "La Crete",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Manning",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "McLennan",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Paddle Prairie",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Peace River",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Peerless Lake",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Red Earth Creek",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Slave Lake",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Smith",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Swan Hills",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Valleyview",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39128",
+        "provinceName": "Alberta",
+        "cityName": "Wabasca",
+        "programName": "College and Career Preparation",
+        "programURL": "https://www.northernlakescollege.ca/cect/contract-training-programs",
+        "schoolName": "Northern Lakes College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "12970",
+        "provinceName": "British Columbia",
+        "cityName": "North Vancouver",
+        "programName": "College and University Preparation Citation",
+        "programURL": "https://www.capilanou.ca/programs--courses/program-profiles/college-and-university-preparation-citation/",
+        "schoolName": "Capilano University",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15787",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Continuing Education - Fit in Fast",
+        "programURL": "https://bowvalleycollege.ca/programs-courses/continuing-education/courses/centre-for-excellence-in-immigrant-and-intercultural-advancement/ella9883",
+        "schoolName": "Bow Valley College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "34576",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Continuing Education - Language for Work",
+        "programURL": "https://bowvalleycollege.ca/programs-courses/continuing-education/courses/centre-for-excellence-in-immigrant-and-intercultural-advancement/ella9885",
+        "schoolName": "Bow Valley College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "25962",
+        "provinceName": "Saskatchewan",
+        "cityName": "Humboldt",
+        "programName": "Developing literacy for working, living and learning, Levels 1 and 2 (Literacy Benchmarks)",
+        "programURL": "https://www.carltontrailcollege.com/explore/adult-basic-education",
+        "schoolName": "Carlton Trail Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "25962",
+        "provinceName": "Saskatchewan",
+        "cityName": "Wakaw",
+        "programName": "Developing literacy for working, living and learning, Levels 1 and 2 (Literacy Benchmarks)",
+        "programURL": "https://www.carltontrailcollege.com/explore/adult-basic-education",
+        "schoolName": "Carlton Trail Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "25962",
+        "provinceName": "Saskatchewan",
+        "cityName": "Watrous",
+        "programName": "Developing literacy for working, living and learning, Levels 1 and 2 (Literacy Benchmarks)",
+        "programURL": "https://www.carltontrailcollege.com/explore/adult-basic-education",
+        "schoolName": "Carlton Trail Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "34943",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Education and Skills Training Certificate",
+        "programURL": "https://www.tru.ca/programs/catalogue/education-and-skills-training-certificate.html",
+        "schoolName": "Thompson Rivers University",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "40923",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Employment Skills Access",
+        "programURL": "http://www.nvit.ca/employment-skills-access-certificate/program.aspx",
+        "schoolName": "Nicola Valley Institute of Technology",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "40923",
+        "provinceName": "British Columbia",
+        "cityName": "Merritt",
+        "programName": "Employment Skills Access",
+        "programURL": "http://www.nvit.ca/employment-skills-access-certificate/program.aspx",
+        "schoolName": "Nicola Valley Institute of Technology",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "37152",
+        "provinceName": "Saskatchewan",
+        "cityName": "Maple Creek",
+        "programName": "Essential Skills for Employment",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/grade-12-upgrading-pre-12/essential-skills-employment",
+        "schoolName": "Great Plains College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "37152",
+        "provinceName": "Saskatchewan",
+        "cityName": "Swift Current",
+        "programName": "Essential Skills for Employment",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/grade-12-upgrading-pre-12/essential-skills-employment",
+        "schoolName": "Great Plains College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "37148",
+        "provinceName": "Saskatchewan",
+        "cityName": "Swift Current",
+        "programName": "Essential Skills for Newcomers",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/grade-12-upgrading-pre-12/essential-skills-newcomers",
+        "schoolName": "Great Plains College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "38424",
+        "provinceName": "Saskatchewan",
+        "cityName": "Humboldt",
+        "programName": "Essential Skills for the Workplace (ESWP) - Basic Education",
+        "programURL": "http://www.carltontrailcollege.com/view-program-session?programSessionId=260",
+        "schoolName": "Carlton Trail Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "38424",
+        "provinceName": "Saskatchewan",
+        "cityName": "Punnichy",
+        "programName": "Essential Skills for the Workplace (ESWP) - Basic Education",
+        "programURL": "http://www.carltontrailcollege.com/view-program-session?programSessionId=260",
+        "schoolName": "Carlton Trail Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15647",
+        "provinceName": "Saskatchewan",
+        "cityName": "Meadow Lake",
+        "programName": "GED",
+        "programURL": "https://northwestcollege.ca/program.html?ProgramID=107&NavID=12&loc=728",
+        "schoolName": "North West College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15647",
+        "provinceName": "Saskatchewan",
+        "cityName": "North Battleford",
+        "programName": "GED",
+        "programURL": "https://northwestcollege.ca/program.html?ProgramID=107&NavID=12&loc=728",
+        "schoolName": "North West College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43031",
+        "provinceName": "Alberta",
+        "cityName": "St. Paul",
+        "programName": "GED - Literacy Program (Cold Lake)",
+        "programURL": "http://beta.bluequills.ca/blue-quills-in-cold-lake/",
+        "schoolName": "University nuhelot'ine thaiyots'ii nistameyimakanak Blue Quills",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "14156",
+        "provinceName": "Saskatchewan",
+        "cityName": "Biggar",
+        "programName": "Grade 12 & Upgrading",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/grade-12-upgrading-pre-12-gedr/grade-12-upgrading",
+        "schoolName": "Great Plains College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "14156",
+        "provinceName": "Saskatchewan",
+        "cityName": "Kindersley",
+        "programName": "Grade 12 & Upgrading",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/grade-12-upgrading-pre-12-gedr/grade-12-upgrading",
+        "schoolName": "Great Plains College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "14156",
+        "provinceName": "Saskatchewan",
+        "cityName": "Macklin",
+        "programName": "Grade 12 & Upgrading",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/grade-12-upgrading-pre-12-gedr/grade-12-upgrading",
+        "schoolName": "Great Plains College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "14156",
+        "provinceName": "Saskatchewan",
+        "cityName": "Maple Creek",
+        "programName": "Grade 12 & Upgrading",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/grade-12-upgrading-pre-12-gedr/grade-12-upgrading",
+        "schoolName": "Great Plains College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "14156",
+        "provinceName": "Saskatchewan",
+        "cityName": "Swift Current",
+        "programName": "Grade 12 & Upgrading",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/grade-12-upgrading-pre-12-gedr/grade-12-upgrading",
+        "schoolName": "Great Plains College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "14156",
+        "provinceName": "Saskatchewan",
+        "cityName": "Warman",
+        "programName": "Grade 12 & Upgrading",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/grade-12-upgrading-pre-12-gedr/grade-12-upgrading",
+        "schoolName": "Great Plains College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15626",
+        "provinceName": "Saskatchewan",
+        "cityName": "Nipawin",
+        "programName": "IATEC (Indigenous Access & Transition Education Certificate)",
+        "programURL": "https://www.cumberlandcollege.sk.ca/index.php?id=272",
+        "schoolName": "Cumberland Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "30181",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Indigenous Access Programs",
+        "programURL": "http://camosun.ca/learn/programs/indigenous-access/",
+        "schoolName": "Camosun College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49144",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Intensive Academic Preparation 1",
+        "programURL": "https://www.plvan.com/current-courses/other-programs/intensive-academic-preparation-1/",
+        "schoolName": "Pacific Link College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49145",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Intensive Academic Preparation 2",
+        "programURL": "https://www.plvan.com/current-courses/other-programs/intensive-academic-preparation-2/",
+        "schoolName": "Pacific Link College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15624",
+        "provinceName": "Saskatchewan",
+        "cityName": "Melfort",
+        "programName": "Level 1 Literacy",
+        "programURL": "https://www.cumberlandcollege.sk.ca/index.php?id=128",
+        "schoolName": "Cumberland Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15624",
+        "provinceName": "Saskatchewan",
+        "cityName": "Nipawin",
+        "programName": "Level 1 Literacy",
+        "programURL": "https://www.cumberlandcollege.sk.ca/index.php?id=128",
+        "schoolName": "Cumberland Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "15624",
+        "provinceName": "Saskatchewan",
+        "cityName": "Tisdale",
+        "programName": "Level 1 Literacy",
+        "programURL": "https://www.cumberlandcollege.sk.ca/index.php?id=128",
+        "schoolName": "Cumberland Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39451",
+        "provinceName": "Saskatchewan",
+        "cityName": "Nipawin",
+        "programName": "Literacy - Level 2/Pre-Grade 10",
+        "programURL": "https://www.cumberlandcollege.sk.ca/index.php?id=146",
+        "schoolName": "Cumberland Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39452",
+        "provinceName": "Saskatchewan",
+        "cityName": "Nipawin",
+        "programName": "Literacy - Level 3/Grade 10",
+        "programURL": "https://www.cumberlandcollege.sk.ca/index.php?id=129",
+        "schoolName": "Cumberland Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39455",
+        "provinceName": "Saskatchewan",
+        "cityName": "Melfort",
+        "programName": "Literacy - Level 4/Grade 12",
+        "programURL": "https://www.cumberlandcollege.sk.ca/index.php?id=130",
+        "schoolName": "Cumberland Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39455",
+        "provinceName": "Saskatchewan",
+        "cityName": "Nipawin",
+        "programName": "Literacy - Level 4/Grade 12",
+        "programURL": "https://www.cumberlandcollege.sk.ca/index.php?id=130",
+        "schoolName": "Cumberland Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "39455",
+        "provinceName": "Saskatchewan",
+        "cityName": "Tisdale",
+        "programName": "Literacy - Level 4/Grade 12",
+        "programURL": "https://www.cumberlandcollege.sk.ca/index.php?id=130",
+        "schoolName": "Cumberland Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "38425",
+        "provinceName": "Saskatchewan",
+        "cityName": "Punnichy",
+        "programName": "Literacy for Lifeskills - Basic Education - Literacy Programs",
+        "programURL": "https://www.carltontrailcollege.com/view-program-session?programSessionId=469",
+        "schoolName": "Carlton Trail Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "38425",
+        "provinceName": "Saskatchewan",
+        "cityName": "Watrous",
+        "programName": "Literacy for Lifeskills - Basic Education - Literacy Programs",
+        "programURL": "https://www.carltontrailcollege.com/view-program-session?programSessionId=469",
+        "schoolName": "Carlton Trail Regional College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "28084",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "NorQuest Bridging to Post-Secondary",
+        "programURL": "https://www.norquest.ca/cal/current/program/norquest-bridging-to-post-secondary/",
+        "schoolName": "NorQuest College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49270",
+        "provinceName": "Nova Scotia",
+        "cityName": "Coldbrook",
+        "programName": "Nova Scotia Works Centre Program",
+        "programURL": "http://peopleworx.ca/nova-scotia-works-centre/",
+        "schoolName": "PeopleWorx",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33351",
+        "provinceName": "Saskatchewan",
+        "cityName": "Meadow Lake",
+        "programName": "One-on-One Computer Training",
+        "programURL": "https://northwestcollege.ca/program.html?ProgramID=116&NavID=13",
+        "schoolName": "North West College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "33351",
+        "provinceName": "Saskatchewan",
+        "cityName": "North Battleford",
+        "programName": "One-on-One Computer Training",
+        "programURL": "https://northwestcollege.ca/program.html?ProgramID=116&NavID=13",
+        "schoolName": "North West College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "18758",
+        "provinceName": "Quebec",
+        "cityName": "Sainte-Anne-de-Bellevue",
+        "programName": "Pathways to a Career",
+        "programURL": "https://www.johnabbott.qc.ca/pathways/",
+        "schoolName": "C\u00e9gep John Abbott College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "34294",
+        "provinceName": "British Columbia",
+        "cityName": "Courtenay",
+        "programName": "Practical Academics for the Workplace",
+        "programURL": "https://www.nic.bc.ca/programs-courses/accessible-learning/accessible-learning-options/practical-academics-for-the-workplace/",
+        "schoolName": "North Island College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "30121",
+        "provinceName": "British Columbia",
+        "cityName": "Dawson Creek",
+        "programName": "Pre-Employment Workplace Essential Skills",
+        "programURL": "http://www.nlc.bc.ca/Programs/All-Programs-Alphabetical/Pre-Employment-Workplace-Essential-Skills",
+        "schoolName": "Northern Lights College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50660",
+        "provinceName": "Saskatchewan",
+        "cityName": "North Battleford",
+        "programName": "Pre-Trades Program (ESWP)",
+        "programURL": "https://northwestcollege.ca/program.html?ProgramID=444&NavID=12&loc=1260",
+        "schoolName": "North West College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "25862",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Supported Adult Learning Classroom",
+        "programURL": "https://bowvalleycollege.ca/programs-courses/academic-upgrading/supported-adult-learning-classroom",
+        "schoolName": "Bow Valley College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "29995",
+        "provinceName": "Yukon",
+        "cityName": "Whitehorse",
+        "programName": "Targeted Initiative for Older Workers - Certificate",
+        "programURL": "https://www.yukonu.ca/programs/targeted-initiative-for-older-workers",
+        "schoolName": "Yukon University",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "37225",
+        "provinceName": "British Columbia",
+        "cityName": "Nelson",
+        "programName": "Trades Discovery Program for Adults",
+        "programURL": "https://selkirk.ca/program/trades-discovery-program",
+        "schoolName": "Selkirk College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "14814",
+        "provinceName": "Alberta",
+        "cityName": "Olds",
+        "programName": "Transitional Employment Program",
+        "programURL": "https://www.oldscollege.ca/programs/transitional-employment-program/index.html",
+        "schoolName": "Olds College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "30409",
+        "provinceName": "British Columbia",
+        "cityName": "North Vancouver",
+        "programName": "University One for Aboriginal Learners Certificate",
+        "programURL": "https://www.capilanou.ca/programs--courses/program-profiles/university-one-for-aboriginal-learners-certificate/",
+        "schoolName": "Capilano University",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "25733",
+        "provinceName": "Northwest Territories",
+        "cityName": "Fort Smith",
+        "programName": "University and College Access Program (UCAP)",
+        "programURL": "http://www.auroracollege.nt.ca/_live/pages/wpPages/ProgramInfoDisplay.aspx?id=126&tp=PRG",
+        "schoolName": "Aurora College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "25733",
+        "provinceName": "Northwest Territories",
+        "cityName": "Inuvik",
+        "programName": "University and College Access Program (UCAP)",
+        "programURL": "http://www.auroracollege.nt.ca/_live/pages/wpPages/ProgramInfoDisplay.aspx?id=126&tp=PRG",
+        "schoolName": "Aurora College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "25733",
+        "provinceName": "Northwest Territories",
+        "cityName": "Yellowknife",
+        "programName": "University and College Access Program (UCAP)",
+        "programURL": "http://www.auroracollege.nt.ca/_live/pages/wpPages/ProgramInfoDisplay.aspx?id=126&tp=PRG",
+        "schoolName": "Aurora College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50550",
+        "provinceName": "British Columbia",
+        "cityName": "Maple Ridge",
+        "programName": "WorkSafe Certificate Programs",
+        "programURL": "http://rmcollege.ca/worksafe-certificate-programs/",
+        "schoolName": "Ridge Meadows College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "34258",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "Workplace Professionalism: Skills for Employment Retention",
+        "programURL": "https://www.nic.bc.ca/programs-courses/accessible-learning/accessible-learning-options/workplace-professionalism-skills-for-employment-retention/",
+        "schoolName": "North Island College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "34258",
+        "provinceName": "British Columbia",
+        "cityName": "Courtenay",
+        "programName": "Workplace Professionalism: Skills for Employment Retention",
+        "programURL": "https://www.nic.bc.ca/programs-courses/accessible-learning/accessible-learning-options/workplace-professionalism-skills-for-employment-retention/",
+        "schoolName": "North Island College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "34258",
+        "provinceName": "British Columbia",
+        "cityName": "Port Alberni",
+        "programName": "Workplace Professionalism: Skills for Employment Retention",
+        "programURL": "https://www.nic.bc.ca/programs-courses/accessible-learning/accessible-learning-options/workplace-professionalism-skills-for-employment-retention/",
+        "schoolName": "North Island College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "35050",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Workplace TASK Program",
+        "programURL": "https://www.ufv.ca/programs/workplace-task/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "25835",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Youth in Transition (LINC)",
+        "programURL": "https://bowvalleycollege.ca/programs-courses/english-language-learning/youth-in-transition",
+        "schoolName": "Bow Valley College",
+        "programCategory": "32-Basic Skills",
+        "EducationLevel": "Training"
+    }
+]

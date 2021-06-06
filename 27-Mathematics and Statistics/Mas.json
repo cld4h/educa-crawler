@@ -1,0 +1,762 @@
+[
+    {
+        "programId": "8722",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Engineering Mathematics (MSc)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/engineering-mathematics.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2471",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Arts in Mathematics and Statistics",
+        "programURL": "https://www.mun.ca/become/graduate/programs/mathstats.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "7620",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Master of Arts in Mathematics and Statistics",
+        "programURL": "https://www.uvic.ca/science/math-statistics/future-students/graduate/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8131",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Arts in Mathematics and Statistics",
+        "programURL": "http://futurestudents.yorku.ca/graduate/programs/mathematics-and-statistics",
+        "schoolName": "York University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21797",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Mathematical Finance",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Mathematical-Finance.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10516",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Mathematics",
+        "programURL": "https://grad.usask.ca/programs/mathematics.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "30718",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Master of Mathematics and Statistics (MSc)",
+        "programURL": "http://www1.uwindsor.ca/math/",
+        "schoolName": "University of Windsor",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "4386",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Applied Mathematics",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-applied-mathematics/master-mathematics-mmath-applied-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51017",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Applied Mathematics - Co-operative Program",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-applied-mathematics/master-mathematics-mmath-applied-mathematics-co-operative-program",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51268",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Applied Mathematics - Control and Dynamical Systems",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-applied-mathematics/master-mathematics-mmath-applied-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51267",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Applied Mathematics - Fluid Mechanics",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-applied-mathematics/master-mathematics-mmath-applied-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "46031",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Applied Mathematics - Quantum Information",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-applied-mathematics/master-mathematics-mmath-applied-mathematics-quantum-information",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51270",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Applied Mathematics - Scientific Computing",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-applied-mathematics/master-mathematics-mmath-applied-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "46032",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Applied Mathematics - Water",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-applied-mathematics/master-mathematics-mmath-applied-mathematics-water",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48062",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Biostatistics - Probability Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-biostatistics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "24306",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Combinatorics and Optimization",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/master-mathematics-mmath-combinatorics-and-optimization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48065",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Combinatorics and Optimization - Algebraic Combinatorics Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/master-mathematics-mmath-combinatorics-and-optimization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48064",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Combinatorics and Optimization - Co-operative Program (Direct Entry)",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/master-mathematics-mmath-combinatorics-and-optimization-co-operative-program-dir",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48066",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Combinatorics and Optimization - Continuous Optimization Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/master-mathematics-mmath-combinatorics-and-optimization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48067",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Combinatorics and Optimization - Cryptography Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/master-mathematics-mmath-combinatorics-and-optimization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48068",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Combinatorics and Optimization - Discrete Optimization Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/master-mathematics-mmath-combinatorics-and-optimization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48069",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Combinatorics and Optimization - Graph Theory",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/master-mathematics-mmath-combinatorics-and-optimization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48070",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Combinatorics and Optimization - Quantum Computing Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/master-mathematics-mmath-combinatorics-and-optimization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40906",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Combinatorics and Optimization - Quantum Information",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-combinatorics-and-optimization/master-mathematics-mmath-combinatorics-and-optimization-quantum-information",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40909",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Computational Mathematics",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/computational-mathematics/master-mathematics-mmath-computational-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51140",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Computational Mathematics - Co-operative Program",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/computational-mathematics/master-mathematics-mmath-computational-mathematics-co-operative-program",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "4409",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Pure Mathematics",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-pure-mathematics/master-mathematics-mmath-pure-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48147",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Pure Mathematics - Algebra and Logic",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-pure-mathematics/master-mathematics-mmath-pure-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48148",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Pure Mathematics - Analysis",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-pure-mathematics/master-mathematics-mmath-pure-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48149",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Pure Mathematics - Geometry and Topology",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-pure-mathematics/master-mathematics-mmath-pure-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48150",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Pure Mathematics - Number Theory",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-pure-mathematics/master-mathematics-mmath-pure-mathematics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "4405",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Statistics",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-statistics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "51021",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Statistics - Co-operative Program",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-statistics-co-operative-program",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48163",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Statistics - Computational Statistics",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-statistics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48164",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Statistics - Finance",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-statistics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48165",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Statistics - Industrial Statistics",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-statistics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48166",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Statistics - Probability",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-statistics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48167",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Mathematics in Statistics - Statistical Theory and Methods",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-statistics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48152",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Quantitative Finance - Statistics and Probability",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-quantitative-finance-mqf",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "7195",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Science in Applied Mathematics",
+        "programURL": "https://www.ryerson.ca/graduate/calendar/programs-and-courses/mathematics/",
+        "schoolName": "Ryerson University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "22200",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Science in Applied Mathematics",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=11",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "34703",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Master of Science in Applied Mathematics & Statistics",
+        "programURL": "https://math.acadiau.ca/program-information.html",
+        "schoolName": "Acadia University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21022",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Master of Science in Applied Mathematics - Mathematics and Statistics",
+        "programURL": "https://www.unb.ca/gradstudies/programs/math.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2748",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Master of Science in Applied Mathematics and Theoretical Physics",
+        "programURL": "https://www.unb.ca/gradstudies/programs/math.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "9010",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Master of Science in Mathematical Sciences (MSc)",
+        "programURL": "https://www.lakeheadu.ca/academics/graduate/programs/masters/mathematical-sciences/node/7259",
+        "schoolName": "Lakehead University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21814",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Science in Mathematics",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Mathematics.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5108",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Science in Mathematics",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-mathematics",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6153",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Science in Mathematics",
+        "programURL": "https://graduate.carleton.ca/cu-programs/mathematics-and-statistics-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "23279",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Master of Science in Mathematics",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/mathematics.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "39788",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Master of Science in Mathematics",
+        "programURL": "http://academiccalendar.nipissingu.ca/~/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=5&topicgroupid=1976",
+        "schoolName": "Nipissing University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "23459",
+        "provinceName": "Alberta",
+        "cityName": "Lethbridge",
+        "programName": "Master of Science in Mathematics",
+        "programURL": "https://www.uleth.ca/future-student/graduate-studies/master-science/mathematics",
+        "schoolName": "University of Lethbridge",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10553",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Science in Mathematics",
+        "programURL": "https://grad.usask.ca/programs/mathematics.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "11109",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Science in Mathematics",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=84",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6437",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Science in Mathematics & Statistics - Mathematics",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/math-msc.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52519",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Science in Mathematics & Statistics - Statistics",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/math-msc.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "22446",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Science in Mathematics (Financial Mathematics)",
+        "programURL": "https://www.ryerson.ca/graduate/programs/mathematics/",
+        "schoolName": "Ryerson University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "36529",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Science in Mathematics (Probability and Statistics)",
+        "programURL": "https://graduate.carleton.ca/cu-programs/mathematics-and-statistics-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2718",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Master of Science in Mathematics and Statistics",
+        "programURL": "https://www.unb.ca/gradstudies/programs/math.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "22885",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Master of Science in Mathematics and Statistics",
+        "programURL": "http://www.uvic.ca/science/math-statistics/future-students/graduate/programs/masters/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2363",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Science in Mathematics and Statistics",
+        "programURL": "http://www.mun.ca/become/graduate/programs/mathstats.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35396",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Master of Science in Mathematics, Specialization in Mathematical Biology and Differential Equations - Okanagan",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-mathematics",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "46023",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Master of Science in Mathematics, Specialization in Number, Theory and Algebra - Okanagan",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-mathematics",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35389",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Master of Science in Mathematics, Specialization in Optimization and Analysis - Okanagan",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-mathematics",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "286",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Science in Statistics",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Statistics.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5234",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Science in Statistics",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-statistics",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6770",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Master of Science in Statistics",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/statistics.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "11091",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Science in Statistics",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=140",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "27024",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Mathematical and Statistical Sciences (MSc)",
+        "programURL": "https://www.ualberta.ca/mathematical-and-statistical-sciences/graduate-studies",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "24070",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mathematics (M.Sc.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/mathematics",
+        "schoolName": "McMaster University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8702",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Mathematics (MSc)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/mathematics.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "4125",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Mathematics (Master of Science)",
+        "programURL": "http://www.sfu.ca/dean-gradstudies/future/academicprograms/faculty_of_science/mathematics.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "23284",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Pre-Master's in Mathematics",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/mathematics.html#PreM",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "49989",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Pre-Master's in Statistics",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/statistics.html#PreM",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "24071",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Statistics (M.Sc.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/statistics",
+        "schoolName": "McMaster University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8656",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Statistics (MSc)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/statistics.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21296",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Statistics and Actuarial Science (Master of Science)",
+        "programURL": "http://www.sfu.ca/dean-gradstudies/future/academicprograms/faculty_of_science/statistics.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University - Master"
+    }
+]

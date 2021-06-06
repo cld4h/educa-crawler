@@ -1,0 +1,192 @@
+[
+    {
+        "programId": "39365",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": ".NET Development",
+        "programURL": "https://coned.sait.ca/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1028471&_ga=2.185057135.797033709.1601579104-1803789385.1601579104",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "19773",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Adult Basic Literacy Education (ABLE) - Computers for Beginners",
+        "programURL": "https://bowvalleycollege.ca/programs-courses/academic-upgrading/adult-basic-literacy-education---computers-for-beginners",
+        "schoolName": "Bow Valley College",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44917",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Application and Web Development",
+        "programURL": "http://pacificdesignacademy.com/web-app-development.php",
+        "schoolName": "Western Academy of Photography",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44798",
+        "provinceName": "Quebec",
+        "cityName": "Montreal",
+        "programName": "Automated Systems in Electromechanics",
+        "programURL": "http://www.rosemount-technology.qc.ca/?page_id=2267",
+        "schoolName": "Rosemount Technology Centre",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "43119",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "BIM Technican Certificate",
+        "programURL": "https://www.digitalschool.ca/programs/bim-technician/",
+        "schoolName": "Digital School",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "49319",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Certificate in Web Design",
+        "programURL": "https://www.sjasd.ca/Programs/Coned/Pages/default.aspx",
+        "schoolName": "St. James-Assiniboia School Division",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "28907",
+        "provinceName": "British Columbia",
+        "cityName": "Chilliwack",
+        "programName": "Coding Bridging program",
+        "programURL": "https://www.ufv.ca/continuing-education/programs/coding-bridging-program/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44795",
+        "provinceName": "Quebec",
+        "cityName": "Montreal",
+        "programName": "Computer Graphics",
+        "programURL": "http://www.rosemount-technology.qc.ca/computer-graphics/",
+        "schoolName": "Rosemount Technology Centre",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "25593",
+        "provinceName": "Quebec",
+        "cityName": "Montr\u00e9al",
+        "programName": "Computing Support - Montreal",
+        "programURL": "http://www.herzing.ca/montreal/programs/computing-support",
+        "schoolName": "Herzing College Canada",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "34558",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Continuing Education Certificate in Computer Applications",
+        "programURL": "https://bowvalleycollege.ca/programs-courses/continuing-education/computer-applications-certificate",
+        "schoolName": "Bow Valley College",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44796",
+        "provinceName": "Quebec",
+        "cityName": "Montreal",
+        "programName": "Digital Layout and Printing",
+        "programURL": "http://www.rosemount-technology.qc.ca/?page_id=2259",
+        "schoolName": "Rosemount Technology Centre",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44909",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Graphic Media Design",
+        "programURL": "http://pacificdesignacademy.com/graphicdesign.php",
+        "schoolName": "Western Academy of Photography",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "38171",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "IT Professional",
+        "programURL": "https://cd-ed.com/programs/it-professional/",
+        "schoolName": "Centre for Distance Education",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "13909",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Information Technology Technician Apprenticeship (1.5 years \u2013 Certificate)",
+        "programURL": "https://www.canadorecollege.ca/programs/information-technology-technician-apprenticeship",
+        "schoolName": "Canadore College",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "37707",
+        "provinceName": "Ontario",
+        "cityName": "Belleville",
+        "programName": "Interconnecting Cisco Network Devices 1",
+        "programURL": "http://www.maxwellcollege.om/index.php?option=com_content&view=article&id=78:interconnecting-cisco-network-devices-1&catid=43:continuing-education&Itemid=107",
+        "schoolName": "Maxwell College of Advanced Technology",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "31089",
+        "provinceName": "Saskatchewan",
+        "cityName": "Swift Current",
+        "programName": "MS Excel 2016 Level I",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/personal-professional-development/personal-professional-development-courses/ms",
+        "schoolName": "Great Plains College",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44351",
+        "provinceName": "Ontario",
+        "cityName": "Cambridge",
+        "programName": "Network Cabling Pre-Apprenticeship Training",
+        "programURL": "https://patinstitute.ca/toronto/training/network-cabling/",
+        "schoolName": "Pre-Apprenticeship Training Institute",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "44351",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Network Cabling Pre-Apprenticeship Training",
+        "programURL": "https://patinstitute.ca/toronto/training/network-cabling/",
+        "schoolName": "Pre-Apprenticeship Training Institute",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "45099",
+        "provinceName": "Ontario",
+        "cityName": "Brampton",
+        "programName": "Practical Computer Literacy for Professional Development",
+        "programURL": "http://canilearn.com/index.php/technical-training/practical-computer-literacy-for-professional-development/",
+        "schoolName": "Canadian Institute of Learning",
+        "programCategory": "11-Computer and Information Sciences and Support Services",
+        "EducationLevel": "Training"
+    }
+]

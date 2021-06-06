@@ -1,0 +1,2612 @@
+[
+    {
+        "programId": "473",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Applied Mathematics",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/applied-mathematics",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41356",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Applied Mathematics",
+        "programURL": "https://admissions.usask.ca/applied-mathematics.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21262",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Applied Mathematics Major (Bachelor of Science)",
+        "programURL": "http://www.sfu.ca/math.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "684",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Applied Statistics",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/applied-statistics",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "684",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Applied Statistics",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/applied-statistics",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4563",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Mathematics in Joint Applied Mathematics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-AM-Degree-Requirements-Joint-Applied-Math",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43564",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Bachelor of Arts - Major in Mathematics",
+        "programURL": "https://www.cbu.ca/academic-programs/program/mathematics/",
+        "schoolName": "Cape Breton University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43565",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Bachelor of Arts - Minor in Mathematics",
+        "programURL": "https://www.cbu.ca/academic-programs/program/mathematics/",
+        "schoolName": "Cape Breton University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43558",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Bachelor of Arts Community Studies  - Minor in Mathematics",
+        "programURL": "https://www.cbu.ca/academics/programs/mathematics/",
+        "schoolName": "Cape Breton University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43563",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Bachelor of Arts Community Studies - Major in Mathematics",
+        "programURL": "https://www.cbu.ca/academics/programs/mathematics/",
+        "schoolName": "Cape Breton University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47747",
+        "provinceName": "British Columbia",
+        "cityName": "Richmond",
+        "programName": "Bachelor of Arts Minor in Mathematics",
+        "programURL": "https://www.kpu.ca/calendar/2018-19/science-hort/mathematics/mathematics-minor.html",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47747",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Bachelor of Arts Minor in Mathematics",
+        "programURL": "https://www.kpu.ca/calendar/2018-19/science-hort/mathematics/mathematics-minor.html",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8291",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Arts in Actuarial Science",
+        "programURL": "http://futurestudents.yorku.ca/program/actuarial-science",
+        "schoolName": "York University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2649",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Bachelor of Arts in Applied Statistics (Concentration or Minor)",
+        "programURL": "http://www.msvu.ca/en/home/programsdepartments/bachelorofscience/appliedstatistics/default.aspx",
+        "schoolName": "Mount Saint Vincent University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "10451",
+        "provinceName": "Nova Scotia",
+        "cityName": "Antigonish",
+        "programName": "Bachelor of Arts in Math & Statistics",
+        "programURL": "https://www.stfx.ca/academics/science/math-and-statistics",
+        "schoolName": "St. Francis Xavier University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6553",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Bachelor of Arts in Mathematical Science",
+        "programURL": "https://admission.uoguelph.ca/ba/msci",
+        "schoolName": "University of Guelph",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21597",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Arts in Mathematics",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/ar/ar510/matar1",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2562",
+        "provinceName": "New Brunswick",
+        "cityName": "Sackville",
+        "programName": "Bachelor of Arts in Mathematics",
+        "programURL": "https://www.mta.ca/programs/math/",
+        "schoolName": "Mount Allison University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2634",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Bachelor of Arts in Mathematics",
+        "programURL": "http://www.msvu.ca/en/home/programsdepartments/bachelorofscience/mathematics/default.aspx",
+        "schoolName": "Mount Saint Vincent University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2798",
+        "provinceName": "New Brunswick",
+        "cityName": "Saint John",
+        "programName": "Bachelor of Arts in Mathematics",
+        "programURL": "https://www.unb.ca/academics/programs/arts/mathematics.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4710",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Arts in Mathematics",
+        "programURL": "http://www.uwinnipeg.ca/index/math-stats-index",
+        "schoolName": "University of Winnipeg",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20715",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Arts in Mathematics",
+        "programURL": "https://you.ubc.ca/ubc_programs/mathematics-vancouver-ba/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6072",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Bachelor of Arts in Mathematics",
+        "programURL": "http://www.tru.ca/science/programs/math/programs.html",
+        "schoolName": "Thompson Rivers University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7363",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Bachelor of Arts in Mathematics",
+        "programURL": "https://www.stu.ca/mathematics/",
+        "schoolName": "St. Thomas University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8231",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Arts in Mathematics",
+        "programURL": "http://futurestudents.yorku.ca/program/mathematics",
+        "schoolName": "York University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50575",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Bachelor of Arts in Mathematics  (Honours Specialization)",
+        "programURL": "http://academiccalendar.nipissingu.ca/~/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=5&topicgroupid=2111",
+        "schoolName": "Nipissing University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50574",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Bachelor of Arts in Mathematics  (Major)",
+        "programURL": "http://academiccalendar.nipissingu.ca/~/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=5&topicgroupid=2113",
+        "schoolName": "Nipissing University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50576",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Bachelor of Arts in Mathematics (Specialization)",
+        "programURL": "http://academiccalendar.nipissingu.ca/~/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=5&topicgroupid=2112",
+        "schoolName": "Nipissing University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8495",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Arts in Mathematics - Glendon",
+        "programURL": "http://futurestudents.yorku.ca/program/mathematics/glendon",
+        "schoolName": "York University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "37194",
+        "provinceName": "British Columbia",
+        "cityName": "Nanaimo",
+        "programName": "Bachelor of Arts in Mathematics - Major, Minor",
+        "programURL": "https://calendar.viu.ca/arts-humanities-social-sciences/mathematics",
+        "schoolName": "Vancouver Island University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "5300",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Bachelor of Arts in Mathematics - Okanagan",
+        "programURL": "http://you.ubc.ca/ubc_programs/mathematics-okanagan-ba/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30379",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Arts in Mathematics and Economics",
+        "programURL": "https://you.ubc.ca/ubc_programs/mathematics-economics/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13050",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Bachelor of Arts in Mathematics and Economics",
+        "programURL": "http://www.tru.ca/programs/catalogue/mathematics-and-economics-major.html",
+        "schoolName": "Thompson Rivers University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21787",
+        "provinceName": "Alberta",
+        "cityName": "Camrose",
+        "programName": "Bachelor of Arts in Mathematics and Physics",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/au/au510/mathph1m",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8903",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Bachelor of Arts in Mathematics and Statistics",
+        "programURL": "https://www.ufv.ca/math/programs/major-extended-minor/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "18509",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Arts in Mathematics and Statistics",
+        "programURL": "http://www.uwinnipeg.ca/index/math-stats-index",
+        "schoolName": "University of Winnipeg",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "9063",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Bachelor of Arts in Mathematics,  (3 Years)",
+        "programURL": "https://www.lakeheadu.ca/academics/undergraduate-programs/thunder-bay/math/node/3597",
+        "schoolName": "Lakehead University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2431",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Arts in Pure Mathematics",
+        "programURL": "https://www.mun.ca/undergrad/programs/science/pure-math.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27505",
+        "provinceName": "New Brunswick",
+        "cityName": "Saint John",
+        "programName": "Bachelor of Arts in Statistics",
+        "programURL": "https://www.unb.ca/academics/programs/arts/statistics.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27841",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Bachelor of Arts in Statistics",
+        "programURL": "https://www.uvic.ca/science/math-statistics/future-students/undergraduate/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8454",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Arts in Statistics",
+        "programURL": "http://futurestudents.yorku.ca/program/statistics",
+        "schoolName": "York University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20709",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Arts in Statistics",
+        "programURL": "https://www.mun.ca/undergrad/programs/science/stats.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34758",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Arts in Statistics - Data Science stream",
+        "programURL": "https://www.uwinnipeg.ca/mathstats/our-courses-and-programs/statistics-program.html",
+        "schoolName": "University of Winnipeg",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27019",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Arts with Honors in Mathematics",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/ar/ar530/matar3",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "25338",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Arts with Major in Mathematics (3-year)",
+        "programURL": "https://www.cmu.ca/academics/math/programs",
+        "schoolName": "Canadian Mennonite University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "25339",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Arts with Major in Mathematics (4-year)",
+        "programURL": "https://www.cmu.ca/academics/math/programs",
+        "schoolName": "Canadian Mennonite University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38066",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Arts with a Major in Applied Mathematics Concentration in Arts & Science",
+        "programURL": "https://www.cmu.ca/academics/sciences/programs",
+        "schoolName": "Canadian Mennonite University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38059",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Arts with a Major in Arts and Science with Mathematics Concentration",
+        "programURL": "https://www.cmu.ca/academics/artsscience/programs",
+        "schoolName": "Canadian Mennonite University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41256",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Bachelor of Mathematical and Computational Sciences in Analytics with specialization in Business Analytics",
+        "programURL": "http://upei.ca/programs/analytics",
+        "schoolName": "University of Prince Edward Island",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48860",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Bachelor of Mathematical and Computational Sciences in Analytics with specialization in Data Analytics",
+        "programURL": "http://upei.ca/programs/analytics",
+        "schoolName": "University of Prince Edward Island",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41378",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Bachelor of Mathematical and Computational Sciences with a Major in Actuarial Science",
+        "programURL": "http://upei.ca/programs/actuarial-science",
+        "schoolName": "University of Prince Edward Island",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "19575",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Mathematics",
+        "programURL": "http://admissions.carleton.ca/programs/mathematics/",
+        "schoolName": "Carleton University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48348",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Mathematics (Computer Science)",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Bachelor-of-Mathematics-Computer-Science-1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48239",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Mathematics in Actuarial Science",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Actuarial-Science1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "39002",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Mathematics in Actuarial Science",
+        "programURL": "http://admissions.carleton.ca/programs/actuarial-science/",
+        "schoolName": "Carleton University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52710",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Mathematics in Applied Mathematics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/group/MATH-Applied-Mathematics-1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52711",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Mathematics in Applied Mathematics - Biology Specialization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/Math-Applied-Mathematics-Specializations",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52712",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Mathematics in Applied Mathematics - Economics Specialization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-AM-Economics-Specialization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52713",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Mathematics in Applied Mathematics - Engineering Specialization: Fluids and Heat",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-AM-Engineering-Specialization-Fluid-and-Heat",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52716",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Mathematics in Applied Mathematics - Engineering Specialization: Heat and Mass Transfer",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-AM-Eng-Specialization-Heat-and-Mass-Transfer",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52708",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Mathematics in Applied Mathematics - Physics Specialization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-AM-Physics-Specialization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52728",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Mathematics in Computational Mathematics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Computational-Mathematics-Degree-Requirements",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35267",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Mathematics in Computational and Applied Mathematics and Statistics",
+        "programURL": "http://admissions.carleton.ca/programs/computational-and-applied-mathematics-and-statistics/",
+        "schoolName": "Carleton University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52718",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Mathematics in Data Science",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Data-Science1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48257",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Mathematics in Mathematical Finance",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Actuarial-Science-Mathematical-Finance1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "19567",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Mathematics in Statistics",
+        "programURL": "http://admissions.carleton.ca/programs/statistics/",
+        "schoolName": "Carleton University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "22816",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Bachelor of Science  with Major in Actuarial Science with Pre-professional Specialization",
+        "programURL": "http://upei.ca/programs/actuarial-science",
+        "schoolName": "University of Prince Edward Island",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33929",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Science (Honours) in Applied and Industrial Mathematics",
+        "programURL": "http://uoit.ca/programs/science/applied-and-industrial-mathematics-regular-and-co-op.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27020",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science - Business Minor in Mathematics",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc011/math58",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26950",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science - Business Minor in Statistics",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc011/stat20",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43560",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Bachelor of Science - Major in Mathematics",
+        "programURL": "https://www.cbu.ca/academic-programs/program/mathematics/",
+        "schoolName": "Cape Breton University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "52940",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science - Mathematics Concentration",
+        "programURL": "https://concordia.ab.ca/science/bachelor/mathematics/",
+        "schoolName": "Concordia University of Edmonton",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6345",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science - Mathematics Major",
+        "programURL": "https://concordia.ab.ca/science/bachelor/mathematics/",
+        "schoolName": "Concordia University of Edmonton",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "32864",
+        "provinceName": "Ontario",
+        "cityName": "Ancaster",
+        "programName": "Bachelor of Science - Mathematics Minor",
+        "programURL": "https://www.redeemer.ca/programs/mathematics/",
+        "schoolName": "Redeemer University College",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "43561",
+        "provinceName": "Nova Scotia",
+        "cityName": "Sydney",
+        "programName": "Bachelor of Science - Minor in Mathematics",
+        "programURL": "https://www.cbu.ca/academic-programs/program/mathematics/",
+        "schoolName": "Cape Breton University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27025",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science General in Mathematics",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc010/math56",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1289",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science General in Statistics",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc010/stat25",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47767",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Bachelor of Science Major in Applications of Mathematics (also: Honours)",
+        "programURL": "https://www.kpu.ca/calendar/2018-19/science-hort/mathematics/mathematicsapplications-major.html",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2487",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Science in Applied Mathematics",
+        "programURL": "https://www.mun.ca/undergrad/programs/science/applied-math.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41504",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Applied Mathematics",
+        "programURL": "http://www.sci.umanitoba.ca/undergraduate-students/programs/mathematics/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "47171",
+        "provinceName": "Alberta",
+        "cityName": "Athabasca",
+        "programName": "Bachelor of Science in Applied Mathematics",
+        "programURL": "http://www.athabascau.ca/programs/summary/bachelor-of-science-in-applied-mathematics/",
+        "schoolName": "Athabasca University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6865",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Applied Mathematics with Computer Science Option",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/applied-mathematics.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28371",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Applied Mathematics with Economics Option",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/applied-mathematics.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28373",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Applied Mathematics with Statistics Option",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/applied-mathematics.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "36946",
+        "provinceName": "Alberta",
+        "cityName": "Lethbridge",
+        "programName": "Bachelor of Science in Applied Statistics",
+        "programURL": "https://www.uleth.ca/future-student/program/applied-statistics",
+        "schoolName": "University of Lethbridge",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "29943",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Science in Computational Mathematics",
+        "programURL": "http://futurestudents.yorku.ca/program/mathematics/science",
+        "schoolName": "York University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2482",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Corner Brook",
+        "programName": "Bachelor of Science in Computational Mathematics (Grenfell)",
+        "programURL": "https://www.grenfell.mun.ca/academics-and-research/Pages/school-of-science-and-the-environment/Undergraduate%20Programs/Computational-Mathematics.aspx",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7739",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Bachelor of Science in Computer Science and Statistics",
+        "programURL": "http://www.uvic.ca/science/math-statistics/future-students/undergraduate/programs/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "10412",
+        "provinceName": "Nova Scotia",
+        "cityName": "Antigonish",
+        "programName": "Bachelor of Science in Math & Statistics",
+        "programURL": "https://www.stfx.ca/academics/science/math-and-statistics",
+        "schoolName": "St. Francis Xavier University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50268",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Bachelor of Science in Mathematical (Honours ) with Specialization in Statistics",
+        "programURL": "https://www.trentu.ca/futurestudents/specialization/statistics?target=undergraduate",
+        "schoolName": "Trent University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50267",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Bachelor of Science in Mathematical (Honours) with Specialization in Mathematical Finance",
+        "programURL": "https://www.trentu.ca/futurestudents/specialization/mathematical-finance?target=undergraduate",
+        "schoolName": "Trent University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6493",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Bachelor of Science in Mathematical Science",
+        "programURL": "https://admission.uoguelph.ca/bsc/ms",
+        "schoolName": "University of Guelph",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "5394",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Bachelor of Science in Mathematical Sciences - Okanagan",
+        "programURL": "http://you.ubc.ca/ubc_programs/mathematical-sciences-okanagan/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2667",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Bachelor of Science in Mathematics",
+        "programURL": "http://www.msvu.ca/en/home/programsdepartments/bachelorofscience/mathematics/default.aspx",
+        "schoolName": "Mount Saint Vincent University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46046",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Mathematics",
+        "programURL": "http://you.ubc.ca/ubc_programs/mathematics-vancouver-bsc/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13012",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Bachelor of Science in Mathematics",
+        "programURL": "http://www.tru.ca/science/programs/math/programs.html",
+        "schoolName": "Thompson Rivers University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6856",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Mathematics",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/science-mathematics.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7130",
+        "provinceName": "British Columbia",
+        "cityName": "Prince George",
+        "programName": "Bachelor of Science in Mathematics",
+        "programURL": "https://www.unbc.ca/calendar/undergraduate/mathematics-and-statistics",
+        "schoolName": "University of Northern British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7546",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Bachelor of Science in Mathematics",
+        "programURL": "https://www.twu.ca/academics/faculty-natural-applied-sciences/mathematics",
+        "schoolName": "Trinity Western University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27838",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Bachelor of Science in Mathematics",
+        "programURL": "http://www.uvic.ca/science/math-statistics/future-students/undergraduate/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8227",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Science in Mathematics",
+        "programURL": "http://futurestudents.yorku.ca/program/mathematics/science",
+        "schoolName": "York University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "9184",
+        "provinceName": "Alberta",
+        "cityName": "Lethbridge",
+        "programName": "Bachelor of Science in Mathematics",
+        "programURL": "http://www.uleth.ca/artsci/math-computer-science/programs",
+        "schoolName": "University of Lethbridge",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48701",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Bachelor of Science in Mathematics",
+        "programURL": "https://www.trentu.ca/futurestudents/degree/mathematics?target=undergraduate",
+        "schoolName": "Trent University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50573",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Bachelor of Science in Mathematics  (Specialization)",
+        "programURL": "http://academiccalendar.nipissingu.ca/~/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=5&topicgroupid=2109",
+        "schoolName": "Nipissing University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28815",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Bachelor of Science in Mathematics (Honours Specialization)",
+        "programURL": "http://academiccalendar.nipissingu.ca/~/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=5&topicgroupid=2108",
+        "schoolName": "Nipissing University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23341",
+        "provinceName": "Ontario",
+        "cityName": "North Bay",
+        "programName": "Bachelor of Science in Mathematics (Major)",
+        "programURL": "http://academiccalendar.nipissingu.ca/~/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=5&topicgroupid=2110",
+        "schoolName": "Nipissing University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35610",
+        "provinceName": "New Brunswick",
+        "cityName": "Saint John",
+        "programName": "Bachelor of Science in Mathematics (Saint John)",
+        "programURL": "https://www.unb.ca/academics/programs/science/mathematics.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4709",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Mathematics (available Honours)",
+        "programURL": "https://www.uwinnipeg.ca/mathstats/our-courses-and-programs/mathematics-program.html",
+        "schoolName": "University of Winnipeg",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7160",
+        "provinceName": "Ontario",
+        "cityName": "Ancaster",
+        "programName": "Bachelor of Science in Mathematics - Honours Major",
+        "programURL": "https://www.redeemer.ca/programs/mathematics/",
+        "schoolName": "Redeemer University College",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7165",
+        "provinceName": "Ontario",
+        "cityName": "Ancaster",
+        "programName": "Bachelor of Science in Mathematics - Major",
+        "programURL": "https://www.redeemer.ca/programs/mathematics/",
+        "schoolName": "Redeemer University College",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "5343",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Bachelor of Science in Mathematics - Okanagan",
+        "programURL": "http://you.ubc.ca/ubc_programs/mathematics-okanagan-bsc/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "49893",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Bachelor of Science in Mathematics Education (Integrated BSc and BEd)",
+        "programURL": "https://www2.acadiau.ca/prg_ug_mathed.html",
+        "schoolName": "Acadia University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4979",
+        "provinceName": "Manitoba",
+        "cityName": "Brandon",
+        "programName": "Bachelor of Science in Mathematics and Computer Science",
+        "programURL": "https://www.brandonu.ca/future-students/programs/degrees/science/math-comp-sci/",
+        "schoolName": "Brandon University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30380",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Mathematics and Economics",
+        "programURL": "http://you.ubc.ca/ubc_programs/mathematics-economics/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2787",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Bachelor of Science in Mathematics and Statistics",
+        "programURL": "https://www.unb.ca/academics/programs/science/mathematics-and-statistics.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4743",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Bachelor of Science in Mathematics and Statistics",
+        "programURL": "https://www2.acadiau.ca/prg_ug_math.html",
+        "schoolName": "Acadia University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8888",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Bachelor of Science in Mathematics and Statistics",
+        "programURL": "https://www.ufv.ca/math/programs/major-extended-minor/",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "17730",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Bachelor of Science in Mathematics and Statistics with Biology (Double major)",
+        "programURL": "https://math.acadiau.ca/bsc-math-stats-with-biology.html",
+        "schoolName": "Acadia University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "17724",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Bachelor of Science in Mathematics and Statistics with Business",
+        "programURL": "https://math.acadiau.ca/bsc-math-stats-with-business.html",
+        "schoolName": "Acadia University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "17727",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Bachelor of Science in Mathematics and Statistics with Computer Science",
+        "programURL": "https://math.acadiau.ca/bsc-math-stats-with-computer-science.html",
+        "schoolName": "Acadia University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "17725",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Bachelor of Science in Mathematics and Statistics with Economics (Double major)",
+        "programURL": "https://math.acadiau.ca/bsc-math-stats-with-economics.html",
+        "schoolName": "Acadia University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "17728",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Bachelor of Science in Mathematics and Statistics with Music",
+        "programURL": "https://math.acadiau.ca/bsc-math-stats-with-music.html",
+        "schoolName": "Acadia University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33875",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Science in Mathematics and its Applications",
+        "programURL": "https://www.ryerson.ca/programs/undergraduate/mathematics-applications/",
+        "schoolName": "Ryerson University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28364",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Mathematics with Joint Honours (Economics)",
+        "programURL": "http://www.sci.umanitoba.ca/undergraduate-students/programs/mathematics/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20969",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Mathematics, concentration in Applied Mathematics",
+        "programURL": "http://you.ubc.ca/ubc_programs/mathematics-vancouver-bsc/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46213",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Mathematics, concentration in Pure Mathematics",
+        "programURL": "http://you.ubc.ca/ubc_programs/mathematics-vancouver-bsc/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46214",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Mathematics, concentration in Statistics",
+        "programURL": "http://you.ubc.ca/ubc_programs/mathematics-vancouver-bsc/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27646",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Science in Pure Mathematics",
+        "programURL": "http://www.mun.ca/undergrad/programs/science/pure-math.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27647",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Science in Statistics",
+        "programURL": "https://www.mun.ca/undergrad/programs/science/stats.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "18513",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Statistics",
+        "programURL": "https://www.uwinnipeg.ca/mathstats/our-courses-and-programs/statistics-program.html",
+        "schoolName": "University of Winnipeg",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20978",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Statistics",
+        "programURL": "https://you.ubc.ca/ubc_programs/statistics-vancouver/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6852",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Statistics",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/statistics.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27840",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Bachelor of Science in Statistics",
+        "programURL": "http://www.uvic.ca/science/math-statistics/future-students/undergraduate/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8336",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Science in Statistics",
+        "programURL": "http://futurestudents.yorku.ca/program/statistics",
+        "schoolName": "York University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2643",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Bachelor of Science in Statistics (Minor)",
+        "programURL": "https://www.msvu.ca/en/home/programsdepartments/bachelorofscience/statistics/default.aspx",
+        "schoolName": "Mount Saint Vincent University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35614",
+        "provinceName": "New Brunswick",
+        "cityName": "Saint John",
+        "programName": "Bachelor of Science in Statistics (Saint John)",
+        "programURL": "https://www.unb.ca/academics/programs/science/statistics.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34774",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Statistics - Data Science stream",
+        "programURL": "https://www.uwinnipeg.ca/mathstats/our-courses-and-programs/statistics-program.html",
+        "schoolName": "University of Winnipeg",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41453",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Bachelor of Science in Statistics - Okanagan",
+        "programURL": "https://you.ubc.ca/ubc_programs/statistics-okanagan/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28319",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Statistics with Joint Honours (Actuarial Mathematics)",
+        "programURL": "http://www.sci.umanitoba.ca/undergraduate-students/programs/statistics/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28356",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Statistics with Joint Honours (Economics)",
+        "programURL": "http://www.sci.umanitoba.ca/undergraduate-students/programs/statistics/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41488",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Statistics with Joint Honours (Mathematics)",
+        "programURL": "http://www.sci.umanitoba.ca/undergraduate-students/programs/statistics/",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46223",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Statistics with a minor in Commerce",
+        "programURL": "https://www.stat.ubc.ca/undergraduate",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46222",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science in Statistics with a minor in Economics",
+        "programURL": "https://www.stat.ubc.ca/undergraduate",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41946",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Science with Combined Major in Economics and Statistics",
+        "programURL": "https://www.stat.ubc.ca/undergraduate",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1278",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Honors Applied Mathematics with Computing Science Minor",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc030/apmac1",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38357",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Honors in Applied Mathematics",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc030/apma1",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26909",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Honors in Applied Mathematics with Statistics Minor",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc030/apmas1",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1279",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Honors in Mathematical Physics",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc030/mathp1",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27026",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Honors in Mathematics",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc030/math2",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26911",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Honors in Mathematics and Economics",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc030/matec2",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27028",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Honors in Mathematics and Finance",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc030/matfn2",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27022",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Honors in Mathematics with Computing Science Minor",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc030/mathc1",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1270",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Honors in Statistics",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc030/stat2",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28975",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Bachelor of Science with Honours in Mathematics.",
+        "programURL": "http://upei.ca/programs/mathematics",
+        "schoolName": "University of Prince Edward Island",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "3532",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Bachelor of Science with Honours, Major or Minor in Statistics",
+        "programURL": "http://upei.ca/programs/statistics",
+        "schoolName": "University of Prince Edward Island",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "25349",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science with Major in Mathematics (3-year)",
+        "programURL": "https://www.cmu.ca/academics/math/programs",
+        "schoolName": "Canadian Mennonite University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "25348",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science with Major in Mathematics (4-year)",
+        "programURL": "https://www.cmu.ca/academics/math/programs",
+        "schoolName": "Canadian Mennonite University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "3568",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Bachelor of Science with Major or Minor in Mathematics",
+        "programURL": "http://upei.ca/programs/mathematics",
+        "schoolName": "University of Prince Edward Island",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21722",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Specialization in Mathematics",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc020/math1",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26912",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Specialization in Mathematics and Economics",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc020/matec1",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26913",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Specialization in Mathematics and Finance",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc020/matfn1",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26828",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science with Specialization in Statistics",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/sc/sc020/stat1",
+        "schoolName": "University of Alberta",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41248",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Bachelor of Science with a Major in Financial Mathematics",
+        "programURL": "http://upei.ca/programs/financial-mathematics",
+        "schoolName": "University of Prince Edward Island",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "31004",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Certificate in Actuarial and Financial Mathematics",
+        "programURL": "https://www.dal.ca/faculty/science/programs/diploma-certificate-programs/actuarial-and-financial-mathematics1.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30987",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Certificate in Applied and Computational Mathematics",
+        "programURL": "https://www.dal.ca/faculty/science/programs/diploma-certificate-programs/applied-and-computational-mathematics.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21985",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Certificate in Aquaculture and the Environment",
+        "programURL": "https://www.dal.ca/faculty/science/programs/diploma-certificate-programs/aquaculture.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46212",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Combined Major in Science",
+        "programURL": "http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,1474#18859",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21138",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Data Science Major (Bachelor of Science)",
+        "programURL": "http://www.sfu.ca/students/calendar/2018/summer/programs/data-science/major/bachelor-of-science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35548",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Diploma in Applied Statistics",
+        "programURL": "https://mathstat.uoguelph.ca/diploma",
+        "schoolName": "University of Guelph",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46334",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Double Major in Science",
+        "programURL": "http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,1468",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11251",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Honors Specialization in Actuarial Science",
+        "programURL": "https://www.uwo.ca/stats/undergraduate/program-modules.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11261",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Honors Specialization in Applied Mathematics",
+        "programURL": "https://www.uwo.ca/apmaths/undergraduate/program_information/program_modules.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27945",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Honors Specialization in Mathematical Sciences",
+        "programURL": "http://www.apmaths.uwo.ca/undergraduate/program_information/program_modules.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27995",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Honors Specialization in Statistics",
+        "programURL": "https://www.uwo.ca/stats/undergraduate/program-modules.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51246",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Applied Mathematics in Applied Mathematics with Scientific Computing",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-AM-Degree-Requirements-Applied-Math-Sci-Comp",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48371",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Applied Mathematics in Control and Dynamical Systems",
+        "programURL": "https://uwaterloo.ca/applied-mathematics/research-areas/control-and-dynamical-systems",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48398",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Applied Mathematics in Fluid Mechanics",
+        "programURL": "https://uwaterloo.ca/applied-mathematics/research-areas/fluid-mechanics",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28188",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Applied Mathematics in Math and Climate Change",
+        "programURL": "https://uwaterloo.ca/applied-mathematics/research-areas/math-and-climate-change-uwaterloo",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28164",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Applied Mathematics in Mathematics of Data Science and Machine Learning",
+        "programURL": "https://uwaterloo.ca/applied-mathematics/research-links/research-groups/mathematics-of-data-science",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48351",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Applied Mathematics in Scientific Computing",
+        "programURL": "https://uwaterloo.ca/applied-mathematics/research-areas/scientific-computing",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7012",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Honours Bachelor of Commerce in Actuarial Mathematics",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/actuarial-mathematics-asper.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28227",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematical Studies - Business Specialization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-MS-Business-Specialization",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51252",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematical Studies - Mathematical Studies",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-MS-Degree-Requirements-Mathematical-Studies",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4559",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics in Applied Mathematics (9 plans)",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-List-of-Academic-Programs-or-Plans",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51242",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics in Applied Mathematics - Joint Applied Mathematics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-AM-Degree-Requirements-Joint-Applied-Math",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4572",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics in Combinatorics and Optimization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Combinatorics-and-Optimization2",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51243",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics in Combinatorics and Optimization - Joint Combinatorics and Optimization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Joint-Combinatorics-and-Optimization1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51245",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics in Combinatorics and Optimization, Mathematical Optimization (Business and Operations Research Specializations)",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-List-of-Academic-Programs-or-Plans",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28238",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics in Computational Mathematics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Computational-Mathematics1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28239",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics in Mathematical Studies",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-MS-Degree-Requirements-Mathematical-Studies",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28150",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics in Pure Mathematics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Pure-Mathematics1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4575",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics in Pure Mathematics - Joint Pure Mathematics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Joint-Pure-Mathematics1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4578",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics in Statistics (3 Plans)",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Statistics1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51251",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics in Statistics - Data Science",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Data-Science1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51248",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics in Statistics - Joint Statistics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Joint-Statistics1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28171",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics/Business in Business Administration and Mathematics Double Degree",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Business-Admin-and-Mathematics-Double-Degree",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28146",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Honours Bachelor of Mathematics/Business in Mathematical Economics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Mathematical-Economics-Degree-Requirements",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23212",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Honours Bachelor of Science in Actuarial Mathematics",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/3150.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28376",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Honours Bachelor of Science in Mathematics",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/science-mathematics.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28383",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Honours Bachelor of Science in Statistics",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/statistics.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11254",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Honours Specialization in Integrated Science with Mathematics",
+        "programURL": "http://welcome.uwo.ca/programs/programs_by_faculty/science.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27970",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Honours Specialization in Mathematics",
+        "programURL": "http://www.math.uwo.ca/",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11260",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Honours Specialization in Mathematics in Society",
+        "programURL": "http://www.math.uwo.ca/",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51234",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Joint Honours Bachelor of Computer Science and Bachelor of Mathematics in Combinatorics and Optimization",
+        "programURL": "",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51247",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Joint Honours Bachelor of Mathematics in Applied Mathematics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-AM-Degree-Requirements-Joint-Applied-Math",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51237",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Joint Honours Bachelor of Mathematics in Pure Mathematics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Joint-Pure-Mathematics1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51240",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Joint Honours Bachelor of Statistics in Joint Statistics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Joint-Statistics1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11213",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Major in Actuarial Science",
+        "programURL": "https://www.uwo.ca/stats/undergraduate/program-modules.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41674",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Major in Applied Mathematics",
+        "programURL": "https://www.uwo.ca/apmaths/undergraduate/program_information/program_modules.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11199",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Major in Applied Statistics",
+        "programURL": "https://www.uwo.ca/stats/undergraduate/program-modules.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27947",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Major in Mathematical",
+        "programURL": "http://www.math.uwo.ca/",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27946",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Major in Mathematical Methods",
+        "programURL": "http://www.apmaths.uwo.ca/undergraduate/program_information/program_modules.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27949",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Major in Scientific Computing and Numerical Methods",
+        "programURL": "https://www.uwo.ca/apmaths/undergraduate/program_information/program_modules.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "180",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Mathematical Applications in Economics and Finance",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/mathematical-applications-in-economics-and-finance",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35675",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Mathematical Physics Honours (Bachelor of Science)",
+        "programURL": "http://www.sfu.ca/math.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40563",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mathematical Science (B.Sc.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18583&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21603",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Mathematical Sciences",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/mathematical-sciences",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20970",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Mathematical Sciences",
+        "programURL": "http://you.ubc.ca/ubc_programs/mathematical-sciences-vancouver/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "445",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Mathematics",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/mathematics",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4865",
+        "provinceName": "Quebec",
+        "cityName": "Sherbrooke",
+        "programName": "Mathematics",
+        "programURL": "http://www.ubishops.ca/academic-programs/faculty-of-arts-and-science/natural-sciences-and-mathematics/mathematics/",
+        "schoolName": "Bishop's University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "10687",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Mathematics",
+        "programURL": "https://grad.usask.ca/programs/mathematics.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35352",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Mathematics",
+        "programURL": "https://alexandercollege.ca/programs-and-courses/subject-areas/mathematics/",
+        "schoolName": "Alexander College",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35352",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Mathematics",
+        "programURL": "https://alexandercollege.ca/programs-and-courses/subject-areas/mathematics/",
+        "schoolName": "Alexander College",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8834",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Mathematics (BSc)",
+        "programURL": "https://www.dal.ca/academics/programs/undergraduate/mathematics.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11446",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Mathematics (General and Honours)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/386/mathematics-general-and-honours",
+        "schoolName": "University of Windsor",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46468",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Mathematics (Major Co-op), Honours Bachelor of Science / Master of Teaching",
+        "programURL": "http://www.sgs.utoronto.ca/calendar/Pages/Programs/Mat-Maj-Co-op-HBSc-MT.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46461",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Mathematics (Major), Honours Bachelor of Science / Master of Teaching",
+        "programURL": "https://sgs.calendar.utoronto.ca/combined/UTSC-Mat-(Maj)-HBSc~MT",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46474",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Mathematics (Specialist Co-op), Honours Bachelor of Science / Master of Teaching",
+        "programURL": "https://sgs.calendar.utoronto.ca/combined/UTSC-Mat-(Spec-Co~op)-HBSc~MT",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46473",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Mathematics (Specialist), Honours Bachelor of Science / Master of Teaching",
+        "programURL": "https://sgs.calendar.utoronto.ca/combined/UTSC-Mat-(Spec)-HBSc~MT",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6683",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Mathematics - Minor",
+        "programURL": "https://www.kingsu.ca/programs/bachelor/mathematics",
+        "schoolName": "The King's University College",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4159",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Mathematics Major (Bachelor of Science)",
+        "programURL": "http://www.sfu.ca/students/calendar/2018/summer/programs/mathematics/major/bachelor-of-science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30733",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Mathematics and Education (5-year Concurrent General Bachelor of Mathematics and Bachelor of Education)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/388/mathematics-and-education-5-year-concurrent-general-bachelor-mathematics-and-bachelor-education",
+        "schoolName": "University of Windsor",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "721",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Mathematics and Philosophy",
+        "programURL": "http://www.future.utoronto.ca/content/mathematics-and-philosophy",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "462",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Mathematics and Physics",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/mathematics-and-physics",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35361",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mathematics and Physics (H.B.Sc.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18579&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35359",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mathematics and Statistics (H.B.Sc.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18573&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40516",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mathematics and Statistics - Mathematics Sub-Plan (H.B.Sc.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18575&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40527",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mathematics and Statistics - Mathematics Sub-Plan Co-op (H.B.Sc.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18581&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40533",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mathematics and Statistics - Statistics Sub-Plan (H.B.Sc.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18577&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40536",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mathematics and Statistics - Statistics Sub-Plan Co-op (H.B.Sc.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18584&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40539",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mathematics and Statistics Co-op (H.B.Sc.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18582&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21358",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mathematics and Statistics Gateway",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18531&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "444",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Mathematics and its Applications",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/mathematics-and-its-applications",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48154",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Minor in Applied Mathematics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Applied-Mathematics-Minor1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51235",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Minor in Combinatorics and Optimization",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Combinatorics-and-Optimization-Minor2",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28270",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Minor in Computational Mathematics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Computational-Mathematics-Minor",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48396",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Minor in Mathematics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Mathematics-Minor-1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48567",
+        "provinceName": "British Columbia",
+        "cityName": "Prince George",
+        "programName": "Minor in Mathematics",
+        "programURL": "https://www.unbc.ca/calendar/undergraduate/mathematics-and-statistics#math_physics",
+        "schoolName": "University of Northern British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51606",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Minor in Mathematics",
+        "programURL": "https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=81&chapterid=4592&topicgroupid=19538&loaduseredits=False",
+        "schoolName": "Dalhousie University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51238",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Minor in Pure Mathematics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Pure-Mathematics-Minor1",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48382",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Minor in Statistics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/MATH-Statistics-Minor",
+        "schoolName": "University of Waterloo",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48612",
+        "provinceName": "British Columbia",
+        "cityName": "Prince George",
+        "programName": "Minor in Statistics",
+        "programURL": "https://www.unbc.ca/calendar/undergraduate/mathematics-and-statistics#math_physics",
+        "schoolName": "University of Northern British Columbia",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51556",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Minor in Statistics",
+        "programURL": "https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=81&chapterid=4592&topicgroupid=19548&loaduseredits=False",
+        "schoolName": "Dalhousie University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46479",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Physical and Mathematical Sciences (Specialist), Honours Bachelor of Science / Master of Teaching",
+        "programURL": "https://sgs.calendar.utoronto.ca/combined/UTSC-Phy-Mat-Sci-(Spec)-HBSc~MT",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41673",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Specialization in Applied Mathematics",
+        "programURL": "http://www.apmaths.uwo.ca/undergraduate/program_information/program_modules.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27971",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Specialization in Mathematics",
+        "programURL": "http://www.math.uwo.ca/",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27944",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Specialization in Mathematics in Society",
+        "programURL": "https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21061&SelectedCalendar=Pre&ArchiveID=",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "353",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Statistics",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/statistics",
+        "schoolName": "University of Toronto",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "10685",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Statistics",
+        "programURL": "https://artsandscience.usask.ca/math/department/about-us.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8806",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Statistics (BSc)",
+        "programURL": "https://www.dal.ca/academics/programs/undergraduate/stats.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4179",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Statistics Major (Bachelor of Science)",
+        "programURL": "http://www.sfu.ca/students/calendar/2018/summer/programs/statistics/major/bachelor-of-science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "27-Mathematics and Statistics",
+        "EducationLevel": "University"
+    }
+]
