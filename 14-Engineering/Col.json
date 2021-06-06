@@ -1,0 +1,1502 @@
+[
+    {
+        "programId": "15384",
+        "provinceName": "Ontario",
+        "cityName": "Haileybury",
+        "programName": "Electrical Engineering Technician \u2013 Level 3 for Instrumentation Graduates",
+        "programURL": "http://www.northernc.on.ca/electrical-technician-level3/",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "45356",
+        "provinceName": "Alberta",
+        "cityName": "Lloydminster",
+        "programName": "2nd Class Power Engineering",
+        "programURL": "http://lakelandcollege.ca/academics/energy-petroleum-technology/programs/2nd-class-power-engineering/overview/default.aspx",
+        "schoolName": "Lakeland College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44309",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "4th Operating Power Engineering (Paper 4A)",
+        "programURL": "https://www.scbt.ca/programs/4th-operating-power-engineering-paper-4a/",
+        "schoolName": "Stanford International College of Business & Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44310",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "4th Operating Power Engineering (Paper 4B)",
+        "programURL": "https://www.scbt.ca/programs/4th-operating-power-engineering-paper-4b/",
+        "schoolName": "Stanford International College of Business & Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49637",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Gander",
+        "programName": "Advanced Diploma in (EASA) - Aircraft Maintenance Engineering Technician",
+        "programURL": "http://www.cna.nl.ca/program/aircraft-maintenance-engineering-technician-advanced-diploma",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34666",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Advanced Diploma in Engineering",
+        "programURL": "http://camosun.ca/learn/programs/engineering-bridge/",
+        "schoolName": "Camosun College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38730",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Advanced Diploma in Manufacturing Engineering Technology - Co-op",
+        "programURL": "https://www.fanshawec.ca/programs/mey1-manufacturing-engineering-technology-co-op/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38545",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Aircraft Maintenance Engineer Category 'S' (Structures)",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/calendar/calendar.aspx?page=AMES",
+        "schoolName": "Okanagan College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "40451",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Aircraft Maintenance Engineering",
+        "programURL": "http://siit.ca/programs/aircraft-maintenance-engineering/",
+        "schoolName": "Saskatchewan Indian Institute of Technologies",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15855",
+        "provinceName": "British Columbia",
+        "cityName": "Cranbrook",
+        "programName": "Arts and Sciences - University Studies  - Certificate in Engineering",
+        "programURL": "https://cotr.bc.ca/programs/environmental-studies/",
+        "schoolName": "College of the Rockies",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "43379",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Audio Engineering & Production",
+        "programURL": "https://digitalartschool.com/programs/audio-engineering-production",
+        "schoolName": "Centre for Arts And Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32808",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Audio Engineering and Music Production Certificate",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/Calendar/AudioEngineeringandMusicProduction",
+        "schoolName": "Okanagan College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "24645",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Bachelor of Applied Technology Petroleum Engineering",
+        "programURL": "https://www.sait.ca/programs-and-courses/degrees/bachelor-of-applied-technology-petroleum-engineering",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "50462",
+        "provinceName": "Ontario",
+        "cityName": "Barrie",
+        "programName": "Bachelor of Engineering - Electrical Engineering and Engineering Technology Advanced Diplom",
+        "programURL": "https://www.lakeheadgeorgian.ca/programs/engineering-electrical/",
+        "schoolName": "Lakehead University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "50462",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Bachelor of Engineering - Electrical Engineering and Engineering Technology Advanced Diplom",
+        "programURL": "https://www.lakeheadgeorgian.ca/programs/engineering-electrical/",
+        "schoolName": "Lakehead University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14667",
+        "provinceName": "Alberta",
+        "cityName": "Medicine Hat",
+        "programName": "Bachelor of Engineering - University Transfer Program",
+        "programURL": "https://www.mhc.ab.ca/ProgramsandCourses/Academic-Programs/Programs-of-Study/Engineering",
+        "schoolName": "Medicine Hat College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "20070",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Bachelor of Science - Engineering",
+        "programURL": "https://www.gprc.ab.ca/programs/ut-engineering.html",
+        "schoolName": "Grande Prairie Regional College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14853",
+        "provinceName": "Alberta",
+        "cityName": "Red Deer",
+        "programName": "Bachelor of Science in Engineering",
+        "programURL": "https://www.rdc.ab.ca/programs",
+        "schoolName": "Red Deer College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39721",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Biomedical Engineering Technology (Co-op)",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/biomedical-engineering-technology/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39722",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Biomedical Engineering Technology (Fast Track)",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/biomedical-engineering-technology-fast-track/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "40790",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Biomedical Engineering Technology - Equipment and Devices",
+        "programURL": "http://www.stclaircollege.ca/programs/postsec/biomedical/",
+        "schoolName": "St. Clair College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "46919",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Building Engineering Technology: Building Systems",
+        "programURL": "https://nbcc.ca/programs-courses/program-details?baseCurriculumId=d3b88c2d-2b69-4c49-93a7-d89909a19a04",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "46919",
+        "provinceName": "New Brunswick",
+        "cityName": "Moncton",
+        "programName": "Building Engineering Technology: Building Systems",
+        "programURL": "https://nbcc.ca/programs-courses/program-details?baseCurriculumId=d3b88c2d-2b69-4c49-93a7-d89909a19a04",
+        "schoolName": "New Brunswick Community College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44316",
+        "provinceName": "Ontario",
+        "cityName": "Mississauga",
+        "programName": "Building Services Engineering",
+        "programURL": "https://www.scbt.ca/programs/building-services-engineering-full-time",
+        "schoolName": "Stanford International College of Business & Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44316",
+        "provinceName": "Ontario",
+        "cityName": "Scarborough",
+        "programName": "Building Services Engineering",
+        "programURL": "https://www.scbt.ca/programs/building-services-engineering-full-time",
+        "schoolName": "Stanford International College of Business & Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19472",
+        "provinceName": "Southport",
+        "cityName": "Science and Technology",
+        "programName": "Certificate in Aerospace Manufacturing",
+        "programURL": "https://me.rrc.mb.ca/catalogue/ProgramInfo.aspx?ProgCode=AERMF-CT&RegionCode=WPG",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19472",
+        "provinceName": "Winnipeg",
+        "cityName": "Science and Technology",
+        "programName": "Certificate in Aerospace Manufacturing",
+        "programURL": "https://me.rrc.mb.ca/catalogue/ProgramInfo.aspx?ProgCode=AERMF-CT&RegionCode=WPG",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "32349",
+        "provinceName": "British Columbia",
+        "cityName": "Castlegar",
+        "programName": "Certificate in Engineering",
+        "programURL": "http://selkirk.ca/program/engineering",
+        "schoolName": "Selkirk College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "25287",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Certificate in Engineering Transfer",
+        "programURL": "http://camosun.ca/learn/programs/engineering-transfer/index.html",
+        "schoolName": "Camosun College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "20433",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Certificate in Operations Management - Industrial Engineering Option",
+        "programURL": "https://www.bcit.ca/study/programs/690amcert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "20433",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Certificate in Operations Management - Industrial Engineering Option",
+        "programURL": "https://www.bcit.ca/study/programs/690amcert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "20442",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Certificate in Operations Management - Management Engineering Option",
+        "programURL": "https://www.bcit.ca/study/programs/690bmcert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "20442",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Certificate in Operations Management - Management Engineering Option",
+        "programURL": "https://www.bcit.ca/study/programs/690bmcert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37235",
+        "provinceName": "British Columbia",
+        "cityName": "Nelson",
+        "programName": "Certificate in Plant Operator",
+        "programURL": "http://selkirk.ca/program/plant-operator",
+        "schoolName": "Selkirk College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "27070",
+        "provinceName": "Winnipeg",
+        "cityName": "Science and Technology",
+        "programName": "Certificate in Power Engineering - 5th Class",
+        "programURL": "https://catalogue.rrc.ca/Programs/WPG/Fulltime/POW5F-CT/Overview",
+        "schoolName": "Red River College of Applied Arts",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "20572",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Certificate in Power Engineering - General Program",
+        "programURL": "https://www.bcit.ca/study/programs/2410ttcert",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37342",
+        "provinceName": "British Columbia",
+        "cityName": "Prince George",
+        "programName": "Certificate in Power Engineering 3rd Class",
+        "programURL": "https://cnc.bc.ca/programs-courses/programs/detail/power-engineering-3rd-class",
+        "schoolName": "College of New Caledonia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17613",
+        "provinceName": "Ontario",
+        "cityName": "St. Thomas",
+        "programName": "Certificate in Power Engineering Techniques - 4th Class",
+        "programURL": "https://www.fanshawec.ca/programs/peq1s-power-engineering-techniques-4th-class/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14958",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Chemical Engineering Technology",
+        "programURL": "http://www.senecacollege.ca/programs/fulltime/CHY.html",
+        "schoolName": "Seneca College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "24656",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Chemical Engineering Technology",
+        "programURL": "https://www.sait.ca/programs-and-courses/diplomas/chemical-engineering-technology",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14198",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Chemical Engineering Technology",
+        "programURL": "https://durhamcollege.ca/programs/chemical-engineering-technology",
+        "schoolName": "Durham College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "16877",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Chemical Engineering Technology",
+        "programURL": "http://www.mohawkcollege.ca/engineering-technology-programs/chemical-engineering-technology-advanced-diploma.html",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13759",
+        "provinceName": "Ontario",
+        "cityName": "Sudbury",
+        "programName": "Chemical Engineering Technology - Lab and Process Control (CHLP)",
+        "programURL": "http://catalog.cambriancollege.ca/chlp/",
+        "schoolName": "Cambrian College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38787",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Civil Engineering Technology",
+        "programURL": "https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164/?year=2019",
+        "schoolName": "George Brown College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37832",
+        "provinceName": "Ontario",
+        "cityName": "South Porcupine",
+        "programName": "Civil Engineering Technology",
+        "programURL": "http://www.northernc.on.ca/civil-engineering",
+        "schoolName": "Northern College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "24652",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "Civil Engineering Technology \u2013 General",
+        "programURL": "https://www.sait.ca/programs-and-courses/diplomas/civil-engineering-technology",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18593",
+        "provinceName": "Ontario",
+        "cityName": "Stoney Creek",
+        "programName": "Construction Engineering Technician",
+        "programURL": "http://www.mohawkcollege.ca/skilled-trades-programs/construction-engineering-technician-diploma.html",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17996",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Construction Engineering Technician",
+        "programURL": "https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161/?year=2019",
+        "schoolName": "George Brown College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15182",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Construction Engineering Technician",
+        "programURL": "http://www.stclaircollege.ca/programs/postsec/construction/",
+        "schoolName": "St. Clair College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18604",
+        "provinceName": "Ontario",
+        "cityName": "Stoney Creek",
+        "programName": "Construction Engineering Technician - Building Renovation",
+        "programURL": "https://www.mohawkcollege.ca/programs/skilled-trades/construction-engineering-technician-building-renovation-462",
+        "schoolName": "Mohawk College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17351",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Stephenville",
+        "programName": "Diploma in Aircraft Maintenance EngineeringTechnician",
+        "programURL": "http://www.cna.nl.ca/programs-courses/show-program-details.asp?program=62",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "12756",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Diploma in Biomedical Engineering Technology",
+        "programURL": "https://www.bcit.ca/study/programs/5063dipma",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "51834",
+        "provinceName": "Ontario",
+        "cityName": "Mssissauga",
+        "programName": "Diploma in Chemical Process Engineering",
+        "programURL": "https://www.citicollege.ca/program/chemical-process-engineering-program/",
+        "schoolName": "Citi College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "51834",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Diploma in Chemical Process Engineering",
+        "programURL": "https://www.citicollege.ca/program/chemical-process-engineering-program/",
+        "schoolName": "Citi College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "35887",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Diploma in Civil Engineering",
+        "programURL": "https://www.bcit.ca/study/programs/5410diplt",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44293",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Diploma in Civil Engineering Design and Technology",
+        "programURL": "http://www.nacollege.com/index.php/diploma-in-civil-engineering-design-and-technology/",
+        "schoolName": "North American College of Information Technology Inc.",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30089",
+        "provinceName": "British Columbia",
+        "cityName": "Prince George",
+        "programName": "Diploma in Civil Engineering Technology",
+        "programURL": "http://www.cnc.bc.ca/CNC_Programs/Womens_Studies.htm",
+        "schoolName": "College of New Caledonia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37958",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Diploma in Computer Network Engineering Design and Technology",
+        "programURL": "http://www.nacollege.com/courses/course_CNEDT.asp",
+        "schoolName": "North American College of Information Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44302",
+        "provinceName": "Ontario",
+        "cityName": "Scarborough",
+        "programName": "Diploma in Computer Network Engineering Design and Technology",
+        "programURL": "http://www.nacollege.com/index.php/diploma-in-computer-network-engineering-design-and-technology/",
+        "schoolName": "North American College of Information Technology Inc.",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44302",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Diploma in Computer Network Engineering Design and Technology",
+        "programURL": "http://www.nacollege.com/index.php/diploma-in-computer-network-engineering-design-and-technology/",
+        "schoolName": "North American College of Information Technology Inc.",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "12855",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Diploma in Electrical Engineering Technology\u2014Marine & Industrial",
+        "programURL": "http://camosun.ca/learn/programs/electrical-engineering-technology/",
+        "schoolName": "Camosun College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44301",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Diploma in Electrical and Electronic Engineering Design Technology",
+        "programURL": "http://www.nacollege.com/index.php/diploma-in-electrical-and-electronic-engineering-design-technology/",
+        "schoolName": "North American College of Information Technology Inc.",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38728",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Diploma in Manufacturing Engineering Technician - Co-op",
+        "programURL": "https://www.fanshawec.ca/programs/men1-manufacturing-engineering-technician-co-op/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "12774",
+        "provinceName": "British Columbia",
+        "cityName": "North Vancouver",
+        "programName": "Diploma in Marine Engineering",
+        "programURL": "https://www.bcit.ca/study/programs/2935dipma",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "44283",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Diploma in Mechanical Engineering Design and Technology",
+        "programURL": "http://www.nacollege.com/index.php/diploma-in-mechanical-engineering-design-and-technology/",
+        "schoolName": "North American College of Information Technology Inc.",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17829",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Stephenville",
+        "programName": "Diploma in Mechanical Engineering Technology",
+        "programURL": "https://www.cna.nl.ca/program/mechanical-engineering-technology",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "51835",
+        "provinceName": "Ontario",
+        "cityName": "Mssissauga",
+        "programName": "Diploma in Paint & Coating Technology",
+        "programURL": "https://www.citicollege.ca/program/paint-coating-technology-program/",
+        "schoolName": "Citi College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "51835",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Diploma in Paint & Coating Technology",
+        "programURL": "https://www.citicollege.ca/program/paint-coating-technology-program/",
+        "schoolName": "Citi College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17868",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Diploma in Petroleum Engineering Technology (Co-op)",
+        "programURL": "https://www.cna.nl.ca/program/petroleum-engineering-technology-co-op",
+        "schoolName": "College of the North Atlantic",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "12816",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Diploma in Power and Process Engineering",
+        "programURL": "https://www.bcit.ca/study/programs/2430dipma",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34686",
+        "provinceName": "Ontario",
+        "cityName": "Sudbury",
+        "programName": "Electrical Engineering Technology (EETY)",
+        "programURL": "http://cambriancollege.ca/programs/electrical-engineering-technology/",
+        "schoolName": "Cambrian College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "24991",
+        "provinceName": "Ontario",
+        "cityName": "Cambridge",
+        "programName": "Electrical Engineering Technology (Optional Co-op)",
+        "programURL": "https://www.conestogac.on.ca/fulltime/electrical-engineering-technology",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "25176",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Electrical Techniques",
+        "programURL": "https://appliedtechnology.humber.ca/index.php?q=programs/electrical-techniques.html",
+        "schoolName": "Humber College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39807",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Electrician: Construction and Maintenance - Electrical Engineering Technician",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/electrician-construction-maintenance-electrical-engineering-technician/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14007",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Electronics Engineering Technician",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/electronics-engineering-technician/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "40022",
+        "provinceName": "Ontario",
+        "cityName": "Kitchener",
+        "programName": "Electronics Engineering Technician",
+        "programURL": "https://www.conestogac.on.ca/fulltime/electronics-engineering-technician",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39820",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Electronics Engineering Technician (Fast Track)",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/electronics-engineering-technician-fast-track/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39823",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Electronics Engineering Technology (Fast Track)",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/electronics-engineering-technology-fast-track/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "24992",
+        "provinceName": "Ontario",
+        "cityName": "Cambridge",
+        "programName": "Electronics Engineering Technology (Optional Co-op)",
+        "programURL": "https://www.conestogac.on.ca/fulltime/electronics-engineering-technology",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18019",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Electronics Technician (Distance Learning)",
+        "programURL": "https://www.georgebrown.ca/apprenticeship/programs/#75161934258",
+        "schoolName": "George Brown College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39348",
+        "provinceName": "Ontario",
+        "cityName": "Kitchener",
+        "programName": "Embedded Systems Development (Optional Co-op)",
+        "programURL": "https://www.conestogac.on.ca/fulltime/embedded-systems-development",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "47001",
+        "provinceName": "British Columbia",
+        "cityName": "New Westminster",
+        "programName": "Engineering Essentials",
+        "programURL": "http://www.douglascollege.ca/programs-courses/catalogue/programs/DPEGESS",
+        "schoolName": "Douglas College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19986",
+        "provinceName": "British Columbia",
+        "cityName": "New Westminster",
+        "programName": "Engineering Foundations",
+        "programURL": "http://www.douglascollege.ca/programs-courses/catalogue/programs/CTEGFND",
+        "schoolName": "Douglas College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34300",
+        "provinceName": "British Columbia",
+        "cityName": "Campbell River",
+        "programName": "Engineering Foundations Certificate",
+        "programURL": "https://www.nic.bc.ca/programs-courses/university-transfer/science-technology-engineering-math-programs-courses/engineering-foundations-certificate/",
+        "schoolName": "North Island College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34300",
+        "provinceName": "British Columbia",
+        "cityName": "Courtenay",
+        "programName": "Engineering Foundations Certificate",
+        "programURL": "https://www.nic.bc.ca/programs-courses/university-transfer/science-technology-engineering-math-programs-courses/engineering-foundations-certificate/",
+        "schoolName": "North Island College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34300",
+        "provinceName": "British Columbia",
+        "cityName": "Port Alberni",
+        "programName": "Engineering Foundations Certificate",
+        "programURL": "https://www.nic.bc.ca/programs-courses/university-transfer/science-technology-engineering-math-programs-courses/engineering-foundations-certificate/",
+        "schoolName": "North Island College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "34300",
+        "provinceName": "British Columbia",
+        "cityName": "Port Hardy",
+        "programName": "Engineering Foundations Certificate",
+        "programURL": "https://www.nic.bc.ca/programs-courses/university-transfer/science-technology-engineering-math-programs-courses/engineering-foundations-certificate/",
+        "schoolName": "North Island College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15799",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Engineering Transfer Certificate",
+        "programURL": "https://langara.ca/programs-and-courses/programs/engineering/index.html",
+        "schoolName": "Langara College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37191",
+        "provinceName": "British Columbia",
+        "cityName": "Nanaimo",
+        "programName": "Engineering Transfer Certificate",
+        "programURL": "https://calendar.viu.ca/science-and-technology/fundamentals-engineering-certificate-program",
+        "schoolName": "Vancouver Island University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "13200",
+        "provinceName": "British Columbia",
+        "cityName": "Abbotsford",
+        "programName": "Engineering Transfer Program (First-Year)",
+        "programURL": "https://www.ufv.ca/calendar/current/ProgramsC-E/ENGR_TRAN.htm",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39494",
+        "provinceName": "Ontario",
+        "cityName": "Cambridge",
+        "programName": "Environmental - Civil Engineering Technology (Optional Co-op)",
+        "programURL": "http://www.conestogac.on.ca/fulltime/environmental-civil-engineering-technology",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "24982",
+        "provinceName": "Ontario",
+        "cityName": "Cambridge",
+        "programName": "Environmental Engineering Applications (Optional Co-op)",
+        "programURL": "http://www.conestogac.on.ca/fulltime/environmental-engineering-applications",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39442",
+        "provinceName": "Alberta",
+        "cityName": "Calgary",
+        "programName": "First Class Power Engineering Certificate of Achievement",
+        "programURL": "https://www.sait.ca/programs-and-courses/continuing-education/courses-and-certificates/first-class-power-engineering-certificate-of-achievement",
+        "schoolName": "Southern Alberta Institute of Technology (SAIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39706",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "General Arts and Science \u2013 Science and Engineering Preparation \u2013 Ontario Tech University Transfer",
+        "programURL": "https://durhamcollege.ca/programs/general-arts-and-science-science-and-engineering-preparation-uoit-pathway-stream",
+        "schoolName": "Durham College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19376",
+        "provinceName": "Saskatchewan",
+        "cityName": "Moose Jaw",
+        "programName": "Geomatics and Surveying Engineering Technology",
+        "programURL": "https://saskpolytech.ca/programs-and-courses/programs/Geomatics-and-Surveying-Engineering-Technology.aspx",
+        "schoolName": "Saskatchewan Polytechnic",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17692",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Graduate Certificate in Applied Aerospace Manufacturing",
+        "programURL": "https://www.fanshawec.ca/programs/amf2-applied-aerospace-manufacturing/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17398",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Graduate Certificate in Applied Mechanical Design",
+        "programURL": "https://www.fanshawec.ca/programs/amd2-applied-mechanical-design/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17490",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Graduate Certificate in Electronics and Embedded Systems Development",
+        "programURL": "https://www.fanshawec.ca/programs/esd2-electronics-and-embedded-systems-development/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17467",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Graduate Certificate in Practical Elements of Mechanical Engineering",
+        "programURL": "https://www.fanshawec.ca/programs/pem1-practical-elements-mechanical-engineering/next",
+        "schoolName": "Fanshawe College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37746",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Grand Falls-Windsor",
+        "programName": "Hard Rock Miner",
+        "programURL": "http://keyin.ca/program/hard-rock-miner/",
+        "schoolName": "Keyin College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "17323",
+        "provinceName": "Manitoba",
+        "cityName": "Brandon",
+        "programName": "Industrial Metals Fabrication",
+        "programURL": "https://assiniboine.net/programs/industrial-metals-fabrication",
+        "schoolName": "Assiniboine Community College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "46549",
+        "provinceName": "Ontario",
+        "cityName": "Kitchener",
+        "programName": "Manufacturing Engineering",
+        "programURL": "http://www.conestogac.on.ca/parttime/manufacturing-engineering",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39922",
+        "provinceName": "Ontario",
+        "cityName": "Owen Sound",
+        "programName": "Marine Engineering Management",
+        "programURL": "http://www.georgiancollege.ca/academics/full-time-programs/marine-engineering-management-memg/",
+        "schoolName": "Georgian College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18219",
+        "provinceName": "Ontario",
+        "cityName": "Owen Sound",
+        "programName": "Marine Engineering Technology (Co-op)",
+        "programURL": "https://www.georgiancollege.ca/academics/full-time-programs/marine-engineering-technology-mtcy/",
+        "schoolName": "Georgian College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18221",
+        "provinceName": "Ontario",
+        "cityName": "Barrie",
+        "programName": "Mechanical Engineering Technology (Co-op)",
+        "programURL": "http://www.georgiancollege.ca/academics/full-time-programs/mechanical-engineering-technology-co-op-mety/",
+        "schoolName": "Georgian College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39912",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Mechanical Engineering Technology - Design (Co-op)",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/mechanical-engineering-technology-design/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39910",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Mechanical Engineering Technology - Design (Co-op) (Fast-Track)",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/mechanical-engineering-technology-design-fast-track/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37752",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Grand Falls-Windsor",
+        "programName": "Mining Mill Processing Operator",
+        "programURL": "http://keyin.ca/program/mining-mill-processing-operator/",
+        "schoolName": "Keyin College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "45103",
+        "provinceName": "Ontario",
+        "cityName": "Brampton",
+        "programName": "Network Engineering Diploma",
+        "programURL": "http://canilearn.com/index.php/technical-training/network-engineering-diploma/",
+        "schoolName": "Canadian Institute of Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39956",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Oil and Gas Production Operator",
+        "programURL": "http://www.nait.ca/program_home_17680.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "2992",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Okanagan College Electronic Engineering Technology Bridge to UBC Okanagan Electrical Engineering",
+        "programURL": "https://webapps-5.okanagan.bc.ca/ok/Calendar/ElectronicEngineeringtoUBCOBridge",
+        "schoolName": "Okanagan College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38582",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Okanagan College to UBC-Okanagan Civil Engineering Bridge",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/Calendar/CivilEngineeringBridgeUBCO",
+        "schoolName": "Okanagan College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "2991",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Okanagan College to UBC-Okanagan Mechanical Engineering Bridge",
+        "programURL": "https://webapps-5.okanagan.bc.ca/ok/Calendar/MechanicalEngineeringBridgeUBCO",
+        "schoolName": "Okanagan College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39503",
+        "provinceName": "Ontario",
+        "cityName": "Cambridge",
+        "programName": "Packaging Engineering Technician (Optional Co-op)",
+        "programURL": "https://www.conestogac.on.ca/fulltime/packaging-engineering-technician",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19747",
+        "provinceName": "Alberta",
+        "cityName": "Cold Lake",
+        "programName": "Power Engineering",
+        "programURL": "http://www.portagecollege.ca/Programs/Trades-and-Technology/Power-Engineering",
+        "schoolName": "Portage College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19747",
+        "provinceName": "Alberta",
+        "cityName": "Lac La Biche",
+        "programName": "Power Engineering",
+        "programURL": "http://www.portagecollege.ca/Programs/Trades-and-Technology/Power-Engineering",
+        "schoolName": "Portage College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "25794",
+        "provinceName": "Manitoba",
+        "cityName": "Brandon",
+        "programName": "Power Engineering",
+        "programURL": "https://assiniboine.net/programs/power-engineering",
+        "schoolName": "Assiniboine Community College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19081",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Power Engineering (Part-Time & Distance)",
+        "programURL": "http://www.nait.ca/program_home_98073.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19687",
+        "provinceName": "Saskatchewan",
+        "cityName": "Yorkton",
+        "programName": "Power Engineering (Third Class)",
+        "programURL": "http://www.parklandcollege.sk.ca/programs/industrialagriculture/powerengineering/thirdclass.html",
+        "schoolName": "Parkland College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "19080",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Power Engineering Certificate",
+        "programURL": "http://www.nait.ca/program_home_77244.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "40345",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Power Engineering Certificate, Fourth Class",
+        "programURL": "https://www.gprc.ab.ca/programs/pe-fourth-class.html",
+        "schoolName": "Grande Prairie Regional College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "14308",
+        "provinceName": "Alberta",
+        "cityName": "Grande Prairie",
+        "programName": "Power Engineering Certificate, Third Class",
+        "programURL": "https://www.gprc.ab.ca/programs/pe-third-class.html",
+        "schoolName": "Grande Prairie Regional College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15172",
+        "provinceName": "Saskatchewan",
+        "cityName": "Estevan",
+        "programName": "Power Engineering Fourth Class",
+        "programURL": "https://www.southeastcollege.org/courses/power-engineering-fourth-class/",
+        "schoolName": "Southeast Regional College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "31678",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Power Engineering Technician",
+        "programURL": "http://www.confederationcollege.ca/program/power-engineering-technician",
+        "schoolName": "Confederation College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "15614",
+        "provinceName": "Saskatchewan",
+        "cityName": "Humboldt",
+        "programName": "Power Engineering Technician Certificate - Post-Secondary Education - Trades & Technology",
+        "programURL": "https://www.carltontrailcollege.com/view-program-session?programSessionId=564",
+        "schoolName": "Carlton Trail Regional College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "18935",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Power Engineering Technology",
+        "programURL": "http://www.nait.ca/program_home_77216.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "39505",
+        "provinceName": "Ontario",
+        "cityName": "Kitchener",
+        "programName": "Process Quality Engineering",
+        "programURL": "http://www.conestogac.on.ca/fulltime/process-quality-engineering",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "49559",
+        "provinceName": "Ontario",
+        "cityName": "Sault Ste. Marie",
+        "programName": "Robotics and Automation",
+        "programURL": "https://www.saultcollege.ca/programs/engineering-technology/robotics-and-automation",
+        "schoolName": "Sault College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "43910",
+        "provinceName": "British Columbia",
+        "cityName": "Ladysmith",
+        "programName": "Ship Construction and Stability Level 3",
+        "programURL": "http://www.maritimeed.com/marine-course-registration/",
+        "schoolName": "Western Maritime Institute",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "43900",
+        "provinceName": "British Columbia",
+        "cityName": "Ladysmith",
+        "programName": "Ship Construction and Stability Level 4",
+        "programURL": "http://www.maritimeed.com/marine-course-registration/",
+        "schoolName": "Western Maritime Institute",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "48951",
+        "provinceName": "British Columbia",
+        "cityName": "Ladysmith",
+        "programName": "Small Vessel Machinery Operator Certificate",
+        "programURL": "http://www.maritimeed.com/small-vessel-machinery-operator-certificate/",
+        "schoolName": "Western Maritime Institute",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30299",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Software Engineering Technician",
+        "programURL": "https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technician/",
+        "schoolName": "Centennial College of Applied Arts and Technology",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30634",
+        "provinceName": "Ontario",
+        "cityName": "Kitchener",
+        "programName": "Software Engineering Technician",
+        "programURL": "http://www.conestogac.on.ca/fulltime/software-engineering-technician",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30635",
+        "provinceName": "Ontario",
+        "cityName": "Kitchener",
+        "programName": "Software Engineering Technology (Optional Co-op)",
+        "programURL": "http://www.conestogac.on.ca/fulltime/software-engineering-technology",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38930",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Statement of Completion in Civil Engineering Materials Testing",
+        "programURL": "https://www.bcit.ca/study/programs/5495000000",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "40025",
+        "provinceName": "Ontario",
+        "cityName": "Cambridge",
+        "programName": "Structural Steel Management and Detailing (Optional Co-op)",
+        "programURL": "https://www.conestogac.on.ca/fulltime/structural-steel-management-and-detailing",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "43362",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Structural and Building Technology Diploma",
+        "programURL": "http://brightoncollege.com/programs/structural-and-building-technology-diploma/",
+        "schoolName": "Brighton College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37755",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "Grand Falls-Windsor",
+        "programName": "Surface Miner",
+        "programURL": "http://keyin.ca/program/surface-miner/",
+        "schoolName": "Keyin College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30005",
+        "provinceName": "British Columbia",
+        "cityName": "Chetwynd",
+        "programName": "University Arts and Sciences - Certificate in Engineering",
+        "programURL": "https://www.nlc.bc.ca/Programs/All-Programs-Alphabetical/UAS-Certificate-in-Engineering",
+        "schoolName": "Northern Lights College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30005",
+        "provinceName": "British Columbia",
+        "cityName": "Dawson Creek",
+        "programName": "University Arts and Sciences - Certificate in Engineering",
+        "programURL": "https://www.nlc.bc.ca/Programs/All-Programs-Alphabetical/UAS-Certificate-in-Engineering",
+        "schoolName": "Northern Lights College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30005",
+        "provinceName": "British Columbia",
+        "cityName": "Fort Nelson",
+        "programName": "University Arts and Sciences - Certificate in Engineering",
+        "programURL": "https://www.nlc.bc.ca/Programs/All-Programs-Alphabetical/UAS-Certificate-in-Engineering",
+        "schoolName": "Northern Lights College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30005",
+        "provinceName": "British Columbia",
+        "cityName": "Fort St. John",
+        "programName": "University Arts and Sciences - Certificate in Engineering",
+        "programURL": "https://www.nlc.bc.ca/Programs/All-Programs-Alphabetical/UAS-Certificate-in-Engineering",
+        "schoolName": "Northern Lights College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37345",
+        "provinceName": "British Columbia",
+        "cityName": "Fort St. James",
+        "programName": "Upgrading in Access Pre Civil Engineering Technology",
+        "programURL": "https://cnc.bc.ca/programs-courses/programs/detail/access-pre-civil-engineering-technology",
+        "schoolName": "College of New Caledonia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37345",
+        "provinceName": "British Columbia",
+        "cityName": "Mackenzie",
+        "programName": "Upgrading in Access Pre Civil Engineering Technology",
+        "programURL": "https://cnc.bc.ca/programs-courses/programs/detail/access-pre-civil-engineering-technology",
+        "schoolName": "College of New Caledonia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37345",
+        "provinceName": "British Columbia",
+        "cityName": "Prince George",
+        "programName": "Upgrading in Access Pre Civil Engineering Technology",
+        "programURL": "https://cnc.bc.ca/programs-courses/programs/detail/access-pre-civil-engineering-technology",
+        "schoolName": "College of New Caledonia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37345",
+        "provinceName": "British Columbia",
+        "cityName": "Quesnel",
+        "programName": "Upgrading in Access Pre Civil Engineering Technology",
+        "programURL": "https://cnc.bc.ca/programs-courses/programs/detail/access-pre-civil-engineering-technology",
+        "schoolName": "College of New Caledonia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "37345",
+        "provinceName": "British Columbia",
+        "cityName": "Vanderhoof",
+        "programName": "Upgrading in Access Pre Civil Engineering Technology",
+        "programURL": "https://cnc.bc.ca/programs-courses/programs/detail/access-pre-civil-engineering-technology",
+        "schoolName": "College of New Caledonia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "38649",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Water Engineering Technology Diploma",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/Calendar/WaterQualityAndEnvironmentalEngineeringTechnology",
+        "schoolName": "Okanagan College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "30098",
+        "provinceName": "British Columbia",
+        "cityName": "Dawson Creek",
+        "programName": "Wind Turbine Maintenance Technician",
+        "programURL": "http://www.nlc.bc.ca/Programs/All-Programs-Alphabetical/Wind-Turbine-Maintenance-Technician",
+        "schoolName": "Northern Lights College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    },
+    {
+        "programId": "36986",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Wireless Systems Engineering Technology",
+        "programURL": "http://www.nait.ca/program_home_76926.htm",
+        "schoolName": "Northern Alberta Institute of Technology (NAIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "College"
+    }
+]

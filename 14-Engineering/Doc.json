@@ -1,0 +1,1082 @@
+[
+    {
+        "programId": "21387",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Biological Engineering (PhD)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/biological-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "46732",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Biomedical Engineering (MD-PhD)",
+        "programURL": "https://www.ualberta.ca/graduate-studies/programs/search#D563115BC17441FEAB7B6F2CBA4BCEB8",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "26782",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Biomedical Engineering (PhD)",
+        "programURL": "https://www.ualberta.ca/graduate-studies/programs/search#D563115BC17441FEAB7B6F2CBA4BCEB8",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "40682",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Biomedical Engineering (PhD)",
+        "programURL": "https://graduate.mcmaster.ca/programs/biomedical-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "30990",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Biomedical Engineering (PhD)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/biomedical-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2098",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Chemical Engineering (PhD)",
+        "programURL": "https://graduate.mcmaster.ca/programs/chemical-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "8596",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Chemical Engineering (PhD)",
+        "programURL": "http://www.dal.ca/academics/graduate_programs/chemical-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "38351",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Chemical and Materials Engineering (PhD)",
+        "programURL": "http://www.cme.engineering.ualberta.ca/Graduate.aspx",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2097",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Civil Engineering (PhD)",
+        "programURL": "https://graduate.mcmaster.ca/programs/civil-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "21698",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Civil and Environmental Engineering (PhD)",
+        "programURL": "https://www.ualberta.ca/graduate-studies/programs/search#03C60404E9814AE2B030A00E9BE2F3DB",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "26517",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Civil and Resource Engineering (PhD)",
+        "programURL": "http://www.dal.ca/academics/graduate_programs/civil-and-resource-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2152",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computational Engineering and Science (PhD)",
+        "programURL": "https://graduate.mcmaster.ca/programs/computational-science-and-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "4352",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Chemical Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-chemical-engineering/doctor-philosophy-phd-chemical-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "48034",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Chemical Engineering - Biochemical and Biomedical Engineering Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-chemical-engineering/doctor-philosophy-phd-chemical-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "48036",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Chemical Engineering - Interfacial Phenomena, Colloids and Porous Media Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-chemical-engineering/doctor-philosophy-phd-chemical-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "48037",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Chemical Engineering - Polymer Science and Engineering Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-chemical-engineering/doctor-philosophy-phd-chemical-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "48038",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Chemical Engineering - Process Systems Engineering Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-chemical-engineering/doctor-philosophy-phd-chemical-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "48039",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Chemical Engineering - Separation Processes",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-chemical-engineering/doctor-philosophy-phd-chemical-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "4351",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Civil Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-civil-and-environmental-engineering/doctor-philosophy-phd-civil-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "52738",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Civil Engineering - Transportation Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-civil-and-environmental-engineering/doctor-philosophy-phd-civil-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "40890",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Civil Engineering - Water",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-civil-and-environmental-engineering/doctor-philosophy-phd-civil-engineering-water",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "4355",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Doctor of Philosophy (PhD) in Electrical and Computer Engineering (14 areas of Research)",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-electrical-and-computer-engineering/doctor-philosophy-phd-electrical-and-computer-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "914",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Electrical and Computer Engineering (PhD)",
+        "programURL": "https://www.ualberta.ca/graduate-studies/programs/search#E4DD4AD53F9E4E21A2039ED692F41975",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2117",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Electrical and Computer Engineering (PhD)",
+        "programURL": "https://graduate.mcmaster.ca/programs/electrical-and-computer-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "8634",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Electrical and Computer Engineering (PhD)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/electrical-and-computer-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2108",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Engineering Physics (PhD)",
+        "programURL": "https://graduate.mcmaster.ca/programs/engineering-physics",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "8636",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Industrial Engineering (PhD)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/industrial-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "42519",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Mechanical and Industrial Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Mechanical-and-Industrial-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2093",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Materials Engineering (PhD)",
+        "programURL": "https://graduate.mcmaster.ca/programs/materials-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "31040",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Materials Engineering (PhD)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/materials-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "21313",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Materials Science (PhD)",
+        "programURL": "https://graduate.mcmaster.ca/programs/materials-science",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "972",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Mechanical Engineering (PhD)",
+        "programURL": "https://www.ualberta.ca/graduate-studies/programs/search#1E94B315C5144F8FB668D13B2CA316A5",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2114",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechanical Engineering (PhD)",
+        "programURL": "https://graduate.mcmaster.ca/programs/mechanical-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "8595",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Mechanical Engineering (PhD)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/mechanical-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "49922",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Mechatronic Systems Engineering (Doctor of Philosophy)",
+        "programURL": "http://www.sfu.ca/mechatronics/prospective-students/graduate-students/academic-programs/doctor-of-philosophy.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "8594",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Mineral Resource Engineering (PhD)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/mineral-resource-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "11308",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Ph.D. in Civil Engineering",
+        "programURL": "http://www.uwindsor.ca/engineering/civil/",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "11306",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Ph.D. in Electrical Engineering",
+        "programURL": "http://www.uwindsor.ca/engineering/323/phd-programs-engineering",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "11307",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Ph.D. in Environmental Engineering",
+        "programURL": "http://www.uwindsor.ca/engineering/civil/",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "11431",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Ph.D. in Industrial and Manufacturing Systems Engineering",
+        "programURL": "https://www.uwindsor.ca/graduate-studies/330/industrial-and-manufacturing-systems-engineering",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "11305",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Ph.D. in Mechanical Engineering",
+        "programURL": "http://www.uwindsor.ca/engineering/mame/369/mechanical-engineering",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "6129",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "PhD in Aerospace Engineering",
+        "programURL": "http://graduate.carleton.ca/programs/aerospace-engineering-phd/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "33876",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Aerospace Engineering",
+        "programURL": "https://www.ryerson.ca/aerospace/graduate/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "53",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Aerospace Science and Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Aerospace-Science-and-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "10474",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "PhD in Biological Engineering",
+        "programURL": "https://grad.usask.ca/programs/biological-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "52",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Biomedical Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Biomedical-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "30449",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "PhD in Biomedical Engineering",
+        "programURL": "https://www.bme.ubc.ca/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "41709",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "PhD in Biomedical Engineering",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/biomed_eng.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "10498",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "PhD in Biomedical Engineering",
+        "programURL": "https://grad.usask.ca/programs/biomedical-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "22206",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "PhD in Biomedical Engineering",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=20",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "23273",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "PhD in Biosystems Engineering",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/643.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2702",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "PhD in Chemical Engineering",
+        "programURL": "https://www.unb.ca/gradstudies/programs/chemical.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "10467",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "PhD in Chemical Engineering",
+        "programURL": "https://grad.usask.ca/programs/chemical-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "7194",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Chemical Engineering (25 fields of Research)",
+        "programURL": "https://www.ryerson.ca/graduate/programs/chemical-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "104",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Chemical Engineering and Applied Chemistry",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Chemical-Engineering-and-Applied-Chemistry.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "11042",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "PhD in Chemical and Biochemical Engineering",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=27",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "21013",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "PhD in Chemical and Biological Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-chemical-biological-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "103",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Civil Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Civil-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2340",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "PhD in Civil Engineering",
+        "programURL": "http://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2692",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "PhD in Civil Engineering",
+        "programURL": "https://www.unb.ca/gradstudies/programs/civil.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "5061",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "PhD in Civil Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-civil-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "6126",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "PhD in Civil Engineering",
+        "programURL": "http://graduate.carleton.ca/programs/civil-engineering-phd/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "6708",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "PhD in Civil Engineering",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/649.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "16936",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Civil Engineering",
+        "programURL": "http://www.ryerson.ca/graduate/programs/civil_engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "11046",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "PhD in Civil and Environmental Engineering",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=30",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2325",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "PhD in Computer Engineering",
+        "programURL": "http://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "29395",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "PhD in Electrical Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "10469",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "PhD in Electrical Engineering",
+        "programURL": "https://grad.usask.ca/programs/electrical-computer-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "41983",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Electrical and Computer Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Electrical-and-Computer-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2684",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "PhD in Electrical and Computer Engineering",
+        "programURL": "https://www.unb.ca/fredericton/engineering/depts/ece/grad.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "5051",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "PhD in Electrical and Computer Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-electrical-computer-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "23842",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "PhD in Electrical and Computer Engineering",
+        "programURL": "https://graduate.carleton.ca/cu-programs/electrical-computer-engineering-phd/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "23274",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "PhD in Electrical and Computer Engineering",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/ece.html#PhD",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "24316",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "PhD in Electrical and Computer Engineering",
+        "programURL": "http://www.uvic.ca/engineering/ece/current/graduate/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "22972",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "PhD in Electrical and Computer Engineering",
+        "programURL": "https://www.lakeheadu.ca/academics/graduate/programs/doctoral/electrical-computer-engineering/node/21234",
+        "schoolName": "Lakehead University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "11045",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "PhD in Electrical and Computer Engineering",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=41",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "6383",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "PhD in Engineering",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/engg.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "6384",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "PhD in Engineering - Biological Engineering",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/engg.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "52543",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "PhD in Engineering - Computer Engineering",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/engg.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "52544",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "PhD in Engineering - Environmental  Engineering",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/engg.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "24169",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "PhD in Engineering - Okanagan",
+        "programURL": "http://engineering.ok.ubc.ca/prospective/gradstudies.html",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "11304",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "PhD in Engineering Materials",
+        "programURL": "http://www.uwindsor.ca/engineering/mame/379/graduate-programs",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "21017",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "PhD in Engineering Physics",
+        "programURL": "http://www.phas.ubc.ca/graduate-program-academic-programs",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "21528",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "PhD in Engineering Physics",
+        "programURL": "https://grad.usask.ca/programs/physics-engineering-physics.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "23838",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "PhD in Environmental Engineering",
+        "programURL": "http://graduate.carleton.ca/programs/environmental-engineering-phd/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "10501",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "PhD in Environmental Engineering",
+        "programURL": "https://grad.usask.ca/programs/civil-engineering.php#Program",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2694",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "PhD in Geodesy and Geomatics Engineering",
+        "programURL": "https://www.unb.ca/gradstudies/programs/gge.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "5013",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "PhD in Geological Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-geological-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "30844",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "PhD in Materials Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-materials-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "37516",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "PhD in Materials Science",
+        "programURL": "https://gradstudies.ontariotechu.ca/future_students/programs/doctoral_programs/materials_science/index.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "127",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Materials Science and Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Materials-Science-and-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2699",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "PhD in Mechanical Engineering",
+        "programURL": "https://www.unb.ca/gradstudies/programs/mechanical.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "5085",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "PhD in Mechanical Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-mechanical-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "6139",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "PhD in Mechanical Engineering",
+        "programURL": "http://graduate.carleton.ca/programs/mechanical-engineering-phd/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "6723",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "PhD in Mechanical Engineering",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/mme.html#PhD",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "24319",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "PhD in Mechanical Engineering",
+        "programURL": "https://www.uvic.ca/engineering/mechanical/",
+        "schoolName": "University of Victoria",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "10492",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "PhD in Mechanical Engineering",
+        "programURL": "https://grad.usask.ca/programs/mechanical-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "35577",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "PhD in Mechanical Engineering",
+        "programURL": "https://gradstudies.ontariotechu.ca/current_students/tuition-fees/international-tuition/index.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2339",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "PhD in Mechanical Engineering",
+        "programURL": "http://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "42522",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "PhD in Mechanical and Industrial Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Mechanical-and-Industrial-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "11061",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "PhD in Mechanical and Materials Engineering",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=94",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "5012",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "PhD in Mining Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-mining-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "35578",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "PhD in Nuclear Engineering",
+        "programURL": "https://gradstudies.ontariotechu.ca/future_students/programs/doctoral_programs/nuclear_engineering/index.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "2338",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "PhD in Ocean and Naval Architectural Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "27661",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "PhD in Oil and Gas Engineering",
+        "programURL": "http://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "10486",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "PhD in Physics & Engineering Physics",
+        "programURL": "https://grad.usask.ca/programs/physics-engineering-physics.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "50190",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "PhD in Process Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    },
+    {
+        "programId": "40632",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Software Engineering (Ph.D)",
+        "programURL": "https://graduate.mcmaster.ca/programs/software-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Doctorate"
+    }
+]

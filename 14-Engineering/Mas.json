@@ -1,0 +1,2422 @@
+[
+    {
+        "programId": "8672",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Biological Engineering (MASc)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/biological-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8715",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Biological Engineering (MEng)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/biological-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40681",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Biomedical Engineering (M.A.Sc.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/biomedical-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21375",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Biomedical Engineering (MASc)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/biomedical-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40359",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Biomedical Engineering (MD/Ph.D.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/biomedical-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "38376",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Biomedical Engineering (MSc)",
+        "programURL": "https://www.ualberta.ca/graduate-studies/programs/search#D563115BC17441FEAB7B6F2CBA4BCEB8",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35379",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Chemical Engineering (M.A.Sc.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/chemical-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8721",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Chemical Engineering (MASc)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/chemical-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8650",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Chemical Engineering (MEng)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/chemical-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "965",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Chemical and Materials Engineering (MBA-MEng, Msc)",
+        "programURL": "https://www.ualberta.ca/graduate-studies/programs/search#C799E104B8C14C9996EEFFE7927AC4DF",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40685",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Civil Engineering (M.A.Sc.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/civil-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2146",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Civil Engineering (M.Eng)",
+        "programURL": "https://graduate.mcmaster.ca/programs/civil-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21376",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Civil Engineering and Planning (MASc/MPlan)",
+        "programURL": "http://www.dal.ca/academics/graduate_programs/civil-engineering-and-planning.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8861",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Civil Engineering and Planning, Master of Planning (MEng/MPlan)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/civil-engineering-and-planning.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "1293",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Civil and Evironmental Engineering (MSc, MEng)",
+        "programURL": "https://www.ualberta.ca/graduate-studies/programs/search#03C60404E9814AE2B030A00E9BE2F3DB",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8870",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Civil and Resource Engineering (MASc)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/civil-and-resource-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21381",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Civil and Resource Engineering (MEng)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/civil-and-resource-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "33786",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Collaborative Specialization in Engineering in Medicine",
+        "programURL": "http://grad.uwo.ca/prospective_students/programs/program_NEW.cfm?p=237",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40590",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computational Science and Engineering (M.A.Sc)",
+        "programURL": "https://graduate.mcmaster.ca/programs/computational-science-and-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2129",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computational Science and Engineering (M.Eng.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/computational-science-and-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35381",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computational Science and Engineering (M.Sc.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/computational-science-and-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40322",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Electrical and Biomedical Engineering (M.Eng.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/electrical-and-biomedical-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "24060",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Electrical and Computer Engineering (M.A.Sc.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/electrical-and-computer-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2163",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Electrical and Computer Engineering (M.Eng.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/electrical-and-computer-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8654",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Electrical and Computer Engineering (MASc)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/electrical-and-computer-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8677",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Electrical and Computer Engineering (MEng)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/electrical-and-computer-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "964",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Electrical and Computer Engineering (MSc, MEng)",
+        "programURL": "https://www.ualberta.ca/graduate-studies/programs/search#E4DD4AD53F9E4E21A2039ED692F41975",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40327",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Engineering Design (M.Eng.Design)",
+        "programURL": "https://graduate.mcmaster.ca/programs/engineering-design",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21309",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Engineering Physics (M.A.Sc.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/engineering-physics",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2138",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Engineering Physics (M.Eng.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/engineering-physics",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21173",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Engineering Science (Accelerated Master\u2019s)",
+        "programURL": "https://www.sfu.ca/dean-gradstudies/future/academicprograms/AcceleratedMasters.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "4119",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Engineering Science (Master of Engineering)",
+        "programURL": "http://www.sfu.ca/students/calendar/2018/summer/programs/engineering-science/master-of-engineering.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2130",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Engineering and Public Policy (M.E.P.P)",
+        "programURL": "https://graduate.mcmaster.ca/programs/engineering-and-public-policy",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8676",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Environmental Engineering (MASc)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/environmental-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8673",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Environmental Engineering (MEng)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/environmental-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "50169",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Graduate Diploma in Arctic Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "50170",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Graduate Diploma in Communications Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "46782",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Graduate Diploma in Engineering Design of Sustainable Water Resource Systems",
+        "programURL": "https://www.uoguelph.ca/engineering/grad/diploma-design",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "50184",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Graduate Diploma in Geotechnical and Structural Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2521",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Graduate Diploma in Mechanics and Materials Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "46786",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Graduate Diploma in Modelling Applications in Water Resources Engineering",
+        "programURL": "https://www.uoguelph.ca/engineering/grad/diploma-modelling",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "37518",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Graduate Diploma in Nuclear Technology",
+        "programURL": "http://uoit.ca/programs/energy-systems-and-nuclear-science/nuclear-technology-graduate-diploma.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "27668",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Graduate Diploma in Safety and Risk Engineering",
+        "programURL": "http://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "50186",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Graduate Diploma in Thermofluids Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "50185",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Graduate Diplome ain Mechatronics Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8643",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Industrial Engineering (MASc)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/industrial-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8649",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Industrial Engineering (MEng)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/industrial-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "959",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Internetworking (MSc)",
+        "programURL": "http://mint.ece.ualberta.ca/",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21315",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Manufacturing Engineering (M.Eng. Manufacturing)",
+        "programURL": "https://graduate.mcmaster.ca/programs/manufacturing-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "23847",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Applied Science in Aerospace Engineering",
+        "programURL": "https://graduate.carleton.ca/cu-programs/aerospace-engineering-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "33878",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Aerospace Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/aerospace-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52678",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Aerospace Engineering, Accelerated Pathway Plan",
+        "programURL": "https://www.ryerson.ca/engineering-architectural-science/programs/undergraduate/accelerated-masc-pathway/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "208",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Aerospace Science and Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Aerospace-Science-and-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "160",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Biomedical Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Biomedical-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "30660",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Applied Science in Biomedical Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-biomedical-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35292",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Applied Science in Biomedical Engineering",
+        "programURL": "http://graduate.carleton.ca/programs/biomedical-engineering-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "28825",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Biomedical Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/biomedical-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52679",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Biomedical Engineering, Accelerated Pathway Plan",
+        "programURL": "https://www.ryerson.ca/engineering-architectural-science/programs/undergraduate/accelerated-masc-pathway/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "38926",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Master of Applied Science in Building Engineering/Building Science",
+        "programURL": "https://www.bcit.ca/study/programs/m200masc",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "4363",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Chemical Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-chemical-engineering/master-applied-science-masc-chemical-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "16934",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Chemical Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/chemical-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "193",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Chemical Engineering and Applied Chemistry",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Chemical-Engineering-and-Applied-Chemistry.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52680",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Chemical Engineering, Accelerated Pathway Plan",
+        "programURL": "https://www.ryerson.ca/engineering-architectural-science/programs/undergraduate/accelerated-masc-pathway/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21009",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Applied Science in Chemical and Biological Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-chemical-biological-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "192",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Civil Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Civil-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "4368",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Civil Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-civil-and-environmental-engineering/master-applied-science-masc-civil-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5202",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Applied Science in Civil Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-civil-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6325",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Applied Science in Civil Engineering",
+        "programURL": "http://graduate.carleton.ca/programs/civil-engineering-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "16932",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Civil Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/civil-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48050",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Civil Engineering - Geotechnical Engineering Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-civil-and-environmental-engineering/master-applied-science-masc-civil-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48052",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Civil Engineering - Transportation Engineering Field",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-civil-and-environmental-engineering/master-applied-science-masc-civil-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40886",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Applied Science in Civil Engineering - Water",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-civil-and-environmental-engineering/master-applied-science-masc-civil-engineering-water",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52681",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Civil Engineering, Accelerated Pathway Plan",
+        "programURL": "https://www.ryerson.ca/engineering-architectural-science/programs/undergraduate/accelerated-masc-pathway/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "29894",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Computer Engineering",
+        "programURL": "http://futurestudents.yorku.ca/graduate/programs/computer-engineering",
+        "schoolName": "York University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "41954",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Electrical and Computer Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Electrical-and-Computer-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5289",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Applied Science in Electrical and Computer Engineering",
+        "programURL": "http://www.ece.ubc.ca/academic-programs/graduate/programs/masters-applied-science",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "23844",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Applied Science in Electrical and Computer Engineering",
+        "programURL": "https://graduate.carleton.ca/cu-programs/electrical-computer-engineering-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "7611",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Master of Applied Science in Electrical and Computer Engineering",
+        "programURL": "http://www.uvic.ca/engineering/ece/current/graduate/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "29784",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Applied Science in Engineering",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/engg-msc.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "30194",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Master of Applied Science in Engineering - Okanagan",
+        "programURL": "Master%20of%20Applied%20Science%20in%20Engineering%20-%20Okanagan",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "31060",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Applied Science in Engineering Physics",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-engineering-physics",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6261",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Applied Science in Environmental Engineering",
+        "programURL": "http://graduate.carleton.ca/programs/environmental-engineering-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5250",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Applied Science in Geological Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-geological-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5207",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Applied Science in Materials Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-materials-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "201",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Materials Science and Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Materials-Science-and-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5130",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Applied Science in Mechanical Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-mechanical-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "7609",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Master of Applied Science in Mechanical Engineering",
+        "programURL": "http://www.uvic.ca/engineering/mechanical/",
+        "schoolName": "University of Victoria",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "46366",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Mechanical Engineering",
+        "programURL": "http://futurestudents.yorku.ca/graduate/programs/mechanical-engineering",
+        "schoolName": "York University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "16935",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Applied Science in Mechanical and Industrial Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/mechanical-industrial-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5294",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Applied Science in Mining Engineering - 4 options",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-mining-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "33922",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Master of Applied Science in Nuclear Engineering",
+        "programURL": "https://ontariotechu.ca/programs/energy-systems-and-nuclear-science/nuclear-engineering-masters-program.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "30739",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Master of Civil Engineering (MEng)",
+        "programURL": "http://www.uwindsor.ca/engineering/mengprog",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "11327",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Master of Electrical Engineering (MASc)",
+        "programURL": "http://www.uwindsor.ca/graduate/1967/electrical-and-computer-engineering",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "30743",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Master of Electrical Engineering (MEng)",
+        "programURL": "http://www.uwindsor.ca/engineering/electrical/298/graduate-programs",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "20961",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Master of Engineerin in Geodesy and Geomatics Engineering",
+        "programURL": "https://www.unb.ca/gradstudies/programs/gge.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "29722",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Engineering  in Computer Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6378",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Engineering - Biological Engineering",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/engg.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6516",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Engineering - Computer Engineering",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/engg.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "31082",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Master of Engineering - Okanagan",
+        "programURL": "http://gradstudies.ok.ubc.ca/prospective/grad-programs/engineering.html",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21011",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Engineering Leadership in Advanced Materials Manufacturing",
+        "programURL": "http://apscpp.ubc.ca/programs/mel/advanced-materials-manufacturing/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "41913",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Engineering Leadership in Clean Energy Engineering",
+        "programURL": "http://apscpp.ubc.ca/programs/mel/clean-energy-engineering/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "20871",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Engineering Leadership in Green BioProducts",
+        "programURL": "http://apscpp.ubc.ca/programs/mel/green-bio-products/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "18789",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Master of Engineering Materials (MASc)",
+        "programURL": "http://www.uwindsor.ca/engineering/mengprog",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "30744",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Master of Engineering Materials (MEng)",
+        "programURL": "http://www.uwindsor.ca/engineering/mengprog",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "22205",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Engineering Science in Biomedical Engineering",
+        "programURL": "http://grad.uwo.ca/prospective_students/programs/program_NEW.cfm?p=19",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "22295",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Engineering Science in Chemical and Biochemical Engineering",
+        "programURL": "http://grad.uwo.ca/prospective_students/programs/program_NEW.cfm?p=25",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "11123",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Engineering Science in Civil and Environmental Engineering",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=29",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "28138",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Engineering Science in Electrical and Computer Engineering",
+        "programURL": "http://grad.uwo.ca/prospective_students/programs/program_NEW.cfm?p=39",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "11120",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Engineering Science in Mechanical and Materials Engineering",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=93",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "33877",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Engineering in Aerospace Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/aerospace-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "199",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Engineering in Aerospace Science and Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Aerospace-Science-and-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10528",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Engineering in Biological Engineering",
+        "programURL": "https://programs.usask.ca/programs/colleges-and-schools.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "30392",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Engineering in Biomedical Engineering",
+        "programURL": "https://www.bme.ubc.ca/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52646",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Engineering in Biomedical Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/biomedical-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10594",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Engineering in Biomedical Engineering",
+        "programURL": "https://grad.usask.ca/programs/biomedical-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6830",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Master of Engineering in Biosystems Engineering",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/643.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "38929",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Master of Engineering in Building Science",
+        "programURL": "https://www.bcit.ca/study/programs/m100meng",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2715",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Master of Engineering in Chemical Engineering",
+        "programURL": "https://www.unb.ca/gradstudies/programs/chemical.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "24301",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Chemical Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-chemical-engineering/master-engineering-meng-chemical-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "22443",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Engineering in Chemical Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/chemical-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10569",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Engineering in Chemical Engineering",
+        "programURL": "https://grad.usask.ca/programs/chemical-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "4479",
+        "provinceName": "Ontario",
+        "cityName": "Kitchener",
+        "programName": "Master of Engineering in Chemical Engineering - Biological Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-chemical-engineering/master-engineering-meng-chemical-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "4365",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Chemical Engineering - Polymer Science and Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-chemical-engineering/master-engineering-meng-chemical-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48281",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Chemical Engineering - Process Systems Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-chemical-engineering/master-engineering-meng-chemical-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "194",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Engineering in Chemical Engineering and Applied Chemistry",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Chemical-Engineering-and-Applied-Chemistry.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "42648",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Engineering in Chemical and Biochemical Engineering",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=26",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "41827",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Engineering in Cities Engineering and Management",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Cities-Engineering-and-Management.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "291",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Engineering in Civil Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Civil-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2716",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Master of Engineering in Civil Engineering",
+        "programURL": "https://www.unb.ca/gradstudies/programs/civil.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "24302",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Civil Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-civil-and-environmental-engineering/master-engineering-meng-civil-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5292",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Engineering in Civil Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-civil-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "23839",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Engineering in Civil Engineering",
+        "programURL": "http://graduate.carleton.ca/programs/civil-engineering-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6755",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Master of Engineering in Civil Engineering",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/649.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "22445",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Engineering in Civil Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/civil-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10566",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Engineering in Civil Engineering",
+        "programURL": "https://grad.usask.ca/programs/civil-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "29720",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Engineering in Civil Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "28275",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Civil Engineering - Nuclear Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-civil-and-environmental-engineering/master-engineering-meng-civil-engineering-nuclear-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "11124",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Engineering in Civil and Environmental Engineering",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=29",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "11215",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Engineering in Design and Manufacturing Engineering",
+        "programURL": "http://grad.uwo.ca/prospective_students/programs/program_NEW.cfm?p=3",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21517",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Engineering in Electrical Engineering",
+        "programURL": "https://grad.usask.ca/programs/electrical-computer-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2379",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Engineering in Electrical Engineering",
+        "programURL": "http://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "41980",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Engineering in Electrical and Computer Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Electrical-and-Computer-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "20959",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Master of Engineering in Electrical and Computer Engineering",
+        "programURL": "https://www.unb.ca/gradstudies/programs/electrical.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5208",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Engineering in Electrical and Computer Engineering",
+        "programURL": "http://www.ece.ubc.ca/academic-programs/graduate/programs/masters-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6216",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Engineering in Electrical and Computer Engineering",
+        "programURL": "https://graduate.carleton.ca/cu-programs/electrical-computer-engineering-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6798",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Master of Engineering in Electrical and Computer Engineering",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/ece.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "7614",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Master of Engineering in Electrical and Computer Engineering",
+        "programURL": "http://www.uvic.ca/engineering/ece/current/graduate/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "11122",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Engineering in Electrical and Computer Engineering",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=40",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48305",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Master of Engineering in Electrical and Computer Engineering - Biomedical Engineering",
+        "programURL": "https://uwaterloo.ca/graduate-studies-academic-calendar/engineering/department-electrical-and-computer-engineering/master-engineering-meng-electrical-and-computer-engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6462",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Engineering in Engineering",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/engg.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "30757",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Master of Engineering in Environmental Engineering",
+        "programURL": "https://www.unb.ca/fredericton/engineering/depts/chemical/grad.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "23840",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Engineering in Environmental Engineering",
+        "programURL": "http://graduate.carleton.ca/programs/environmental-engineering-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "22793",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Engineering in Environmental Engineering",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/engg.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10592",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Engineering in Environmental Engineering",
+        "programURL": "https://engineering.usask.ca/departments/cgee.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5288",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Engineering in Geological Engineering",
+        "programURL": "http://www.geoeng.ubc.ca/graduate.html",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2712",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Master of Engineering in Mechanical Engineering",
+        "programURL": "https://www.unb.ca/gradstudies/programs/mechanical.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "23848",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Engineering in Mechanical Engineering",
+        "programURL": "http://graduate.carleton.ca/programs/mechanical-engineering-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6797",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Master of Engineering in Mechanical Engineering",
+        "programURL": "http://www.umanitoba.ca/faculties/engineering/departments/mechanical/grad/index.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "7610",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Master of Engineering in Mechanical Engineering",
+        "programURL": "http://www.uvic.ca/engineering/mechanical/",
+        "schoolName": "University of Victoria",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10550",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Engineering in Mechanical Engineering",
+        "programURL": "https://grad.usask.ca/programs/mechanical-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35565",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Master of Engineering in Mechanical Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/mechanical-engineering-masters-program.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2381",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Engineering in Mechanical Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "23992",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Engineering in Mechanical Engineering",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/engg.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "42520",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Engineering in Mechanical and Industrial Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Mechanical-and-Industrial-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "11105",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Engineering in Mechanical and Materials Engineering",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=93",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "42313",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Engineering in Mechatronics - industry-focused",
+        "programURL": "http://mech.ubc.ca/graduate-students/degree-options/masters-of-engineering-meng/mechatronics/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "42364",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Engineering in Naval Architecture and Marine Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-leadership-naval-architecture-marine-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "33782",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Engineering in Nuclear Engineering",
+        "programURL": "http://grad.uwo.ca/prospective_students/programs/program_NEW.cfm?p=105",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35566",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Master of Engineering in Nuclear Engineering",
+        "programURL": "https://ontariotechu.ca/programs/energy-systems-and-nuclear-science/nuclear-engineering-masters-program.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48641",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Master of Engineering in Nuclear Engineering (UNENE) - Part-time",
+        "programURL": "https://gradstudies.ontariotechu.ca/future_students/programs/masters_programs/UNENE/index.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "20817",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Engineering in Ocean and Naval Architectural Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "36771",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Engineering in Oil and Gas Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "50189",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Engineering in Process Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6423",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Master of Engineering in Water Resources Engineering",
+        "programURL": "https://www.uoguelph.ca/registrar/calendars/graduate/current/gradprog/engg.shtml",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "7678",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Master of Engineering/MBA in Mechanical Engineering",
+        "programURL": "https://www.uvic.ca/engineering/mechanical/",
+        "schoolName": "University of Victoria",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "41840",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Health Science in Clinical Engineering",
+        "programURL": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Clinical-Engineering.aspx",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "18838",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Master of Industrial Engineering (MEng)",
+        "programURL": "http://www.uwindsor.ca/engineering/mengprog",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "50197",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Marine Studies (Marine Spatial Planning and Management)",
+        "programURL": "https://www.mi.mun.ca/programsandcourses/programs/marinestudiesmarinespatialplanningandmanagement/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "11324",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Master of Mechanical Engineering (MASc)",
+        "programURL": "http://www.uwindsor.ca/engineering/mengprog",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "33783",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Master of Nursing",
+        "programURL": "https://grad.uwo.ca/admissions/programs/program.cfm?p=106",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10552",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Science in Biological Engineering",
+        "programURL": "https://grad.usask.ca/programs/biological-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "41708",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Master of Science in Biomedical Engineering",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/biomed_eng.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52647",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Science in Biomedical Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/biomedical-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10593",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Science in Biomedical Engineering",
+        "programURL": "https://grad.usask.ca/programs/biomedical-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6829",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Master of Science in Biosystems Engineering",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/643.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2709",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Master of Science in Chemical Engineering",
+        "programURL": "https://www.unb.ca/gradstudies/programs/chemical.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52645",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Science in Chemical Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/chemical-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10570",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Science in Chemical Engineering",
+        "programURL": "https://grad.usask.ca/programs/chemical-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21012",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Science in Chemical and Biological Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-chemical-biological-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2710",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Master of Science in Civil Engineering",
+        "programURL": "https://www.unb.ca/gradstudies/programs/civil.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6828",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Master of Science in Civil Engineering",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/649.html#MSc",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52649",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Master of Science in Civil Engineering",
+        "programURL": "https://www.ryerson.ca/graduate/programs/civil-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "50453",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Master of Science in Civil Engineering",
+        "programURL": "https://www.lakeheadu.ca/academics/graduate/programs/masters/engineering-civil/node/23721",
+        "schoolName": "Lakehead University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10573",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Science in Civil and Geological Engineering",
+        "programURL": "https://grad.usask.ca/programs/civil-engineering.php#Program",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "29719",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Science in Computer Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10509",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Science in Electrical Engineering",
+        "programURL": "https://grad.usask.ca/programs/electrical-computer-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "20960",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Master of Science in Electrical and Computer Engineering",
+        "programURL": "https://www.unb.ca/gradstudies/programs/electrical.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6833",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Master of Science in Electrical and Computer Engineering",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/ece.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "50187",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Science in Energy Systems Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "41731",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Science in Engineering Physics",
+        "programURL": "https://grad.usask.ca/programs/physics-engineering-physics.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "50452",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Master of Science in Engineering in Chemical Engineering (MSc Eng)",
+        "programURL": "https://www.lakeheadu.ca/academics/graduate/programs/masters/engineering-chemical/node/47300",
+        "schoolName": "Lakehead University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "23995",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Master of Science in Engineering in Electrical and Computer Engineering (MSc Eng)",
+        "programURL": "https://www.lakeheadu.ca/academics/graduate/programs/masters/electrical-and-computer/node/7270",
+        "schoolName": "Lakehead University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "33220",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Master of Science in Engineering in Environmental Engineering (MSc Eng)",
+        "programURL": "https://www.lakeheadu.ca/academics/graduate/programs/masters/environmental-engineering/node/7269",
+        "schoolName": "Lakehead University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10591",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Science in Environmental Engineering",
+        "programURL": "https://engineering.usask.ca/departments/cgee.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2375",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Science in Environmental Systems Engineering and Management",
+        "programURL": "http://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2744",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Master of Science in Geodesy and Geomatics Engineering",
+        "programURL": "https://www.unb.ca/gradstudies/programs/gge.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "5210",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Master of Science in Materials Engineering",
+        "programURL": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-materials-engineering",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "33938",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Master of Science in Materials Science",
+        "programURL": "https://gradstudies.ontariotechu.ca/future_students/programs/masters_programs/materials_science/index.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "34858",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Master of Science in Materials Science",
+        "programURL": "https://www.trentu.ca/graduatestudies/programs/thesis-based-masters-programs/master-science-materials-science-msc",
+        "schoolName": "Trent University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2711",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Master of Science in Mechanical Engineering",
+        "programURL": "https://www.unb.ca/gradstudies/programs/mechanical.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "23846",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Master of Science in Mechanical Engineering",
+        "programURL": "http://graduate.carleton.ca/programs/mechanical-engineering-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6831",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Master of Science in Mechanical Engineering",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/mme.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10515",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Master of Science in Mechanical Engineering",
+        "programURL": "https://grad.usask.ca/programs/mechanical-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "22969",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Master of Science in Mechanical Engineering (MSc-ME)",
+        "programURL": "https://www.lakeheadu.ca/academics/graduate/programs/masters/engineering-mechanical/node/17225",
+        "schoolName": "Lakehead University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "29418",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Science in Oil and Gas Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "50188",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Master of Science in Safety and Risk Engineering",
+        "programURL": "https://www.mun.ca/become/graduate/programs/engineering.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "3531",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Master of Science in Sustainable Design Engineering",
+        "programURL": "http://www.upei.ca/programs/master-science-faculty-science",
+        "schoolName": "University of Prince Edward Island",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35319",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Mater of Engineering in Aerospace Engineering",
+        "programURL": "http://graduate.carleton.ca/programs/aerospace-engineering-masters/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2177",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Materials Engineering (M.A.Sc.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/materials-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "31043",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Materials Engineering (MASc)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/materials-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "31042",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Materials Engineering (MEng)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/materials-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21312",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Materials Science (M.Sc.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/materials-science",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "2176",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechanical Engineering (M.A.Sc.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/mechanical-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8675",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Mechanical Engineering (MASc)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/mechanical-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8719",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Mechanical Engineering (MEng)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/mechanical-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "1009",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Mechanical Engineering (MSc, MEng)",
+        "programURL": "http://uofa.ualberta.ca/graduate-studies/programs/search#1E94B315C5144F8FB668D13B2CA316A5",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "49921",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Mechatronic Product Realization (Professional Master of Engineering)",
+        "programURL": "http://www.sfu.ca/mechatronics/prospective-students/graduate-students/academic-programs/professional-master-s-program.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "49920",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Mechatronic Systems Engineering (Master of Applied Science)",
+        "programURL": "http://www.sfu.ca/dean-gradstudies/future/academicprograms/faculty_of_appliedsciences/mechatronics.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "8642",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Mineral Resource Engineering (MASc)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/mineral-resource-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21382",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Mineral Resource Engineering (MEng)",
+        "programURL": "https://www.dal.ca/academics/graduate_programs/mineral-resource-engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "48723",
+        "provinceName": "Ontario",
+        "cityName": "Peterborough",
+        "programName": "Ph.D. in Materials Science",
+        "programURL": "https://www.trentu.ca/graduatestudies/programs/phd-programs/materials-science-phd",
+        "schoolName": "Trent University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10608",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Postgraduate Diploma in Biological Engineering",
+        "programURL": "https://grad.usask.ca/programs/biological-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "35864",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Postgraduate Diploma in Chemical Engineering",
+        "programURL": "https://grad.usask.ca/programs/chemical-engineering.php#Program",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10624",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Postgraduate Diploma in Civil Engineering",
+        "programURL": "https://grad.usask.ca/programs/civil-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10618",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Postgraduate Diploma in Electrical Engineering",
+        "programURL": "https://grad.usask.ca/programs/electrical-computer-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "10613",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Postgraduate Diploma in Environmental Engineering",
+        "programURL": "https://grad.usask.ca/programs/civil-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "27308",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Postgraduate Diploma in Mechanical Engineering",
+        "programURL": "https://grad.usask.ca/programs/mechanical-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "6772",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Pre-Master's in Electrical and Computer Engineering",
+        "programURL": "http://umanitoba.ca/faculties/graduate_studies/admissions/programs/ece.html#PreM",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "52664",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Professional Master's Diploma in Aerospace Design Management",
+        "programURL": "https://www.ryerson.ca/aerospace/graduate/professional-masters-diploma/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "40363",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Software Engineering (M.A.Sc)",
+        "programURL": "https://graduate.mcmaster.ca/programs/software-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "24091",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "UNENE Nuclear Engineering (Graduate Diploma)",
+        "programURL": "https://graduate.mcmaster.ca/programs/unene-nuclear-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    },
+    {
+        "programId": "21318",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "UNENE Nuclear Engineering (M.Eng.)",
+        "programURL": "https://graduate.mcmaster.ca/programs/unene-nuclear-engineering",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University - Master"
+    }
+]

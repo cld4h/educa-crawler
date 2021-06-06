@@ -1,0 +1,3162 @@
+[
+    {
+        "programId": "40542",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Civil and Biomedical Engineering Co-Op (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18735&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11462",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Aerospace Engineering (with optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/471/aerospace-engineering-optional-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "45374",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Applied Science for Engineering Diploma",
+        "programURL": "https://langara.ca/programs-and-courses/programs/applied-science-for-engineering/index.html",
+        "schoolName": "Langara College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41538",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Automotive Engineering (with optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/472/automotive-engineering-optional-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34701",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Bachelor of Applied Science - 3 Year Program",
+        "programURL": "http://engineering.acadiau.ca/basc.html",
+        "schoolName": "Acadia University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28206",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science and Bachelor of Software Engineering - Software Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51221",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Architectural Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Architectural-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28166",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Biomedical Engineering - Biomechanics",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Biomedical-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51218",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Biomedical Engineering - Biomedical devices",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Biomedical-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28224",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Biomedical Engineering - Biomedical signals",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Biomedical-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4492",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Chemical Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Chemical-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23956",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Applied Science in Chemical Engineering",
+        "programURL": "https://you.ubc.ca/ubc_programs/chemical-engineering/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20639",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Applied Science in Chemical and Biological Engineering",
+        "programURL": "https://you.ubc.ca/ubc_programs/chemical-biological-engineering/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40777",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Civil Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Civil-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "5459",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Applied Science in Civil Engineering",
+        "programURL": "https://you.ubc.ca/ubc_programs/civil-engineering-vancouver/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28174",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Civil Engineering - Geotechnical Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Civil-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28152",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Civil Engineering - Infrastructure Management and Construction",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Civil-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30377",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Bachelor of Applied Science in Civil Engineering - Okanagan",
+        "programURL": "https://you.ubc.ca/ubc_programs/civil-engineering-okanagan/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4498",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Computer Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Computer-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30001",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Applied Science in Computer Engineering",
+        "programURL": "https://you.ubc.ca/ubc_programs/computer-engineering/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4490",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Electrical Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Electrical-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20640",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Applied Science in Electrical Engineering",
+        "programURL": "https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30840",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Bachelor of Applied Science in Electrical Engineering - Okanagan",
+        "programURL": "https://you.ubc.ca/ubc_programs/electrical-engineering-okanagan/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "5446",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Applied Science in Engineering Physics",
+        "programURL": "https://you.ubc.ca/ubc_programs/engineering-physics/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4486",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Environmental Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Environmental-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30002",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Applied Science in Environmental Engineering",
+        "programURL": "https://you.ubc.ca/ubc_programs/environmental-engineering/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "48605",
+        "provinceName": "British Columbia",
+        "cityName": "Prince George",
+        "programName": "Bachelor of Applied Science in Environmental Engineering",
+        "programURL": "https://www.unbc.ca/calendar/undergraduate/environmental-engineering",
+        "schoolName": "University of Northern British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23139",
+        "provinceName": "British Columbia",
+        "cityName": "Prince George",
+        "programName": "Bachelor of Applied Science in Environmental Engineering, Joint Degree UNBC/UBC",
+        "programURL": "https://www.unbc.ca/engineering-undergraduate/environmental-engineering-unbc/ubc",
+        "schoolName": "University of Northern British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4500",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Geological Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Geological-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "5452",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Applied Science in Geological Engineering",
+        "programURL": "https://you.ubc.ca/ubc_programs/geological-engineering/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20641",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Applied Science in Integrated Engineering",
+        "programURL": "https://you.ubc.ca/ubc_programs/integrated-engineering/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "5445",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Applied Science in Materials Engineering",
+        "programURL": "https://you.ubc.ca/ubc_programs/materials-engineering/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40817",
+        "provinceName": "Ontario",
+        "cityName": "Waterloo",
+        "programName": "Bachelor of Applied Science in Mechanical Engineering",
+        "programURL": "http://ugradcalendar.uwaterloo.ca/page/ENG-Mechanical-Engineering",
+        "schoolName": "University of Waterloo",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "5453",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Applied Science in Mechanical Engineering",
+        "programURL": "https://you.ubc.ca/ubc_programs/mechanical-engineering-vancouver/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30839",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Bachelor of Applied Science in Mechanical Engineering - Okanagan",
+        "programURL": "https://you.ubc.ca/ubc_programs/mechanical-engineering-okanagan/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "5462",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Bachelor of Applied Science in Mining Engineering",
+        "programURL": "https://you.ubc.ca/ubc_programs/mining-engineering/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35231",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Computer Science in Software Engineering - Computer Science",
+        "programURL": "http://admissions.carleton.ca/programs/software-engineering-computer-science/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6587",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Bachelor of Computing in Software Engineering",
+        "programURL": "https://admission.uoguelph.ca/bcomp/se",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26803",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Design  Engineering Route",
+        "programURL": "http://apps.admissions.ualberta.ca/programs/ar/ar540/enggr1",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "36521",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Engineering",
+        "programURL": "http://admissions.carleton.ca/programs/engineering/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33940",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Engineering (Honours) in Manufacturing Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/manufacturing-engineering-manufacturing-engineering-and-management.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33934",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Engineering (Honours) in Mechanical Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/mechanical-engineering-mechanical-engineering-and-management.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "37513",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Engineering (Honours) in Nuclear Engineering",
+        "programURL": "https://ontariotechu.ca/programs/energy-systems-and-nuclear-science/nuclear-engineering.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30584",
+        "provinceName": "Ontario",
+        "cityName": "Cambridge",
+        "programName": "Bachelor of Engineering - Building Systems Engineering",
+        "programURL": "https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50446",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Bachelor of Engineering - Chemical Engineering with Diploma in Engineering Technology (4 Years)",
+        "programURL": "https://www.lakeheadu.ca/academics/undergraduate-programs/thunder-bay/engineering/chemical/node/1111",
+        "schoolName": "Lakehead University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50448",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Bachelor of Engineering - CivilCivil Engineering with Diploma in Engineering Technology (4 Years)",
+        "programURL": "https://www.lakeheadu.ca/academics/undergraduate-programs/thunder-bay/engineering/civil/node/3355",
+        "schoolName": "Lakehead University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50449",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Bachelor of Engineering - Electrical Engineering, with Diploma in Engineering Technology (4 Years)",
+        "programURL": "https://www.lakeheadu.ca/academics/undergraduate-programs/thunder-bay/engineering/electrical/node/3570",
+        "schoolName": "Lakehead University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "39508",
+        "provinceName": "Ontario",
+        "cityName": "Cambridge",
+        "programName": "Bachelor of Engineering - Electronic Systems Engineering",
+        "programURL": "https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-electronic-systems-engineering",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50450",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Bachelor of Engineering - Mechanical Engineering with Diploma in Engineering Technology (4 Years)",
+        "programURL": "https://www.lakeheadu.ca/academics/undergraduate-programs/thunder-bay/engineering/mechanical/node/3571",
+        "schoolName": "Lakehead University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "39319",
+        "provinceName": "Ontario",
+        "cityName": "Cambridge",
+        "programName": "Bachelor of Engineering - Mechanical Systems Engineering",
+        "programURL": "https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering",
+        "schoolName": "Conestoga College Institute of Technology and Advanced Learning",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "50451",
+        "provinceName": "Ontario",
+        "cityName": "Thunder Bay",
+        "programName": "Bachelor of Engineering - Software Engineering with Diploma in Engineering Technology (4 Years)",
+        "programURL": "https://www.lakeheadu.ca/academics/undergraduate-programs/thunder-bay/engineering/software/node/3575",
+        "schoolName": "Lakehead University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46772",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Bachelor of Engineering - Undeclared",
+        "programURL": "https://admission.uoguelph.ca/beng/und",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33918",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Engineering and Management (Honours)  in Manufacturing Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/manufacturing-engineering-manufacturing-engineering-and-management.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33921",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Engineering and Management (Honours) in Mechanical Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/mechanical-engineering-mechanical-engineering-and-management.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35559",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Engineering and Management (Honours) in Nuclear Engineering",
+        "programURL": "https://ontariotechu.ca/programs/energy-systems-and-nuclear-science/nuclear-engineering.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33924",
+        "provinceName": "Ontario",
+        "cityName": "Oshawa",
+        "programName": "Bachelor of Engineering and Management (Honours) in Software Engineering",
+        "programURL": "https://ontariotechu.ca/programs/engineering-and-applied-science/software-engineering-software-engineering-and-management.php",
+        "schoolName": "OntarioTech University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6224",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Engineering in Aerospace Engineering",
+        "programURL": "http://admissions.carleton.ca/programs/aerospace-engineering/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7198",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Engineering in Aerospace Engineering",
+        "programURL": "https://www.ryerson.ca/programs/undergraduate/aerospace-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6527",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Bachelor of Engineering in Biological Engineering",
+        "programURL": "https://www.uoguelph.ca/engineering/undergraduate/prospective/biological",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6542",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Bachelor of Engineering in Biomedical Engineering",
+        "programURL": "https://www.uoguelph.ca/engineering/undergraduate/prospective/biomedical",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33873",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Engineering in Biomedical Engineering",
+        "programURL": "https://www.ryerson.ca/programs/undergraduate/biomedical-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41491",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Bachelor of Engineering in Biomedical Engineering",
+        "programURL": "https://www.uvic.ca/engineering/biomedical/future-students/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35245",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Engineering in Biomedical and Electrical Engineering",
+        "programURL": "http://admissions.carleton.ca/programs/biomedical-and-electrical-engineering/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35246",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Engineering in Biomedical and Mechanical Engineering",
+        "programURL": "http://admissions.carleton.ca/programs/biomedical-and-mechanical-engineering/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7202",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Engineering in Chemical Engineering (Co-Op)",
+        "programURL": "https://www.ryerson.ca/programs/undergraduate/chemical-engineering-co-op/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26351",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Engineering in Civil Engineering",
+        "programURL": "https://www.bcit.ca/study/programs/8660beng",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2498",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Engineering in Civil Engineering",
+        "programURL": "https://www.mun.ca/undergrad/programs/engineering/civil.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6225",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Engineering in Civil Engineering",
+        "programURL": "http://admissions.carleton.ca/programs/civil-engineering/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7201",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Engineering in Civil Engineering",
+        "programURL": "https://www.ryerson.ca/programs/undergraduate/civil-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "42695",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Bachelor of Engineering in Civil Engineering",
+        "programURL": "https://www.uvic.ca/engineering/civil/",
+        "schoolName": "University of Victoria",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41892",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Engineering in Civil Engineering",
+        "programURL": "http://futurestudents.yorku.ca/program/civil-engineering",
+        "schoolName": "York University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "18795",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Engineering in Communications Engineering",
+        "programURL": "http://admissions.carleton.ca/programs/communications-engineering/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20711",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Engineering in Computer Engineering",
+        "programURL": "https://www.mun.ca/undergrad/programs/engineering/computer.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26698",
+        "provinceName": "Ontario",
+        "cityName": "Guelph",
+        "programName": "Bachelor of Engineering in Computer Engineering",
+        "programURL": "https://www.uoguelph.ca/engineering/undergraduate/prospective/computer",
+        "schoolName": "University of Guelph",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7200",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Engineering in Computer Engineering",
+        "programURL": "https://www.ryerson.ca/programs/undergraduate/computer-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7677",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Bachelor of Engineering in Computer Engineering",
+        "programURL": "https://www.uvic.ca/engineering/ece/future/undergraduate/computer/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "29834",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Engineering in Computer Engineering",
+        "programURL": "http://futurestudents.yorku.ca/program/computer-engineering",
+        "schoolName": "York University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6226",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Engineering in Computer Systems Engineering",
+        "programURL": "http://admissions.carleton.ca/programs/computer-systems-engineering/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35143",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Engineering in Electrical Engineering",
+        "programURL": "https://www.bcit.ca/study/programs/8030beng",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2497",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Engineering in Electrical Engineering",
+        "programURL": "https://www.mun.ca/undergrad/programs/engineering/electrical.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6222",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Engineering in Electrical Engineering",
+        "programURL": "http://admissions.carleton.ca/programs/electrical-engineering/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7197",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Engineering in Electrical Engineering",
+        "programURL": "https://www.ryerson.ca/programs/undergraduate/electrical-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7683",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Bachelor of Engineering in Electrical Engineering",
+        "programURL": "https://www.uvic.ca/engineering/ece/future/undergraduate/electrical/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "42168",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Engineering in Electrical Engineering",
+        "programURL": "http://futurestudents.yorku.ca/program/electrical-engineering",
+        "schoolName": "York University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23938",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Engineering in Engineering Physics",
+        "programURL": "http://admissions.carleton.ca/programs/engineering-physics/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23939",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Engineering in Environmental Engineering",
+        "programURL": "http://admissions.carleton.ca/programs/environmental-engineering/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "18653",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Engineering in Geomatics Engineering",
+        "programURL": "http://futurestudents.yorku.ca/program/geomatic-engineering",
+        "schoolName": "York University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7199",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Engineering in Industrial Engineering",
+        "programURL": "https://www.ryerson.ca/programs/undergraduate/industrial-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35145",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Engineering in Mechanical Engineering",
+        "programURL": "https://www.bcit.ca/study/programs/8020beng",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2499",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Engineering in Mechanical Engineering",
+        "programURL": "https://www.mun.ca/undergrad/programs/engineering/mechanical.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6221",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Engineering in Mechanical Engineering",
+        "programURL": "http://admissions.carleton.ca/programs/mechanical-engineering/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "7196",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Engineering in Mechanical Engineering",
+        "programURL": "https://www.ryerson.ca/programs/undergraduate/mechanical-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27793",
+        "provinceName": "British Columbia",
+        "cityName": "Victoria",
+        "programName": "Bachelor of Engineering in Mechanical Engineering",
+        "programURL": "https://www.uvic.ca/engineering/mechanical/prospective-students/undergraduate/index.php",
+        "schoolName": "University of Victoria",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46365",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Engineering in Mechanical Engineering",
+        "programURL": "http://futurestudents.yorku.ca/program/mechanical-engineering",
+        "schoolName": "York University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46265",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Engineering in Mining and Mineral Resource Engineering",
+        "programURL": "https://www.bcit.ca/study/programs/8610beng",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "20712",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Engineering in Ocean and Naval Architectural Engineering",
+        "programURL": "https://www.mun.ca/undergrad/programs/engineering/ocean-naval.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2522",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Bachelor of Engineering in Process Engineering",
+        "programURL": "https://www.mun.ca/undergrad/programs/engineering/process.php",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23940",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Engineering in Software Engineering",
+        "programURL": "http://admissions.carleton.ca/programs/software-engineering-beng/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "42384",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Engineering in Software Engineering",
+        "programURL": "http://futurestudents.yorku.ca/program/software-engineering",
+        "schoolName": "York University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "29881",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Engineering in Space Engineering",
+        "programURL": "http://futurestudents.yorku.ca/program/space-engineering",
+        "schoolName": "York University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35256",
+        "provinceName": "Ontario",
+        "cityName": "Ottawa",
+        "programName": "Bachelor of Engineering in Sustainable and Renewable Energy Engineering",
+        "programURL": "http://admissions.carleton.ca/programs/sustainable-and-renewable-energy-engineering/",
+        "schoolName": "Carleton University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "15436",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science Engineering Transfer Program",
+        "programURL": "https://www.macewan.ca/wcm/SchoolsFaculties/ArtsScience/Programs/BachelorofScienceinEngineeringTransfer/index.htm",
+        "schoolName": "Grant MacEwan University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "10631",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Bachelor of Science Engineering in Civil Engineering",
+        "programURL": "https://admissions.usask.ca/civil-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35857",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Bachelor of Science Engineering in Computer Engineering",
+        "programURL": "https://admissions.usask.ca/computer-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "10633",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Bachelor of Science Engineering in Electrical Engineering",
+        "programURL": "https://admissions.usask.ca/electrical-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21527",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Bachelor of Science Engineering in Engineering Physics",
+        "programURL": "https://admissions.usask.ca/engineering-physics.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21486",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Bachelor of Science Engineering in Environmental Engineering",
+        "programURL": "https://admissions.usask.ca/environmental-engineering.php",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41502",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Biosystems Engineering",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/biosystem-engineering.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2812",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Bachelor of Science in Chemical Engineering",
+        "programURL": "https://www.unb.ca/academics/programs/engineering/chemical-engineering_f.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1197",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Chemical Engineering",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en100",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26836",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Chemical Engineering Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en101/coche2",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1189",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Chemical Engineering Computer Process Control",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en110",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27094",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Chemical Engineering Computer Process Control Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en111/prcop2",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1190",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Civil Engineering",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en120",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2808",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Bachelor of Science in Civil Engineering",
+        "programURL": "https://www.unb.ca/academics/programs/engineering/civil-f.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6937",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Civil Engineering",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/civil-engineering.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28340",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Civil Engineering (Environmental Option)",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/civil-engineering.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1069",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Civil Engineering Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en121",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "24140",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Civil Engineering Environmental Engineering",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en130",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26956",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Civil Engineering Environmental Engineering Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en131",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "987",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Computer Engineering",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en140",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6936",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Computer Engineering",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/electrical-engineering.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38275",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Computer Engineering Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en141",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38379",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Computer Engineering Nanoscale System Design Option",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en840",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1113",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Computer Engineering Software Option Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en241",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6933",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Electrical Engineering",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/electrical-engineering.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1188",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Electrical Engineering",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en150",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1002",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Electrical Engineering Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en151",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26957",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Electrical Engineering Nanoengineering Option Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en851",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2807",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Bachelor of Science in Electrical and Computer Engineering",
+        "programURL": "https://www.unb.ca/academics/programs/engineering/electrical.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "922",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Engineering",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en010",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41518",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Engineering",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/engineering.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41222",
+        "provinceName": "Nova Scotia",
+        "cityName": "Antigonish",
+        "programName": "Bachelor of Science in Engineering",
+        "programURL": "https://www.stfx.ca/academics/science/engineering",
+        "schoolName": "St. Francis Xavier University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "36932",
+        "provinceName": "Alberta",
+        "cityName": "Lethbridge",
+        "programName": "Bachelor of Science in Engineering - U of A - Pre-professional Transfer",
+        "programURL": "http://www.uleth.ca/artsci/pre-professional-transfer-program-engineering",
+        "schoolName": "University of Lethbridge",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1195",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Engineering Physics",
+        "programURL": "http://ece.engineering.ualberta.ca/Undergraduate/EngineeringPhysics.aspx",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "24139",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Engineering Physics Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en161",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26958",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Engineering Physics Nanoengineering Option",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en260",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26959",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Engineering Physics Nanoengineering Option Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en261",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "17737",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Bachelor of Science in Engineering and Applied Science",
+        "programURL": "https://www2.acadiau.ca/prg_ug_apsc.html",
+        "schoolName": "Acadia University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2809",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Bachelor of Science in Geodesy and Geomatics Engineering",
+        "programURL": "https://www.unb.ca/academics/programs/engineering/gge.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2901",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Bachelor of Science in Geological Engineering",
+        "programURL": "https://www.unb.ca/academics/programs/engineering/geological.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1193",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Materials Engineering",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en170",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "923",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Materials Engineering Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en171",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "905",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Mechanical Engineering",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en180",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2902",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Bachelor of Science in Mechanical Engineering",
+        "programURL": "https://www.unb.ca/academics/programs/engineering/mechanical-f.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6935",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Mechanical Engineering",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/mechanical-engineering.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28341",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Mechanical Engineering (Aerospace Option)",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/mechanical-engineering.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "6939",
+        "provinceName": "Manitoba",
+        "cityName": "Winnipeg",
+        "programName": "Bachelor of Science in Mechanical Engineering (Manufacturing Option)",
+        "programURL": "http://umanitoba.ca/student/admissions/programs/mechanical-engineering.html",
+        "schoolName": "University of Manitoba",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "960",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Mechanical Engineering Biomedical Option Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en281",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1187",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Mechanical Engineering Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en181",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1196",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Mining Engineering",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en190",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1000",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Mining Engineering Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en191",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "1191",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Petroleum Engineering",
+        "programURL": "http://apps.admissions.ualberta.ca/programs/en/en200",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "861",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Petroleum Engineering Co-operative",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en201",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30778",
+        "provinceName": "New Brunswick",
+        "cityName": "Fredericton",
+        "programName": "Bachelor of Science in Software Engineering",
+        "programURL": "https://www.unb.ca/academics/programs/software-engineering/software_eng.html",
+        "schoolName": "University of New Brunswick",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41373",
+        "provinceName": "Prince Edward Island",
+        "cityName": "Charlottetown",
+        "programName": "Bachelor of Science in Sustainable Design Engineering",
+        "programURL": "http://www.upei.ca/programsandcourses/engineering",
+        "schoolName": "University of Prince Edward Island",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "12752",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Bachelor of Technology in Manufacturing",
+        "programURL": "https://www.bcit.ca/study/programs/8600btech",
+        "schoolName": "British Columbia Institute of Technology (BCIT)",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "33874",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Bachelor of Undeclared Engineering (First Year Studies Only)",
+        "programURL": "https://www.ryerson.ca/programs/undergraduate/undeclared-engineering/",
+        "schoolName": "Ryerson University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30943",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Biomedical Physiology Major (Bachelor of Science)",
+        "programURL": "http://www.sfu.ca/engineering/prospective-students/undergraduate-students/programs/biomedical-engineering.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38559",
+        "provinceName": "British Columbia",
+        "cityName": "Kelowna",
+        "programName": "Bridging Program into the BBA - Technology and CIS Bridge",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/calendar/calendar.aspx?page=BridgingProgramintotheBBATechnologyandCISBridge",
+        "schoolName": "Okanagan College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38559",
+        "provinceName": "British Columbia",
+        "cityName": "Penticton",
+        "programName": "Bridging Program into the BBA - Technology and CIS Bridge",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/calendar/calendar.aspx?page=BridgingProgramintotheBBATechnologyandCISBridge",
+        "schoolName": "Okanagan College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38559",
+        "provinceName": "British Columbia",
+        "cityName": "Salmon Arm",
+        "programName": "Bridging Program into the BBA - Technology and CIS Bridge",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/calendar/calendar.aspx?page=BridgingProgramintotheBBATechnologyandCISBridge",
+        "schoolName": "Okanagan College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "38559",
+        "provinceName": "British Columbia",
+        "cityName": "Vernon",
+        "programName": "Bridging Program into the BBA - Technology and CIS Bridge",
+        "programURL": "http://webapps-5.okanagan.bc.ca/ok/calendar/calendar.aspx?page=BridgingProgramintotheBBATechnologyandCISBridge",
+        "schoolName": "Okanagan College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34702",
+        "provinceName": "Nova Scotia",
+        "cityName": "Wolfville",
+        "programName": "Certificate of Applied Science",
+        "programURL": "https://engineering.acadiau.ca/cas.html",
+        "schoolName": "Acadia University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "788",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Chemical Engineering",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/chemical-engineering",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2307",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Chemical Engineering (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18424&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8765",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Chemical Engineering (BEng)",
+        "programURL": "https://www.dal.ca/academics/programs/undergraduate/engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35337",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Chemical Engineering and Bioengineering (B.Eng.Biosci.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18428&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40302",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Chemical Engineering and Bioengineering Co-Op (B.Eng.Biosci.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18428&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2306",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Chemical Engineering and Management (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18426&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40304",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Chemical Engineering and Management Co-Op (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18426&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2305",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Chemical Engineering and Society (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18427&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40324",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Chemical Engineering and Society Co-Op (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18427&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41367",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Chemical Engineering in Biochemical and Environmental Engineering",
+        "programURL": "http://www.eng.uwo.ca/undergraduate/programs/chemical.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40500",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Chemical and Biomedical Engineering (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18734&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2295",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Chemical and Biomedical Engineering Co-Op (B.Eng.BME)",
+        "programURL": "",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "792",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Civil Engineering",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/civil-engineering",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2304",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Civil Engineering (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18429&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26508",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Civil Engineering (BEng)",
+        "programURL": "https://www.dal.ca/academics/programs/undergraduate/engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41571",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Civil Engineering (optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/graduate-studies/312/civil-engineering",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40197",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Civil Engineering Co-Op (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18429&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2303",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Civil Engineering and Management (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18430&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40307",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Civil Engineering and Management Co-Op (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18430&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2302",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Civil Engineering and Society (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18431&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40326",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Civil Engineering and Society Co-Op (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18431&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41368",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Civil Engineering in Environmental Engineering",
+        "programURL": "http://www.eng.uwo.ca/undergraduate/programs/civil.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "22006",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Civil Engineering in International Development with Environmental Engineering",
+        "programURL": "https://www.eng.uwo.ca/undergraduate/programs/civil.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41414",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Civil Engineering in International Development with Structural Engineering",
+        "programURL": "http://www.eng.uwo.ca/undergraduate/programs/civil.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11171",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Civil Engineering in Structural Engineering",
+        "programURL": "http://www.eng.uwo.ca/undergraduate/programs/civil.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35363",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Civil and Biomedical Engineering (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18735&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23359",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Computer Engineering",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/computer-engineering",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2298",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computer Engineering (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18432&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40198",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computer Engineering Co-Op (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18432&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2300",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computer Engineering and Management (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18433&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40309",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computer Engineering and Management Co-Op (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18433&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2299",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computer Engineering and Society (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18434&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40337",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Computer Engineering and Society Co-Op (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18434&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41415",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Computer Engineering in Electronic Devices for Ubiquitous Computing",
+        "programURL": "https://www.eng.uwo.ca/undergraduate/programs/computer.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41416",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Computer Engineering in Software Systems for Ubiquitous Computing",
+        "programURL": "https://www.eng.uwo.ca/undergraduate/programs/computer.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "26507",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Diploma in Engineering",
+        "programURL": "https://www.dal.ca/faculty/engineering/u-s-o/current-students/dip-eng.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27663",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Diploma of Technology in Marine Engineering",
+        "programURL": "https://www.mi.mun.ca/programsandcourses/programs/marineengineering/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27662",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Diploma of Technology in Marine Engineering Systems Design",
+        "programURL": "https://www.mi.mun.ca/programsandcourses/programs/marineengineeringsystemsdesign/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27664",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Diploma of Technology in Naval Architecture",
+        "programURL": "https://www.mi.mun.ca/programsandcourses/programs/navalarchitecture/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "795",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Electrical Engineering",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/electrical-engineering",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2311",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Electrical Engineering (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18436&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30726",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Electrical Engineering (with optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/357/electrical-engineering-optional-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40278",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Electrical Engineering Co-Op (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18436&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2316",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Electrical Engineering and Management (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18437&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40311",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Electrical Engineering and Management Co-Op (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18437&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2312",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Electrical Engineering and Society (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18438&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40344",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Electrical Engineering and Society Co-Op (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18438&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41363",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Electrical Engineering in Biomedical Signals and Systems",
+        "programURL": "https://www.eng.uwo.ca/undergraduate/programs/electrical.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41362",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Electrical Engineering in Power Systems Engineering",
+        "programURL": "https://www.eng.uwo.ca/undergraduate/programs/electrical.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11172",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Electrical Engineering in Wireless Communication",
+        "programURL": "https://www.eng.uwo.ca/undergraduate/programs/electrical.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35339",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Electrical and Biomedical Engineering (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18435&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21307",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Electrical and Biomedical Engineering (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18738&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40200",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Electrical and Biomedical Engineering Co-Op (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18435&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "24087",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Electrical and Biomedical Engineering Co-Op (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18738&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8764",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Electrical and Computer Engineering (BEng)",
+        "programURL": "https://www.dal.ca/academics/programs/undergraduate/engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8785",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Engineering (BEng)",
+        "programURL": "https://www.dal.ca/academics/programs/undergraduate/engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "794",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Engineering Business",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/engineering-business",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "12941",
+        "provinceName": "British Columbia",
+        "cityName": "North Vancouver",
+        "programName": "Engineering Certificate",
+        "programURL": "https://www.capilanou.ca/programs--courses/program-profiles/engineering-certificate/",
+        "schoolName": "Capilano University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13212",
+        "provinceName": "British Columbia",
+        "cityName": "Richmond",
+        "programName": "Engineering First-Year: Certificate",
+        "programURL": "http://www.kpu.ca/calendar/2018-19/science-hort/engineering/engineering-cert.html",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13212",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Engineering First-Year: Certificate",
+        "programURL": "http://www.kpu.ca/calendar/2018-19/science-hort/engineering/engineering-cert.html",
+        "schoolName": "Kwantlen Polytechnic University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40195",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Engineering I/Engineering I Co-Op",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18693&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28080",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Engineering Leadership and Innovation Certificate",
+        "programURL": "https://www.eng.uwo.ca/undergraduate/leadership-innovation/certificate.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2310",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Engineering Physics (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18439&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40285",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Engineering Physics Co-Op (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18439&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "28917",
+        "provinceName": "British Columbia",
+        "cityName": "Chilliwack",
+        "programName": "Engineering Physics Diploma in Mechatronics",
+        "programURL": "https://www.ufv.ca/calendar/current/ProgramsC-E/ENGR_PHYS.htm",
+        "schoolName": "University of the Fraser Valley",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "24088",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Engineering Physics and Biomedical Engineering (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18739&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "24089",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Engineering Physics and Biomedical Engineering Co-Op (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18739&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2315",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Engineering Physics and Management (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18440&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40313",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Engineering Physics and Management Co-Op (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18440&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2318",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Engineering Physics and Society (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18441&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "37172",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Engineering Science Second Degree (Bachelor of Applied Science)",
+        "programURL": "http://www.sfu.ca/students/calendar/2018/summer/programs/engineering-science-second-degree/bachelor-of-applied-science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11173",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Engineering Science in Mechanical Engineering",
+        "programURL": "https://www.eng.uwo.ca/undergraduate/programs/mechanical.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "22030",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Engineering Science in Software Engineering in Embedded Systems",
+        "programURL": "https://www.eng.uwo.ca/undergraduate/programs/software.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "30941",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Engineering Science, Biomedical Engineering Option Honours (Bachelor of Applied Science)",
+        "programURL": "http://www.sfu.ca/students/calendar/2018/summer/programs/engineering-science-biomedical-engineering-option/honours/bachelor-of-applied-science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "4167",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Engineering Science, Computer Engineering Option Major (Bachelor of Applied Science)",
+        "programURL": "http://www.sfu.ca/students/futurestudents/programs/a-z/c/computer-engineering.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21144",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Engineering Science, Electronics Engineering Option Major (Bachelor of Applied Science)",
+        "programURL": "http://www.sfu.ca/students/futurestudents/programs/a-z/e/electronics-engineering.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21145",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Engineering Science, Engineering Physics Option Honours (Bachelor of Applied Science)",
+        "programURL": "http://www.sfu.ca/students/futurestudents/programs/a-z/e/engineering-physics.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21146",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Engineering Science, Systems Option Major (Bachelor of Applied Science)",
+        "programURL": "http://www.sfu.ca/students/calendar/2018/summer/programs/engineering-science-systems-option/major/bachelor-of-applied-science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "13041",
+        "provinceName": "British Columbia",
+        "cityName": "Kamloops",
+        "programName": "Engineering Transfer",
+        "programURL": "http://www.tru.ca/science/programs/engineering.html",
+        "schoolName": "Thompson Rivers University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "39343",
+        "provinceName": "British Columbia",
+        "cityName": "North Vancouver",
+        "programName": "Engineering Transition Diploma",
+        "programURL": "https://www.capilanou.ca/programs--courses/program-profiles/engineering-transition-diploma/",
+        "schoolName": "Capilano University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46425",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Engineering, Bachelor of Applied Science / Master of Business Administration",
+        "programURL": "https://sgs.calendar.utoronto.ca/combined/STG-Eng-BASc~MBA",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "293",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Environmental Engineering",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/environmental-engineering",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "51530",
+        "provinceName": "Nova Scotia",
+        "cityName": "Truro",
+        "programName": "Environmental Engineering (BEng)",
+        "programURL": "https://www.dal.ca/academics/programs/undergraduate/engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11467",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Environmental Engineering (with optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/363/environmental-engineering-optional-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "27906",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "General Chemical Engineering",
+        "programURL": "https://www.eng.uwo.ca/undergraduate/programs/chemical.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8762",
+        "provinceName": "Nova Scotia",
+        "cityName": "Truro",
+        "programName": "Industrial Engineering (BEng)",
+        "programURL": "https://www.dal.ca/academics/programs/undergraduate/engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41418",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Industrial Engineering (with optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/376/industrial-engineering-optional-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11465",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Industrial Engineering with a Minor in Business Administration (with optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/377/industrial-engineering-minor-business-administration-optional-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21326",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Integrated Biomedical Engineering and Health Sciences (IBEHS) I (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18744&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "23654",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Integrated Biomedical Engineering and Health Sciences (IBEHS) I Co-op (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18744&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11167",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Integrated Engineering",
+        "programURL": "https://www.eng.uwo.ca/undergraduate/programs/Integrated.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "42568",
+        "provinceName": "British Columbia",
+        "cityName": "Vancouver",
+        "programName": "Joint UNBC/UBC Program - Environmental Engineering",
+        "programURL": "http://www.enve.ubc.ca/prospective-students/",
+        "schoolName": "University of British Columbia",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "793",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Materials Engineering",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/materials-engineering",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2308",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Materials Engineering (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18442&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "31044",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Materials Engineering (BEng)",
+        "programURL": "https://www.dal.ca/academics/programs/undergraduate/engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40286",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Materials Engineering Co-Op (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18442&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2313",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Materials Engineering and Management (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18688&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40314",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Materials Engineering and Management Co-Op (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18688&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2314",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Materials Engineering and Society (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18443&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40354",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Materials Engineering and Society Co-Op (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18443&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "200",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Materials Science",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/materials-science",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "24090",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Materials and Biomedical Engineering (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18740&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "32977",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Materials and Biomedical Engineering Co-Op (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18740&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "789",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Mechanical Engineering",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/mechanical-engineering",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2309",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechanical Engineering (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18444&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8767",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Mechanical Engineering (BEng)",
+        "programURL": "https://www.dal.ca/academics/programs/undergraduate/engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41535",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Mechanical Engineering (with optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/391/mechanical-engineering-optional-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40288",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechanical Engineering Co-Op (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18444&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2319",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechanical Engineering and Management (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18445&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40315",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechanical Engineering and Management Co-op (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18445&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2297",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechanical Engineering and Society (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18446&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40357",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechanical Engineering and Society Co-Op (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18446&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41536",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Mechanical Engineering with a Materials Option (with optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/392/mechanical-engineering-materials-option-optional-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41537",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Mechanical Engineering with an Aerospace Option (with optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/325/mechanical-engineering-aerospace-option-optional-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "11460",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Mechanical Engineering with an Automotive Engineering Option (with optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/327/mechanical-engineering-automotive-engineering-option-optional-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41539",
+        "provinceName": "Ontario",
+        "cityName": "Windsor",
+        "programName": "Mechanical Engineering with an Environmental Engineering Option (with optional Co-op)",
+        "programURL": "http://www.uwindsor.ca/studentrecruitment/393/mechanical-engineering-environmental-engineering-option-optional-co-op",
+        "schoolName": "University of Windsor",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "24092",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechanical and Biomedical Engineering (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18741&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "32979",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechanical and Biomedical Engineering Co-Op (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18741&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21191",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Mechatronic Systems Engineering Major (Bachelor of Applied Science)",
+        "programURL": "http://www.sfu.ca/students/calendar/2018/summer/programs/mechatronic-systems-engineering/major/bachelor-of-applied-science.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35340",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechatronics Engineering (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18447&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40290",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechatronics Engineering Co-Op (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18447&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35341",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechatronics Engineering and Management (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18448&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40316",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechatronics Engineering and Management Co-Op (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18448&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40360",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechatronics Engineering and Society (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18449&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40361",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechatronics Engineering and Society Co-Op (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18449&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2180",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechatronics and Biomedical Engineering (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18736&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "2239",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Mechatronics and Biomedical Engineering Co-Op (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18736&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "722",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Mineral Engineering",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/mineral-engineering",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21345",
+        "provinceName": "Nova Scotia",
+        "cityName": "Halifax",
+        "programName": "Mineral Resource Engineering (BEng)",
+        "programURL": "http://www.dal.ca/academics/programs/undergraduate/engineering.html",
+        "schoolName": "Dalhousie University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "46409",
+        "provinceName": "Ontario",
+        "cityName": "Toronto",
+        "programName": "Nanoengineering",
+        "programURL": "http://www.future.utoronto.ca/undergraduate-programs/nanoengineering",
+        "schoolName": "University of Toronto",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21293",
+        "provinceName": "British Columbia",
+        "cityName": "Burnaby",
+        "programName": "Operations Research Major (Bachelor of Science)",
+        "programURL": "http://www.sfu.ca/students/futurestudents/programs/a-z/o/operations-research.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41648",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Postgraduate Diploma in Biomedical Engineering",
+        "programURL": "https://grad.usask.ca/programs/biomedical-engineering.php#Program",
+        "schoolName": "University of Saskatchewan",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41372",
+        "provinceName": "British Columbia",
+        "cityName": "Nanaimo",
+        "programName": "Power Engineering/Process Operator - 4th Class Certificate",
+        "programURL": "https://calendar.viu.ca/trades/power-engineering/process-operator-4th-class",
+        "schoolName": "Vancouver Island University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "8984",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Practical Elements of Mechanical Engineering Certificate",
+        "programURL": "https://www.eng.uwo.ca/mechanical/undergraduate/peme/index.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "34927",
+        "provinceName": "British Columbia",
+        "cityName": "Langley",
+        "programName": "Pre-Engineering (Transfer Program)",
+        "programURL": "https://www.twu.ca/academics/faculty-natural-applied-sciences/pre-engineering",
+        "schoolName": "Trinity Western University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40652",
+        "provinceName": "Saskatchewan",
+        "cityName": "Buffalo Narrows",
+        "programName": "Pre-Engineering and Science (PRES)",
+        "programURL": "https://trainnorth.ca/pre-engineering-and-science-pres/",
+        "schoolName": "Northlands College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40652",
+        "provinceName": "Saskatchewan",
+        "cityName": "Creighton",
+        "programName": "Pre-Engineering and Science (PRES)",
+        "programURL": "https://trainnorth.ca/pre-engineering-and-science-pres/",
+        "schoolName": "Northlands College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40652",
+        "provinceName": "Saskatchewan",
+        "cityName": "La Ronge",
+        "programName": "Pre-Engineering and Science (PRES)",
+        "programURL": "https://trainnorth.ca/pre-engineering-and-science-pres/",
+        "schoolName": "Northlands College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21303",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Software Engineering (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18450&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40293",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Software Engineering - Embedded Systems (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18452&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40295",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Software Engineering - Game Design (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18453&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40299",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Software Engineering Co-Op - Embedded Systems (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18452&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40300",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Software Engineering Co-Op - Game Design (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18453&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40296",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Software Engineering Co-op (B.Eng.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18450&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21304",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Software Engineering and Management (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18451&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40320",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Software Engineering and Management Co-Op (B.Eng.Mgt.)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18451&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21305",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Software Engineering and Society (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18454&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "40364",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Software Engineering and Society Co-op (B.Eng.Society)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18454&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "41431",
+        "provinceName": "Ontario",
+        "cityName": "London",
+        "programName": "Software Engineering in Health Informatics",
+        "programURL": "https://www.eng.uwo.ca/undergraduate/programs/software.html",
+        "schoolName": "University of Western Ontario",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "21140",
+        "provinceName": "British Columbia",
+        "cityName": "Surrey",
+        "programName": "Software Systems Major (Bachelor of Science)",
+        "programURL": "http://www.sfu.ca/students/futurestudents/programs/a-z/s/software-systems.html",
+        "schoolName": "Simon Fraser University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35362",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Software and Biomedical Engineering (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18737&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    },
+    {
+        "programId": "35366",
+        "provinceName": "Ontario",
+        "cityName": "Hamilton",
+        "programName": "Software and Biomedical Engineering Co-Op (B.Eng.BME)",
+        "programURL": "https://academiccalendars.romcmaster.ca/preview_program.php?catoid=32&poid=18737&returnto=6690",
+        "schoolName": "McMaster University",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "University"
+    }
+]

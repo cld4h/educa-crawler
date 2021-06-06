@@ -1,4 +1,6 @@
 import requests
+import json
+import os
 from bs4 import BeautifulSoup
 
 SearchPageURL = "https://w05.educanada.ca/index.aspx?action=programsearch-rechercheprogramme&lang=eng"
@@ -85,11 +87,44 @@ class crawler:
     def __init__(self, EducationLevel, programCategory, continuefrom=0):
         self.EducationLevel = EducationLevel
         self.programCategory = programCategory
-        self.CSV = open(ProgCatedict[programCategory]+"-"+EducationLevel+".csv","a")
         self.continuefrom = continuefrom
+        self.data = []
+
+        if not os.path.isdir(ProgCatedict[programCategory]):
+            os.mkdir(ProgCatedict[programCategory])
+        else:
+            pass
+
+        self.CSV = open(os.path.join(ProgCatedict[programCategory],EducationLevel+".csv"),"a")
+        if continuefrom:
+            self.JSON = open(os.path.join(ProgCatedict[programCategory],EducationLevel+".json"),"r")
+            self.data = json.load(self.JSON)
+            self.JSON.close()
+            self.JSON = open(os.path.join(ProgCatedict[programCategory],EducationLevel+".json"),"w")
+        else:
+            self.JSON = open(os.path.join(ProgCatedict[programCategory],EducationLevel+".json"),"w")
+
 
     def __del__(self):
         self.CSV.close()
+        self.JSON.close()
+
+    def output(self, programId, provinceName, cityName, programName, programURL, schoolName):
+        dataentry = {
+                "programId": programId,
+                "provinceName": provinceName,
+                "cityName": cityName,
+                "programName": programName,
+                "programURL": programURL,
+                "schoolName": schoolName,
+                "programCategory": ProgCatedict[self.programCategory],
+                "EducationLevel": EduLevdescription[self.EducationLevel]
+        }
+        self.data.append(dataentry)
+        self.CSV.write(programId+','+provinceName+','+cityName+',\"'+programName+'\",\"'+programURL+'\",\"'+schoolName+'\",\"'+ProgCatedict[self.programCategory]+'\",'+EduLevdescription[self.EducationLevel]+'\n')
+
+    def savedata(self):
+        json.dump(self.data,self.JSON,indent=4)
 
     def getdata(self,fieldset):
         proglist = fieldset.find_all("li","span-8")
@@ -101,7 +136,7 @@ class crawler:
             schoolName = programtl[0]
             cityName = programtl[1].lstrip()
             provinceName = programtl[2].lstrip()
-            self.CSV.write(programId+','+provinceName+','+cityName+','+programName+','+programURL+','+schoolName+','+ProgCatedict[self.programCategory]+','+EduLevdescription[self.EducationLevel]+'\n')
+            self.output(programId,provinceName,cityName,programName,programURL,schoolName)
 
     def crawling(self):
         try:
@@ -176,12 +211,13 @@ class crawler:
 
 if __name__ == "__main__":
     Edu = [
-            "Uni"
+            "Doc"
             ]
     Cat = [
             "14"
             ]
     for cat in Cat:
         for edu in Edu:
-            c = crawler(edu,cat,23)
+            c = crawler(edu,cat)
             c.crawling()
+            c.savedata()

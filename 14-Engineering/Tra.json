@@ -1,0 +1,72 @@
+[
+    {
+        "programId": "1024",
+        "provinceName": "Alberta",
+        "cityName": "Edmonton",
+        "programName": "Bachelor of Science in Electrical Engineering Nanoengineering Option",
+        "programURL": "https://apps.admissions.ualberta.ca/programs/en/en850",
+        "schoolName": "University of Alberta",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "31100",
+        "provinceName": "Saskatchewan",
+        "cityName": "Kindersley",
+        "programName": "Petroleum Safety Training (PST) (online)",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/safety-training-courses/safety-training/petroleum-safety-training-pst-energy",
+        "schoolName": "Great Plains College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "31100",
+        "provinceName": "Saskatchewan",
+        "cityName": "Swift Current",
+        "programName": "Petroleum Safety Training (PST) (online)",
+        "programURL": "https://www.greatplainscollege.ca/programs-courses/safety-training-courses/safety-training/petroleum-safety-training-pst-energy",
+        "schoolName": "Great Plains College",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50723",
+        "provinceName": "Saskatchewan",
+        "cityName": "Meadow Lake",
+        "programName": "Power Engineering - 3rd Class",
+        "programURL": "http://siit.ca/programs/power-engineering/",
+        "schoolName": "Saskatchewan Indian Institute of Technologies",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50723",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Power Engineering - 3rd Class",
+        "programURL": "http://siit.ca/programs/power-engineering/",
+        "schoolName": "Saskatchewan Indian Institute of Technologies",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "19536",
+        "provinceName": "Saskatchewan",
+        "cityName": "Saskatoon",
+        "programName": "Power Engineering - 4th Class",
+        "programURL": "http://siit.ca/programs/power-engineering/",
+        "schoolName": "Saskatchewan Indian Institute of Technologies",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "Training"
+    },
+    {
+        "programId": "50172",
+        "provinceName": "Newfoundland and Labrador",
+        "cityName": "St. John's",
+        "programName": "Technical Certificate in Marine Diesel Mechanics",
+        "programURL": "https://www.mi.mun.ca/programsandcourses/programs/marinedieselmechanics/",
+        "schoolName": "Memorial University of Newfoundland",
+        "programCategory": "14-Engineering",
+        "EducationLevel": "Training"
+    }
+]
